@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-04T09:30:00Z",
+  "updated": "2026-10-04T11:30:00Z",
   "items": [
+    {
+      "date": "2026-10-04",
+      "cat": "tigray",
+      "issuer": "TPLF",
+      "role": "Statement posted on Facebook",
+      "logo": "",
+      "initials": "TPLF",
+      "title": "TPLF says it has left Mekelle and the regional government will operate elsewhere",
+      "quote": "temporarily moved out of Mekelle and operate from somewhere else",
+      "points": [
+        "Said it had retreated from Mekelle, the Tigray capital.",
+        "Said the regional government would operate from another location.",
+        "Ethiopian government and allied forces have said they control the city; this is as reported by TRT World."
+      ],
+      "url": "https://www.trtworld.com/article/3efcc811f992"
+    },
     {
       "date": "2026-10-04",
       "cat": "foreign",
