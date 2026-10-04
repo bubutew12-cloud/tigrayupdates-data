@@ -1,877 +1,893 @@
 {
-    "updated":  "2026-10-03T18:00:00Z",
-    "items":  [
-                  {
-                      "date":  "2026-10-02",
-                      "cat":  "rights",
-                      "issuer":  "Amnesty International",
-                      "role":  "Tigere Chagutah, Regional Director for East and Southern Africa",
-                      "logo":  "amnesty.org",
-                      "initials":  "AI",
-                      "title":  "African Union must convene an emergency session on Ethiopia as the conflict expands",
-                      "quote":  "The AU, which was one of the guarantors of the ceasefire agreement that has now effectively collapsed, must learn from past mistakes",
-                      "points":  [
-                                     "Called on the African Union Peace and Security Council to hold an emergency session on the renewed war in Tigray, Afar and Amhara.",
-                                     "Raised alarm over reports of intensified aerial attacks across Tigray and damage to civilian infrastructure, including schools.",
-                                     "Warned that communication blackouts have often hidden atrocities and cut civilians off from the outside world."
-                                 ],
-                      "url":  "https://www.amnesty.org/en/latest/news/2026/10/ethiopia-african-union-must-convene-emergency-session-on-ethiopia-as-new-conflict-expands/"
-                  },
-                  {
-                      "date":  "2026-10-01",
-                      "cat":  "foreign",
-                      "issuer":  "Eritrea",
-                      "role":  "Government of Eritrea",
-                      "logo":  "shabait.com",
-                      "initials":  "ER",
-                      "title":  "Eritrea severs diplomatic ties with Ethiopia",
-                      "points":  [
-                                     "Said Ethiopia\u0027s expulsion of its diplomats left it no choice but to respond in kind.",
-                                     "Announced it was cutting diplomatic relations with Ethiopia.",
-                                     "Has repeatedly denied supporting the armed alliance fighting Ethiopia\u0027s government."
-                                 ],
-                      "url":  "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move"
-                  },
-                  {
-                      "date":  "2026-10-01",
-                      "cat":  "fed",
-                      "issuer":  "Ethiopian Ministry of Foreign Affairs",
-                      "role":  "Federal government",
-                      "logo":  "mfa.gov.et",
-                      "initials":  "FDRE",
-                      "title":  "Ethiopia closes its embassy in Asmara and expels 10 Eritrean diplomats",
-                      "quote":  "direct and indirect acts of hostility and belligerence against Ethiopia",
-                      "points":  [
-                                     "Accused Eritrea of hostile acts against Ethiopia.",
-                                     "Ordered 10 Eritrean diplomats to leave within 48 hours and announced the closure of its embassy in Asmara.",
-                                     "Eritrea has denied involvement."
-                                 ],
-                      "url":  "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north"
-                  },
-                  {
-                      "date":  "2026-09-30",
-                      "cat":  "foreign",
-                      "issuer":  "United Arab Emirates",
-                      "role":  "Sheikh Shakhboot bin Nahyan Al Nahyan, Minister of State",
-                      "logo":  "mofa.gov.ae",
-                      "initials":  "AE",
-                      "title":  "UAE declares solidarity with Ethiopia\u0027s government",
-                      "quote":  "full solidarity with the government and people",
-                      "points":  [
-                                     "Said the UAE stands with the government and people of Ethiopia.",
-                                     "Rejected attempts to change Ethiopia\u0027s constitutional order by force."
-                                 ],
-                      "url":  "https://www.euronews.com/2026/09/30/qatar-and-uae-back-ethiopian-government-as-fighting-spreads-beyond-tigray"
-                  },
-                  {
-                      "date":  "2026-09-30",
-                      "cat":  "foreign",
-                      "issuer":  "Qatar",
-                      "role":  "Ministry of Foreign Affairs",
-                      "logo":  "mofa.gov.qa",
-                      "initials":  "QA",
-                      "title":  "Qatar calls for an end to the fighting and respect for the Pretoria Agreement",
-                      "quote":  "an immediate end to the fighting, protection for civilians and respect for the Pretoria Peace Agreement",
-                      "points":  [
-                                     "Condemned what it described as military escalation against Ethiopian federal forces.",
-                                     "Called for civilians to be protected."
-                                 ],
-                      "url":  "https://www.euronews.com/2026/09/30/qatar-and-uae-back-ethiopian-government-as-fighting-spreads-beyond-tigray"
-                  },
-                  {
-                      "date":  "2026-09-29",
-                      "cat":  "rights",
-                      "issuer":  "Refugees International",
-                      "role":  "Abdullahi Boru Halakhe, Senior Advocate for East and Southern Africa",
-                      "logo":  "refugeesinternational.org",
-                      "initials":  "RI",
-                      "title":  "Tigray: immediate action needed to reverse the course of war",
-                      "quote":  "Ethiopia is sliding into a regional war.",
-                      "points":  [
-                                     "Warned that drone strikes have damaged humanitarian aid convoys.",
-                                     "Reported that more than 95% of displaced households face moderate to severe food insecurity.",
-                                     "Called for an immediate ceasefire and a return to negotiations under the Pretoria Agreement."
-                                 ],
-                      "url":  "https://www.refugeesinternational.org/statements-and-news/tigray-immediate-action-needed-to-reverse-the-course-of-war/"
-                  },
-                  {
-                      "date":  "2026-09-28",
-                      "cat":  "rights",
-                      "issuer":  "Médecins Sans Frontières (MSF)",
-                      "role":  "Doctors Without Borders",
-                      "logo":  "msf.org",
-                      "initials":  "MSF",
-                      "title":  "Hospitals see a surge in war-wounded patients as fighting resumes",
-                      "points":  [
-                                     "War-wounded patients at Korem and Alamata hospitals rose from about 180 to more than 420 within 48 hours (22–25 September).",
-                                     "More than 300 war-wounded patients reached Suhul Hospital in Shire by 25 September.",
-                                     "Suspended work at Alamata Hospital and moved staff to hospitals seeing the sharpest rise in wounded."
-                                 ],
-                      "url":  "https://www.doctorswithoutborders.org/latest/ethiopia-hospitals-see-surge-war-wounded-patients-fighting-resumes"
-                  },
-                  {
-                      "date":  "2026-09-28",
-                      "cat":  "intl",
-                      "issuer":  "European Commission",
-                      "role":  "EU humanitarian aid",
-                      "logo":  "ec.europa.eu",
-                      "initials":  "EU",
-                      "title":  "EU provides €61 million in humanitarian aid amid rapidly deteriorating situation in Ethiopia",
-                      "points":  [
-                                     "€61 million for people affected by conflict, displacement, disease and climate hazards across Ethiopia.",
-                                     "Funds food, nutrition, health care, clean water, shelter, protection and education in emergencies.",
-                                     "Calls for immediate de-escalation, protection of civilians and unimpeded humanitarian access."
-                                 ],
-                      "url":  "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-provides-eur61-million-humanitarian-aid-amidst-rapidly-deteriorating-situation-ethiopia-2026-09-28_en"
-                  },
-                  {
-                      "date":  "2026-09-27",
-                      "cat":  "fed",
-                      "issuer":  "Ethiopian National Defense Force",
-                      "role":  "Field Marshal Birhanu Jula, Chief of General Staff",
-                      "logo":  "",
-                      "initials":  "ENDF",
-                      "title":  "Army chief accuses Eritrea, Sudan and Egypt of backing the rebel alliance",
-                      "points":  [
-                                     "Accused Eritrea of mobilising financial support for the TPLF.",
-                                     "Accused Sudan and Egypt of backing the armed groups fighting federal troops.",
-                                     "Eritrea, Sudan and Egypt have all rejected the accusations."
-                                 ],
-                      "url":  "https://www.euronews.com/2026/09/27/ethiopias-army-chief-accuses-egypt-and-sudan-of-backing-armed-alliance-seeking-to-oust-abi"
-                  },
-                  {
-                      "date":  "2026-09-25",
-                      "cat":  "rights",
-                      "issuer":  "Human Rights Watch",
-                      "role":  "Laetitia Bader, Deputy Africa Director",
-                      "logo":  "hrw.org",
-                      "initials":  "HRW",
-                      "title":  "Indiscriminate airstrike on a residential compound in Mekelle",
-                      "quote":  "The resumption of hostilities in northern Ethiopia heightens concerns about unlawful attacks and the grave threat posed to civilians.",
-                      "points":  [
-                                     "Found that an apparent Ethiopian government airstrike on 20 August hit a residential compound for teachers and their families in Mekelle\u0027s Daero neighbourhood.",
-                                     "Thirteen civilians were wounded, including seven children. Residents saw no military presence at the compound.",
-                                     "Said the attack may be a war crime and called for those responsible to be investigated and prosecuted."
-                                 ],
-                      "url":  "https://hrw.org/news/2026/09/25/ethiopia-indiscriminate-airstrike-in-tigray"
-                  },
-                  {
-                      "date":  "2026-09-25",
-                      "cat":  "fed",
-                      "issuer":  "President of Ethiopia",
-                      "role":  "Taye Atske Selassie, at the UN General Assembly",
-                      "logo":  "",
-                      "initials":  "FDRE",
-                      "title":  "Ethiopia\u0027s president warns of foreign interference at the UN",
-                      "quote":  "We urge them to respect the sacred right of the people of the Horn of Africa to live in peace and prosperity.",
-                      "points":  [
-                                     "Blamed “external actors” for the renewed conflict, in remarks widely read as aimed at Egypt and Eritrea.",
-                                     "Spoke as fighting spread from Tigray into Afar and Amhara."
-                                 ],
-                      "url":  "https://www.africanews.com/2026/09/25/ethiopian-president-warns-of-interference-amid-renewed-tigray-fighting/"
-                  },
-                  {
-                      "date":  "2026-09-25",
-                      "cat":  "intl",
-                      "issuer":  "United Nations",
-                      "role":  "UN Spokesperson and UN High Commissioner for Human Rights",
-                      "logo":  "un.org",
-                      "initials":  "UN",
-                      "title":  "UN voices grave concern as fighting spreads across northern Ethiopia",
-                      "quote":  "exercise maximum restraint",
-                      "points":  [
-                                     "Raised concern over the use of drones and harm to civilians.",
-                                     "Volker Türk reported airstrikes hit five schools in Tigray on Sept 22, and a mortar strike killed civilians in Kobo, Amhara, on Sept 24.",
-                                     "A drone strike destroyed a truck carrying food aid in northwestern Tigray; road closures are disrupting aid."
-                                 ],
-                      "url":  "https://news.un.org/en/story/2026/09/1168450"
-                  },
-                  {
-                      "date":  "2026-09-24",
-                      "cat":  "foreign",
-                      "issuer":  "United Kingdom",
-                      "role":  "Foreign, Commonwealth \u0026 Development Office",
-                      "logo":  "gov.uk",
-                      "initials":  "UK",
-                      "title":  "UK statement on escalation in northern Ethiopia",
-                      "quote":  "Civilians must be protected, and those affected by the conflict must be able to access basic services and life-saving aid.",
-                      "points":  [
-                                     "Condemned attacks by the Tigray Defence Forces in Afar and southern Tigray, and the takeover of Tigray\u0027s airports.",
-                                     "Called on all parties to halt hostilities and support African Union mediation.",
-                                     "Called for safe, unhindered humanitarian access and protection of aid workers."
-                                 ],
-                      "url":  "https://www.gov.uk/government/news/uk-statement-on-escalation-in-northern-ethiopia-24-september"
-                  },
-                  {
-                      "date":  "2026-09-24",
-                      "cat":  "fed",
-                      "issuer":  "Ethiopian National Defense Force",
-                      "role":  "Statement on Facebook",
-                      "logo":  "",
-                      "initials":  "ENDF",
-                      "title":  "Army says its counter-offensive inflicted heavy losses in North Wollo",
-                      "points":  [
-                                     "Said government forces launched a counter-offensive after the TPLF and its allies attacked areas of North Wollo, Amhara.",
-                                     "Said 272 Tigrayan fighters were killed. This figure has not been independently verified."
-                                 ],
-                      "url":  "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates"
-                  },
-                  {
-                      "date":  "2026-09-24",
-                      "cat":  "rights",
-                      "issuer":  "Human Rights Watch",
-                      "role":  "Laetitia Bader, Deputy Africa Director",
-                      "logo":  "hrw.org",
-                      "initials":  "HRW",
-                      "title":  "Renewed Tigray fighting shows the need to protect civilians",
-                      "quote":  "The parties need to take all necessary measures to protect civilians and civilian infrastructure.",
-                      "points":  [
-                                     "Warned that the renewed fighting raises serious concerns for civilians, given past atrocities and the lack of accountability for them.",
-                                     "Urged international actors to act immediately to protect civilians and support strong monitoring."
-                                 ],
-                      "url":  "https://www.hrw.org/news/2026/09/24/ethiopia-renewed-tigray-fighting-shows-need-to-protect-civilians"
-                  },
-                  {
-                      "date":  "2026-09-23",
-                      "cat":  "foreign",
-                      "issuer":  "United States",
-                      "role":  "Ambassador Ervin J. Massinga, U.S. Embassy Addis Ababa",
-                      "logo":  "state.gov",
-                      "initials":  "US",
-                      "title":  "Statement on recent developments in Tigray and Afar",
-                      "quote":  "I still believe a reasonable political dialogue is the right way to go.",
-                      "points":  [
-                                     "Disappointed by the TPLF leadership\u0027s decision to launch a large-scale offensive.",
-                                     "Criticised the rejection of AU-sponsored dialogue led by President Obasanjo.",
-                                     "Said the U.S. has tools to impose further sanctions on those undermining Ethiopia\u0027s stability."
-                                 ],
-                      "url":  "https://et.usembassy.gov/statement-on-recent-developments-in-tigray-and-afar/"
-                  },
-                  {
-                      "date":  "2026-09-23",
-                      "cat":  "fed",
-                      "issuer":  "Ethiopian Federal Government",
-                      "role":  "Getachew Reda, adviser to Prime Minister Abiy Ahmed",
-                      "logo":  "",
-                      "initials":  "FDRE",
-                      "title":  "Government says the TPLF launched an “all-out offensive”",
-                      "points":  [
-                                     "Said the TPLF seized federally controlled airports in Tigray.",
-                                     "Said the TPLF launched an all-out offensive against government positions in Afar and Amhara."
-                                 ],
-                      "url":  "https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports"
-                  },
-                  {
-                      "date":  "2026-09-23",
-                      "cat":  "intl",
-                      "issuer":  "European Union",
-                      "role":  "EEAS Spokesperson",
-                      "logo":  "eeas.europa.eu",
-                      "initials":  "EU",
-                      "title":  "Statement by the Spokesperson on the situation in Northern Ethiopia",
-                      "quote":  "Immediate de-escalation is needed. It is not yet too late to decisively recommit to the Permanent Cessation of Hostilities Agreement.",
-                      "points":  [
-                                     "Deeply concerned by the takeover of the Mekelle, Axum and Shire airports by TPLF forces.",
-                                     "Concerned by several drone strikes carried out by the Ethiopian National Defence Force in recent weeks.",
-                                     "Strongly condemned strikes affecting humanitarian convoys and any denial of humanitarian access."
-                                 ],
-                      "url":  "https://www.eeas.europa.eu/eeas/ethiopia-statement-spokesperson-situation-northern-ethiopia_en"
-                  },
-                  {
-                      "date":  "2026-09-23",
-                      "cat":  "intl",
-                      "issuer":  "IGAD",
-                      "role":  "Intergovernmental Authority on Development",
-                      "logo":  "igad.int",
-                      "initials":  "IGAD",
-                      "title":  "IGAD calls for immediate de-escalation in northern Ethiopia",
-                      "quote":  "cease hostilities, exercise maximum restraint and refrain from any action that could further imperil civilian lives",
-                      "points":  [
-                                     "Concerned by renewed hostilities, the seizure of civilian airports and disrupted air travel.",
-                                     "Called the Pretoria Agreement the only legitimate framework for resolving disputes.",
-                                     "Urged direct dialogue and warned neighbouring countries against making tensions worse."
-                                 ],
-                      "url":  "https://igad.int/igad-calls-for-immediate-de-escalation-in-northern-ethiopia/"
-                  },
-                  {
-                      "date":  "2026-09-23",
-                      "cat":  "intl",
-                      "issuer":  "African Union Commission",
-                      "role":  "Chairperson Mahmoud Ali Youssouf",
-                      "logo":  "au.int",
-                      "initials":  "AU",
-                      "title":  "AUC Chairperson calls for utmost restraint and immediate de-escalation in northern Ethiopia",
-                      "quote":  "the cornerstone of sustainable peace, stability and reconciliation in Ethiopia",
-                      "points":  [
-                                     "Deeply concerned by the seizure of the Mekelle, Axum and Shire airports and the detention of federal personnel by the TPLF.",
-                                     "Said the 2022 Pretoria Agreement remains the foundation for peace (quoted above).",
-                                     "Asked AU High Representative Olusegun Obasanjo to re-engage the parties."
-                                 ],
-                      "url":  "https://au.int/en/pressreleases/20260923/chairperson-calls-restraint-and-immediate-de-escalation-northern-ethiopia"
-                  },
-                  {
-                      "date":  "2026-09-23",
-                      "cat":  "intl",
-                      "issuer":  "UN Secretary-General",
-                      "role":  "António Guterres",
-                      "logo":  "un.org",
-                      "initials":  "UN",
-                      "title":  "Secretary-General urges restraint as fighting intensifies in northern Ethiopia",
-                      "quote":  "exercise maximum restraint, immediately de-escalate tensions, protect civilians",
-                      "points":  [
-                                     "Gravely concerned by the seizure of the Mekelle, Axum and Shire airports and the spread of fighting.",
-                                     "Called for safe and unhindered humanitarian access.",
-                                     "Backed African Union mediation led by former Nigerian President Olusegun Obasanjo, under the Pretoria Agreement."
-                                 ],
-                      "url":  "https://press.un.org/en/2026/sgsm23299.doc.htm"
-                  },
-                  {
-                      "date":  "2026-09-23",
-                      "cat":  "tigray",
-                      "issuer":  "Government of Tigray",
-                      "role":  "National Regional Government of Tigray",
-                      "logo":  "",
-                      "initials":  "TG",
-                      "title":  "Tigray authorities say they have entered a “defensive war”",
-                      "points":  [
-                                     "Said the federal government launched an open invasion of Tigray with aircraft, drones and infantry on Sept 22–23.",
-                                     "Said Tigray\u0027s forces had been instructed to defend against the attack.",
-                                     "Called for unity among Tigray\u0027s army, people and allied forces."
-                                 ],
-                      "url":  "https://martinplaut.com/2026/09/23/tigray-authorities-ethiopian-government-has-invaded-us-we-are-fighting-back/"
-                  },
-                  {
-                      "date":  "2026-09-22",
-                      "cat":  "foreign",
-                      "issuer":  "United States",
-                      "role":  "State Department, Bureau of African Affairs",
-                      "logo":  "state.gov",
-                      "initials":  "US",
-                      "title":  "U.S. condemns drone strike on Catholic Relief Services convoy in Tigray",
-                      "points":  [
-                                     "Condemned the Sept 20 drone strike on a truck carrying about 41 tonnes of food for displaced families in Sheraro.",
-                                     "Urged authorities to conduct a full investigation and share the findings.",
-                                     "Called on the parties to engage in dialogue."
-                                 ],
-                      "url":  "https://allafrica.com/stories/202609230486.html"
-                  },
-                  {
-                      "date":  "2026-09-21",
-                      "cat":  "fed",
-                      "issuer":  "Ethiopian Federal Government",
-                      "role":  "Federal authorities, Addis Ababa",
-                      "logo":  "",
-                      "initials":  "FDRE",
-                      "title":  "Federal government suspends Tigrai TV indefinitely",
-                      "points":  [
-                                     "Suspended the regional broadcaster Tigrai TV indefinitely.",
-                                     "Barred other media outlets from broadcasting its reports.",
-                                     "Six days later, on Sept 27, a drone strike hit Tigrai TV\u0027s headquarters in Mekelle."
-                                 ],
-                      "url":  "https://www.france24.com/en/live-news/20260927-tigray-tv-station-hit-by-drone-rebels-advance-in-north-ethiopia"
-                  },
-                  {
-                      "date":  "2026-09-20",
-                      "cat":  "tigray",
-                      "issuer":  "TPLF and six allied groups",
-                      "role":  "Ethiopian Peoples\u0027 Forces Alliance for Survival",
-                      "logo":  "",
-                      "initials":  "TPLF",
-                      "title":  "Seven armed groups announce an alliance to remove Prime Minister Abiy",
-                      "points":  [
-                                     "The TPLF, the Oromo Liberation Army, the Amhara Fano National Movement, the ONLF and three other groups announced a joint alliance.",
-                                     "Said their aim is to remove Abiy Ahmed\u0027s government and replace it with an inclusive transitional government.",
-                                     "The announcement was read on Tigrai TV. Full-scale fighting began two days later."
-                                 ],
-                      "url":  "https://www.euronews.com/2026/09/21/former-enemies-form-alliance-to-overthrow-ethiopias-abiy-ahmed"
-                  },
-                  {
-                      "date":  "2026-09-09",
-                      "cat":  "rights",
-                      "issuer":  "Human Rights Watch",
-                      "role":  "Allan Ngari, Advocacy Director, Africa",
-                      "logo":  "hrw.org",
-                      "initials":  "HRW",
-                      "title":  "Rising Tigray tensions test the African Union",
-                      "quote":  "Both parties have accused the other of military mobilization, while unresolved questions over contested territories, the safe return of displaced people, and disarmament threaten the agreement.",
-                      "points":  [
-                                     "Warned that disputes over the Pretoria Agreement were pushing the parties toward war.",
-                                     "Reported that the TPLF had forcibly recruited civilians in Tigray, including children as young as 15.",
-                                     "Documented continuing abuses against Tigrayans by authorities and security forces in Western Tigray."
-                                 ],
-                      "url":  "https://www.hrw.org/news/2026/09/09/rising-tigray-tensions-test-african-union"
-                  },
-                  {
-                      "date":  "2026-09-08",
-                      "cat":  "foreign",
-                      "issuer":  "41 countries at the UN Human Rights Council",
-                      "role":  "Delivered by Lithuania\u0027s Ambassador Rytis Paulauskas",
-                      "logo":  "eeas.europa.eu",
-                      "initials":  "HRC",
-                      "title":  "Joint statement on the human rights situation in Ethiopia",
-                      "quote":  "Another devastating conflict should be avoided at any cost and differences between parties should be resolved via political dialogue.",
-                      "points":  [
-                                     "Warned that a new military confrontation in Tigray would have severe consequences for a region already facing drought.",
-                                     "Called for immediate de-escalation and adherence to the 2022 Pretoria Agreement.",
-                                     "Fully supported the AU-led mediation process."
-                                 ],
-                      "url":  "https://www.eeas.europa.eu/delegations/un-geneva/hrc63-joint-statement-item-2-joint-statement-human-rights-situation-ethiopia_en"
-                  },
-                  {
-                      "date":  "2026-08-26",
-                      "cat":  "foreign",
-                      "issuer":  "United States",
-                      "role":  "Ambassador Ervin Massinga and Walter Parks, U.S. Mission to the AU",
-                      "logo":  "state.gov",
-                      "initials":  "US",
-                      "title":  "U.S. urges continued engagement with AU envoy Obasanjo",
-                      "quote":  "We look forward to engaging former President Obasanjo",
-                      "points":  [
-                                     "Said Obasanjo\u0027s role under his African Union mandate remains critical, and hoped he would return to Tigray soon.",
-                                     "Warned of growing fears that the conflict could resume.",
-                                     "Urged priority for the drought response and the safe return of displaced people."
-                                 ],
-                      "url":  "https://allafrica.com/stories/202608270036.html"
-                  },
-                  {
-                      "date":  "2026-08-26",
-                      "cat":  "foreign",
-                      "issuer":  "EU, Canada, Norway, UK and US",
-                      "role":  "Joint statement by diplomatic missions in Addis Ababa",
-                      "logo":  "eeas.europa.eu",
-                      "initials":  "EU",
-                      "title":  "International partners warn that renewed war would be devastating",
-                      "quote":  "We are following developments in northern Ethiopia with deep concern.",
-                      "points":  [
-                                     "Signed by the EU, France, Germany, Italy, the Netherlands, Poland, Sweden, Canada, Norway, the UK and the US, among others.",
-                                     "Urged all parties to implement the Pretoria Agreement constructively and in good faith.",
-                                     "Backed African Union mediation led by Olusegun Obasanjo, and warned a new war would be devastating for a drought-hit region."
-                                 ],
-                      "url":  "https://capitalethiopia.com/2026/08/26/international-coalition-of-25-partners-issues-urgent-joint-warning-as-tigray-peace-talks-stall/"
-                  },
-                  {
-                      "date":  "2026-08-25",
-                      "cat":  "tigray",
-                      "issuer":  "Office of the Tigray Regional President",
-                      "role":  "Press Secretariat, Mekelle",
-                      "logo":  "",
-                      "initials":  "TG",
-                      "title":  "Tigray says talks with AU envoy Obasanjo brought no progress",
-                      "quote":  "neither the appetite nor the political space",
-                      "points":  [
-                                     "Said Obasanjo\u0027s Aug 24 visit to Mekelle brought no new proposals from the federal government.",
-                                     "Listed five unresolved issues: the economic embargo, military encirclement, occupied territories, return of displaced people, and the TPLF\u0027s legal status.",
-                                     "Said it would not repeat a process of talks and unfulfilled promises (quoted above)."
-                                 ],
-                      "url":  "https://allafrica.com/stories/202608270036.html"
-                  },
-                  {
-                      "date":  "2026-08-21",
-                      "cat":  "tigray",
-                      "issuer":  "TPLF",
-                      "role":  "Amanuel Assefa, Vice President",
-                      "logo":  "",
-                      "initials":  "TPLF",
-                      "title":  "TPLF says drones struck residential areas of Mekelle",
-                      "points":  [
-                                     "Said one strike hit a residential area of Mekelle and a second hit near Mekelle University.",
-                                     "Ayder Hospital reported at least 13 people injured, including 5 children and 7 women.",
-                                     "Ethiopia\u0027s federal army did not immediately comment."
-                                 ],
-                      "url":  "https://www.africanews.com/2026/08/21/drone-strike-wounds-13-in-tigray-capital-as-fears-of-renewed-war-grow/"
-                  },
-                  {
-                      "date":  "2026-08-18",
-                      "cat":  "tigray",
-                      "issuer":  "TPLF",
-                      "role":  "Tigray\u0027s governing party",
-                      "logo":  "",
-                      "initials":  "TPLF",
-                      "title":  "Tigray accuses the federal government of a drone strike near Mekelle",
-                      "points":  [
-                                     "Said a drone hit a farmer training centre in Dandera village, about 15 km from Mekelle.",
-                                     "Said there were no injuries; a local witness reported one fighter killed and two wounded.",
-                                     "Ethiopia\u0027s federal army did not comment."
-                                 ],
-                      "url":  "https://www.africanews.com/2026/08/18/ethiopia-authorities-in-tigray-accuse-addis-ababa-of-drone-strike-near-mekelle/"
-                  },
-                  {
-                      "date":  "2026-08-03",
-                      "cat":  "rights",
-                      "issuer":  "Amnesty International",
-                      "role":  "Tigere Chagutah, Regional Director for East and Southern Africa",
-                      "logo":  "amnesty.org",
-                      "initials":  "AI",
-                      "title":  "Tigray residents at renewed risk of human rights violations as violence returns",
-                      "quote":  "The resumption of violence in Tigray region puts residents at renewed risk of human rights violations",
-                      "points":  [
-                                     "Warned after clashes on 1 August between Tigrayan forces and the Ethiopian army.",
-                                     "Called on federal and Tigrayan authorities to respect human rights, and raised concerns about media restrictions and forced conscription by Tigrayan authorities.",
-                                     "Urged the restoration of international human rights investigations in Ethiopia."
-                                 ],
-                      "url":  "https://www.amnesty.org/en/latest/news/2026/08/ethiopia-tigray-residents-at-renewed-risk-of-human-rights-violations-as-violence-returns-to-the-region/"
-                  },
-                  {
-                      "date":  "2026-08-01",
-                      "cat":  "fed",
-                      "issuer":  "Ethiopian Federal Government",
-                      "role":  "Minister Abraham Belay",
-                      "logo":  "",
-                      "initials":  "FDRE",
-                      "title":  "Federal government blames the TPLF for clashes in Western Tigray",
-                      "quote":  "Enough war! Let us resolve our differences through dialogue.",
-                      "points":  [
-                                     "Accused TPLF forces of starting the fighting near the Sudanese border.",
-                                     "PM adviser Getachew Reda urged Tigray Defence Forces commanders to break with TPLF chairman Debretsion Gebremichael."
-                                 ],
-                      "url":  "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame"
-                  },
-                  {
-                      "date":  "2026-08-01",
-                      "cat":  "tigray",
-                      "issuer":  "Government of Tigray",
-                      "role":  "Regional government statement from Mekelle",
-                      "logo":  "",
-                      "initials":  "TG",
-                      "title":  "Tigray says federal forces attacked at dawn in Western Tigray",
-                      "points":  [
-                                     "Said federal forces opened an assault at dawn, advancing from Shererina near the Sudanese border.",
-                                     "Described the fighting as a threat to Tigray\u0027s “national survival” and called on Tigrayans to prepare."
-                                 ],
-                      "url":  "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame"
-                  },
-                  {
-                      "date":  "2026-04-30",
-                      "cat":  "intl",
-                      "issuer":  "European Union",
-                      "role":  "EEAS Spokesperson",
-                      "logo":  "eeas.europa.eu",
-                      "initials":  "EU",
-                      "title":  "EU urges de-escalation and respect for the 2022 peace agreement",
-                      "quote":  "It is imperative that another devastating conflict is avoided, and that differences between parties are resolved via political dialogue.",
-                      "points":  [
-                                     "Expressed serious concern about developments in Tigray.",
-                                     "Urged immediate de-escalation and adherence to the November 2022 Pretoria Agreement."
-                                 ],
-                      "url":  "https://www.eeas.europa.eu/eeas/ethiopia-statement-spokesperson-latest-developments-tigray_en"
-                  },
-                  {
-                      "date":  "2026-04-22",
-                      "cat":  "rights",
-                      "issuer":  "Human Rights Watch",
-                      "role":  "Laetitia Bader, Deputy Africa Director",
-                      "logo":  "hrw.org",
-                      "initials":  "HRW",
-                      "title":  "Persecution of Tigrayans in Western Tigray is unrelenting",
-                      "quote":  "Tigrayans in Western Tigray Zone are facing severe and dehumanizing restrictions on all aspects of their lives.",
-                      "points":  [
-                                     "Found that Tigrayans in Western Tigray face arbitrary arrest, are refused ID cards and need hard-to-get permits to travel.",
-                                     "Reported that more than 740,000 people displaced from Western Tigray remain in camps in central Tigray.",
-                                     "Called for officials implicated in abuses to be suspended and investigated, and for targeted sanctions."
-                                 ],
-                      "url":  "https://www.hrw.org/news/2026/04/22/ethiopia-persecution-of-tigrayans-unrelenting"
-                  },
-                  {
-                      "date":  "2026-02-10",
-                      "cat":  "intl",
-                      "issuer":  "UN High Commissioner for Human Rights",
-                      "role":  "Volker Türk",
-                      "logo":  "ohchr.org",
-                      "initials":  "UN",
-                      "title":  "UN rights chief fears a new crisis in Tigray",
-                      "quote":  "Both sides must step back from the brink and work to resolve their differences through political means",
-                      "points":  [
-                                     "Warned of renewed heavy fighting from 26 January, with drones, artillery and heavy weapons.",
-                                     "Raised concern about civilians being arrested because of their perceived affiliations.",
-                                     "Noted that about one million people remain displaced from the 2020–2022 war."
-                                 ],
-                      "url":  "https://news.un.org/en/story/2026/02/1166930"
-                  },
-                  {
-                      "date":  "2026-01-29",
-                      "cat":  "foreign",
-                      "issuer":  "U.S. House Foreign Affairs Committee",
-                      "role":  "Rep. Gregory W. Meeks, Ranking Member",
-                      "logo":  "house.gov",
-                      "initials":  "US",
-                      "title":  "Statement on the resumption of hostilities in northern Tigray",
-                      "quote":  "The recent fighting in Tigray risks embroiling Ethiopia back into a civil war that endangers millions of lives",
-                      "points":  [
-                                     "Called for an immediate ceasefire and full humanitarian access.",
-                                     "Urged full implementation of the 2022 Cessation of Hostilities Agreement."
-                                 ],
-                      "url":  "https://democrats-foreignaffairs.house.gov/press-releases?ContentRecord_id=FA3FDBAF-848E-46B7-B4DF-DD1D96E3D554"
-                  },
-                  {
-                      "date":  "2025-07-15",
-                      "cat":  "rights",
-                      "issuer":  "Médecins Sans Frontières (MSF)",
-                      "role":  "Findings of MSF\u0027s investigation",
-                      "logo":  "msf.org",
-                      "initials":  "MSF",
-                      "title":  "MSF concludes Ethiopian soldiers deliberately killed its three staff in 2021",
-                      "quote":  "They were fully identifiable as humanitarian workers and were shot several times at close range while facing their attackers.",
-                      "points":  [
-                                     "Concluded that María Hernández, Yohannes Halefom Reda and Tedros Gebremariam Gebremichael were deliberately killed by members of Ethiopia\u0027s military in June 2021.",
-                                     "Said they were not killed by accident or in crossfire."
-                                 ],
-                      "url":  "https://www.yahoo.com/news/msf-accuses-ethiopian-soldiers-targeted-144910548.html"
-                  },
-                  {
-                      "date":  "2024-06-04",
-                      "cat":  "rights",
-                      "issuer":  "New Lines Institute",
-                      "role":  "Independent legal report",
-                      "logo":  "newlinesinstitute.org",
-                      "initials":  "NL",
-                      "title":  "Report finds strong evidence of acts of genocide against Tigrayans",
-                      "points":  [
-                                     "Concluded there is strong evidence that Ethiopian forces and their allies committed acts of genocide against Tigrayans as an ethnic group.",
-                                     "Listed killings, serious bodily and mental harm, measures to prevent births, and conditions of life calculated to destroy the group.",
-                                     "Called for Ethiopia to be brought before the International Court of Justice."
-                                 ],
-                      "url":  "https://newlinesinstitute.org/rules-based-international-order/genocide-in-tigray-serious-breaches-of-international-law-in-the-tigray-conflict-ethiopia-and-paths-to-accountability-2/"
-                  },
-                  {
-                      "date":  "2023-08-24",
-                      "cat":  "rights",
-                      "issuer":  "Physicians for Human Rights",
-                      "role":  "Report: Broken Promises",
-                      "logo":  "phr.org",
-                      "initials":  "PHR",
-                      "title":  "Sexual violence in Tigray was widespread and systematic, and continued after the truce",
-                      "quote":  "these incidents of conflict-related sexual violence were both widespread and systematic",
-                      "points":  [
-                                     "Reviewed 305 medical records from Tigray\u0027s health facilities; 304 documented conflict-related sexual violence.",
-                                     "Most attacks involved several perpetrators, identified as Eritrean or Ethiopian armed forces.",
-                                     "128 of the incidents happened after the November 2022 peace agreement."
-                                 ],
-                      "url":  "https://phr.org/our-work/resources/medical-records-sexual-violence-tigray-ethiopia/"
-                  },
-                  {
-                      "date":  "2023-06-01",
-                      "cat":  "rights",
-                      "issuer":  "Human Rights Watch",
-                      "role":  "Laetitia Bader, Deputy Africa Director",
-                      "logo":  "hrw.org",
-                      "initials":  "HRW",
-                      "title":  "Ethnic cleansing persists under the Tigray truce",
-                      "quote":  "The November truce in northern Ethiopia has not brought about an end to the ethnic cleansing of Tigrayans in Western Tigray Zone.",
-                      "points":  [
-                                     "Found that Amhara forces and local authorities kept forcibly expelling Tigrayans after the truce.",
-                                     "More than 1,000 Tigrayans were held in detention sites in Humera, Rawyan and Adebai, where some died of starvation and lack of medicine."
-                                 ],
-                      "url":  "https://www.hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce"
-                  },
-                  {
-                      "date":  "2022-11-02",
-                      "cat":  "intl",
-                      "issuer":  "UN Secretary-General",
-                      "role":  "António Guterres",
-                      "logo":  "un.org",
-                      "initials":  "UN",
-                      "title":  "UN chief welcomes the Pretoria peace agreement",
-                      "quote":  "a critical first step towards ending the devastating two-year old conflict",
-                      "points":  [
-                                     "Welcomed the signing of the Permanent Cessation of Hostilities Agreement in Pretoria.",
-                                     "Urged the international community to support the agreement and the parties to keep negotiating in a spirit of reconciliation."
-                                 ],
-                      "url":  "https://news.un.org/en/story/2022/11/1130137"
-                  },
-                  {
-                      "date":  "2022-04-06",
-                      "cat":  "rights",
-                      "issuer":  "Human Rights Watch \u0026 Amnesty International",
-                      "role":  "Joint report: “We Will Erase You from This Land”",
-                      "logo":  "hrw.org",
-                      "initials":  "HRW",
-                      "title":  "Crimes against humanity and ethnic cleansing in Western Tigray",
-                      "points":  [
-                                     "Concluded that Amhara officials and forces, with the acquiescence and possible participation of federal forces, carried out a campaign of ethnic cleansing against Tigrayans.",
-                                     "Documented killings, sexual violence, mass detention, denial of aid and the forced removal of hundreds of thousands of people.",
-                                     "Based on more than 400 interviews; called for accountability and an African Union-led peacekeeping force."
-                                 ],
-                      "url":  "https://www.hrw.org/news/2022/04/06/crimes-against-humanity-and-ethnic-cleansing-ethiopias-western-tigray-zone"
-                  },
-                  {
-                      "date":  "2022-01-12",
-                      "cat":  "intl",
-                      "issuer":  "World Health Organization",
-                      "role":  "Director-General Tedros Adhanom Ghebreyesus",
-                      "logo":  "who.int",
-                      "initials":  "WHO",
-                      "title":  "WHO chief says the blockade has created “hell” in Tigray",
-                      "quote":  "Nowhere in the world are we witnessing hell like in Tigray",
-                      "points":  [
-                                     "Said the blockade was stopping food and medicine from reaching Tigray and called it an insult to humanity.",
-                                     "Said all WHO requests for permission to deliver life-saving medicines had been refused."
-                                 ],
-                      "url":  "https://www.aljazeera.com/news/2022/1/12/blockade-creates-hell-in-ethiopias-tigray-who"
-                  },
-                  {
-                      "date":  "2021-12-17",
-                      "cat":  "intl",
-                      "issuer":  "UN Human Rights Council",
-                      "role":  "Special session on Ethiopia, requested by the European Union",
-                      "logo":  "ohchr.org",
-                      "initials":  "HRC",
-                      "title":  "UN sets up an international commission to investigate abuses in Ethiopia",
-                      "points":  [
-                                     "Voted 21 to 15, with 11 abstentions, to create the International Commission of Human Rights Experts on Ethiopia.",
-                                     "Gave it a mandate to investigate violations committed since 3 November 2020."
-                                 ],
-                      "url":  "https://www.ohchr.org/en/press-releases/2021/12/human-rights-council-decides-establish-international-commission-human-rights"
-                  },
-                  {
-                      "date":  "2021-09-29",
-                      "cat":  "intl",
-                      "issuer":  "UN Emergency Relief Coordinator",
-                      "role":  "Martin Griffiths",
-                      "logo":  "unocha.org",
-                      "initials":  "UN",
-                      "title":  "UN aid chief calls Tigray\u0027s hunger crisis “a stain on our conscience”",
-                      "quote":  "This is man-made, this can be remedied by the act of government.",
-                      "points":  [
-                                     "Described a de facto blockade of food, medicine and fuel to Tigray.",
-                                     "Said Tigray needed 100 aid trucks a day, but only about 10% had got through in the previous three months."
-                                 ],
-                      "url":  "https://www.aljazeera.com/news/2021/9/29/ethiopias-tigray-crisis-stain-on-our-conscience-un"
-                  },
-                  {
-                      "date":  "2021-08-11",
-                      "cat":  "rights",
-                      "issuer":  "Amnesty International",
-                      "role":  "Report: “I Don\u0027t Know If They Realized I Was a Person”",
-                      "logo":  "amnesty.org",
-                      "initials":  "AI",
-                      "title":  "Troops and militia raped and abducted women and girls in Tigray",
-                      "points":  [
-                                     "Based on interviews with 63 survivors, found that women and girls were raped, held in sexual slavery and tortured by Ethiopian and Eritrean soldiers, Amhara special forces and Fano militia.",
-                                     "Concluded the violations amount to war crimes and may amount to crimes against humanity."
-                                 ],
-                      "url":  "https://www.amnesty.org/en/latest/news/2021/08/ethiopia-troops-and-militia-rape-abduct-women-and-girls-in-tigray-conflict-new-report/"
-                  },
-                  {
-                      "date":  "2021-06-25",
-                      "cat":  "rights",
-                      "issuer":  "Médecins Sans Frontières (MSF)",
-                      "role":  "Marta Cañas, MSF General Director",
-                      "logo":  "msf.org",
-                      "initials":  "MSF",
-                      "title":  "Three MSF staff killed in an attack in Tigray",
-                      "quote":  "No words can truly convey all our sadness, shock and outrage against this horrific attack.",
-                      "points":  [
-                                     "María Hernández, Yohannes Halefom Reda and Tedros Gebremariam Gebremichael were found dead beside their vehicle on 24 June 2021."
-                                 ],
-                      "url":  "https://www.doctorswithoutborders.org/latest/ethiopia-three-msf-staff-killed-attack"
-                  },
-                  {
-                      "date":  "2021-06-10",
-                      "cat":  "intl",
-                      "issuer":  "UN Under-Secretary-General for Humanitarian Affairs",
-                      "role":  "Mark Lowcock",
-                      "logo":  "unocha.org",
-                      "initials":  "UN",
-                      "title":  "UN declares famine in Tigray",
-                      "quote":  "There is famine now in Tigray.",
-                      "points":  [
-                                     "More than 350,000 people in Tigray were found to be living in famine conditions.",
-                                     "Said it was the highest number of people in famine anywhere in the world since 2011 in Somalia."
-                                 ],
-                      "url":  "https://www.aljazeera.com/news/2021/6/10/un-official-says-350000-people-in-famine-in-ethiopias-tigray"
-                  },
-                  {
-                      "date":  "2021-04-02",
-                      "cat":  "foreign",
-                      "issuer":  "G7 Foreign Ministers",
-                      "role":  "Canada, France, Germany, Italy, Japan, the UK, the US and the EU High Representative",
-                      "logo":  "eeas.europa.eu",
-                      "initials":  "G7",
-                      "title":  "G7 statement on the situation in Tigray",
-                      "quote":  "All parties must exercise utmost restraint, ensure the protection of civilians and respect human rights and international law.",
-                      "points":  [
-                                     "Condemned killings, sexual violence, indiscriminate shelling and forced displacement.",
-                                     "Called for an independent investigation and immediate, unhindered humanitarian access.",
-                                     "Welcomed the announced withdrawal of Eritrean forces from Tigray."
-                                 ],
-                      "url":  "https://eeas.europa.eu/headquarters/headquarters-homepage/96145/ethiopia-g7-foreign-ministers-statement-situation-tigray_en"
-                  },
-                  {
-                      "date":  "2021-03-10",
-                      "cat":  "foreign",
-                      "issuer":  "United States",
-                      "role":  "Secretary of State Antony Blinken, testifying to Congress",
-                      "logo":  "state.gov",
-                      "initials":  "US",
-                      "title":  "U.S. Secretary of State describes “acts of ethnic cleansing” in Western Tigray",
-                      "quote":  "acts of ethnic cleansing, which we\u0027ve seen in Western Tigray",
-                      "points":  [
-                                     "Called for Eritrean and Amhara forces to leave Tigray.",
-                                     "Called for unhindered humanitarian access and an independent investigation of abuses."
-                                 ],
-                      "url":  "https://www.cnn.com/2021/03/10/politics/blinken-tigray-ethnic-cleansing"
-                  },
-                  {
-                      "date":  "2021-03-04",
-                      "cat":  "intl",
-                      "issuer":  "UN High Commissioner for Human Rights",
-                      "role":  "Michelle Bachelet",
-                      "logo":  "ohchr.org",
-                      "initials":  "UN",
-                      "title":  "UN rights chief says war crimes may have been committed by multiple parties in Tigray",
-                      "points":  [
-                                     "Said serious violations, possibly amounting to war crimes and crimes against humanity, may have been committed by the Ethiopian army, the TPLF, Eritrean forces, and Amhara regional forces and militia.",
-                                     "Cited corroborated reports of mass killings in Axum and Dengelat by Eritrean forces, and indiscriminate shelling in Mekelle, Humera and Adigrat.",
-                                     "Called for an objective, independent investigation."
-                                 ],
-                      "url":  "https://news.un.org/en/story/2021/03/1086472"
-                  },
-                  {
-                      "date":  "2021-02-27",
-                      "cat":  "foreign",
-                      "issuer":  "United States",
-                      "role":  "Secretary of State Antony Blinken",
-                      "logo":  "state.gov",
-                      "initials":  "US",
-                      "title":  "Atrocities in Ethiopia\u0027s Tigray region",
-                      "quote":  "the immediate withdrawal of Eritrean forces and Amhara regional forces from Tigray",
-                      "points":  [
-                                     "Said the U.S. was gravely concerned by reported atrocities in Tigray.",
-                                     "Condemned killings, forced removals, sexual assaults and other serious abuses.",
-                                     "Called for an end to hostilities and unhindered delivery of aid."
-                                 ],
-                      "url":  "https://www.globalsecurity.org/military/library/news/2021/02/mil-210227-state01.htm"
-                  },
-                  {
-                      "date":  "2021-02-26",
-                      "cat":  "rights",
-                      "issuer":  "Amnesty International",
-                      "role":  "Deprose Muchena, Director for East and Southern Africa",
-                      "logo":  "amnesty.org",
-                      "initials":  "AI",
-                      "title":  "Eritrean troops\u0027 massacre of hundreds of civilians in Axum may be a crime against humanity",
-                      "quote":  "Ethiopian and Eritrean troops carried out multiple war crimes in their offensive to take control of Axum.",
-                      "points":  [
-                                     "Found that Eritrean troops systematically killed hundreds of unarmed civilians in Axum on 28–29 November 2020.",
-                                     "Based on 41 survivors and witnesses; satellite images showed signs of mass burials near two churches.",
-                                     "Called for a UN-led investigation and full access to Tigray."
-                                 ],
-                      "url":  "https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/"
-                  },
-                  {
-                      "date":  "2020-11-04",
-                      "cat":  "intl",
-                      "issuer":  "UN Secretary-General",
-                      "role":  "António Guterres",
-                      "logo":  "un.org",
-                      "initials":  "UN",
-                      "title":  "UN chief alarmed by clashes in Tigray, calls for immediate de-escalation",
-                      "quote":  "deeply alarmed over the situation in the Tigray region of Ethiopia",
-                      "points":  [
-                                     "Issued on the day the war began.",
-                                     "Called for immediate steps to de-escalate tensions and a peaceful resolution."
-                                 ],
-                      "url":  "https://press.un.org/en/2020/sgsm20396.doc.htm"
-                  }
-              ]
+  "updated": "2026-10-04T07:30:00Z",
+  "items": [
+    {
+      "date": "2026-10-04",
+      "cat": "foreign",
+      "issuer": "United States Department of State",
+      "role": "Spokesman Tommy Pigott",
+      "logo": "state.gov",
+      "initials": "US",
+      "title": "US urges Ethiopia and Eritrea to show restraint",
+      "quote": "The Horn of Africa cannot sustain another military conflict and humanitarian crisis.",
+      "points": [
+        "Said rising cross-border tensions between Ethiopia and Eritrea could affect the whole region.",
+        "Urged both countries to respect their neighbours' sovereignty and territorial integrity and to exercise maximum restraint.",
+        "Called for a return to dialogue, as agreed in their 2018 peace framework."
+      ],
+      "url": "https://www.tribuneindia.com/news/usa-news/us-urges-ethiopia-eritrea-to-show-restraint"
+    },
+    {
+      "date": "2026-10-02",
+      "cat": "rights",
+      "issuer": "Amnesty International",
+      "role": "Tigere Chagutah, Regional Director for East and Southern Africa",
+      "logo": "amnesty.org",
+      "initials": "AI",
+      "title": "African Union must convene an emergency session on Ethiopia as the conflict expands",
+      "quote": "The AU, which was one of the guarantors of the ceasefire agreement that has now effectively collapsed, must learn from past mistakes",
+      "points": [
+        "Called on the African Union Peace and Security Council to hold an emergency session on the renewed war in Tigray, Afar and Amhara.",
+        "Raised alarm over reports of intensified aerial attacks across Tigray and damage to civilian infrastructure, including schools.",
+        "Warned that communication blackouts have often hidden atrocities and cut civilians off from the outside world."
+      ],
+      "url": "https://www.amnesty.org/en/latest/news/2026/10/ethiopia-african-union-must-convene-emergency-session-on-ethiopia-as-new-conflict-expands/"
+    },
+    {
+      "date": "2026-10-01",
+      "cat": "foreign",
+      "issuer": "Eritrea",
+      "role": "Government of Eritrea",
+      "logo": "shabait.com",
+      "initials": "ER",
+      "title": "Eritrea severs diplomatic ties with Ethiopia",
+      "points": [
+        "Said Ethiopia's expulsion of its diplomats left it no choice but to respond in kind.",
+        "Announced it was cutting diplomatic relations with Ethiopia.",
+        "Has repeatedly denied supporting the armed alliance fighting Ethiopia's government."
+      ],
+      "url": "https://www.aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move"
+    },
+    {
+      "date": "2026-10-01",
+      "cat": "fed",
+      "issuer": "Ethiopian Ministry of Foreign Affairs",
+      "role": "Federal government",
+      "logo": "mfa.gov.et",
+      "initials": "FDRE",
+      "title": "Ethiopia closes its embassy in Asmara and expels 10 Eritrean diplomats",
+      "quote": "direct and indirect acts of hostility and belligerence against Ethiopia",
+      "points": [
+        "Accused Eritrea of hostile acts against Ethiopia.",
+        "Ordered 10 Eritrean diplomats to leave within 48 hours and announced the closure of its embassy in Asmara.",
+        "Eritrea has denied involvement."
+      ],
+      "url": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north"
+    },
+    {
+      "date": "2026-09-30",
+      "cat": "foreign",
+      "issuer": "United Arab Emirates",
+      "role": "Sheikh Shakhboot bin Nahyan Al Nahyan, Minister of State",
+      "logo": "mofa.gov.ae",
+      "initials": "AE",
+      "title": "UAE declares solidarity with Ethiopia's government",
+      "quote": "full solidarity with the government and people",
+      "points": [
+        "Said the UAE stands with the government and people of Ethiopia.",
+        "Rejected attempts to change Ethiopia's constitutional order by force."
+      ],
+      "url": "https://www.euronews.com/2026/09/30/qatar-and-uae-back-ethiopian-government-as-fighting-spreads-beyond-tigray"
+    },
+    {
+      "date": "2026-09-30",
+      "cat": "foreign",
+      "issuer": "Qatar",
+      "role": "Ministry of Foreign Affairs",
+      "logo": "mofa.gov.qa",
+      "initials": "QA",
+      "title": "Qatar calls for an end to the fighting and respect for the Pretoria Agreement",
+      "quote": "an immediate end to the fighting, protection for civilians and respect for the Pretoria Peace Agreement",
+      "points": [
+        "Condemned what it described as military escalation against Ethiopian federal forces.",
+        "Called for civilians to be protected."
+      ],
+      "url": "https://www.euronews.com/2026/09/30/qatar-and-uae-back-ethiopian-government-as-fighting-spreads-beyond-tigray"
+    },
+    {
+      "date": "2026-09-29",
+      "cat": "rights",
+      "issuer": "Refugees International",
+      "role": "Abdullahi Boru Halakhe, Senior Advocate for East and Southern Africa",
+      "logo": "refugeesinternational.org",
+      "initials": "RI",
+      "title": "Tigray: immediate action needed to reverse the course of war",
+      "quote": "Ethiopia is sliding into a regional war.",
+      "points": [
+        "Warned that drone strikes have damaged humanitarian aid convoys.",
+        "Reported that more than 95% of displaced households face moderate to severe food insecurity.",
+        "Called for an immediate ceasefire and a return to negotiations under the Pretoria Agreement."
+      ],
+      "url": "https://www.refugeesinternational.org/statements-and-news/tigray-immediate-action-needed-to-reverse-the-course-of-war/"
+    },
+    {
+      "date": "2026-09-28",
+      "cat": "rights",
+      "issuer": "Médecins Sans Frontières (MSF)",
+      "role": "Doctors Without Borders",
+      "logo": "msf.org",
+      "initials": "MSF",
+      "title": "Hospitals see a surge in war-wounded patients as fighting resumes",
+      "points": [
+        "War-wounded patients at Korem and Alamata hospitals rose from about 180 to more than 420 within 48 hours (22–25 September).",
+        "More than 300 war-wounded patients reached Suhul Hospital in Shire by 25 September.",
+        "Suspended work at Alamata Hospital and moved staff to hospitals seeing the sharpest rise in wounded."
+      ],
+      "url": "https://www.doctorswithoutborders.org/latest/ethiopia-hospitals-see-surge-war-wounded-patients-fighting-resumes"
+    },
+    {
+      "date": "2026-09-28",
+      "cat": "intl",
+      "issuer": "European Commission",
+      "role": "EU humanitarian aid",
+      "logo": "ec.europa.eu",
+      "initials": "EU",
+      "title": "EU provides €61 million in humanitarian aid amid rapidly deteriorating situation in Ethiopia",
+      "points": [
+        "€61 million for people affected by conflict, displacement, disease and climate hazards across Ethiopia.",
+        "Funds food, nutrition, health care, clean water, shelter, protection and education in emergencies.",
+        "Calls for immediate de-escalation, protection of civilians and unimpeded humanitarian access."
+      ],
+      "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-provides-eur61-million-humanitarian-aid-amidst-rapidly-deteriorating-situation-ethiopia-2026-09-28_en"
+    },
+    {
+      "date": "2026-09-27",
+      "cat": "fed",
+      "issuer": "Ethiopian National Defense Force",
+      "role": "Field Marshal Birhanu Jula, Chief of General Staff",
+      "logo": "",
+      "initials": "ENDF",
+      "title": "Army chief accuses Eritrea, Sudan and Egypt of backing the rebel alliance",
+      "points": [
+        "Accused Eritrea of mobilising financial support for the TPLF.",
+        "Accused Sudan and Egypt of backing the armed groups fighting federal troops.",
+        "Eritrea, Sudan and Egypt have all rejected the accusations."
+      ],
+      "url": "https://www.euronews.com/2026/09/27/ethiopias-army-chief-accuses-egypt-and-sudan-of-backing-armed-alliance-seeking-to-oust-abi"
+    },
+    {
+      "date": "2026-09-25",
+      "cat": "rights",
+      "issuer": "Human Rights Watch",
+      "role": "Laetitia Bader, Deputy Africa Director",
+      "logo": "hrw.org",
+      "initials": "HRW",
+      "title": "Indiscriminate airstrike on a residential compound in Mekelle",
+      "quote": "The resumption of hostilities in northern Ethiopia heightens concerns about unlawful attacks and the grave threat posed to civilians.",
+      "points": [
+        "Found that an apparent Ethiopian government airstrike on 20 August hit a residential compound for teachers and their families in Mekelle's Daero neighbourhood.",
+        "Thirteen civilians were wounded, including seven children. Residents saw no military presence at the compound.",
+        "Said the attack may be a war crime and called for those responsible to be investigated and prosecuted."
+      ],
+      "url": "https://hrw.org/news/2026/09/25/ethiopia-indiscriminate-airstrike-in-tigray"
+    },
+    {
+      "date": "2026-09-25",
+      "cat": "fed",
+      "issuer": "President of Ethiopia",
+      "role": "Taye Atske Selassie, at the UN General Assembly",
+      "logo": "",
+      "initials": "FDRE",
+      "title": "Ethiopia's president warns of foreign interference at the UN",
+      "quote": "We urge them to respect the sacred right of the people of the Horn of Africa to live in peace and prosperity.",
+      "points": [
+        "Blamed “external actors” for the renewed conflict, in remarks widely read as aimed at Egypt and Eritrea.",
+        "Spoke as fighting spread from Tigray into Afar and Amhara."
+      ],
+      "url": "https://www.africanews.com/2026/09/25/ethiopian-president-warns-of-interference-amid-renewed-tigray-fighting/"
+    },
+    {
+      "date": "2026-09-25",
+      "cat": "intl",
+      "issuer": "United Nations",
+      "role": "UN Spokesperson and UN High Commissioner for Human Rights",
+      "logo": "un.org",
+      "initials": "UN",
+      "title": "UN voices grave concern as fighting spreads across northern Ethiopia",
+      "quote": "exercise maximum restraint",
+      "points": [
+        "Raised concern over the use of drones and harm to civilians.",
+        "Volker Türk reported airstrikes hit five schools in Tigray on Sept 22, and a mortar strike killed civilians in Kobo, Amhara, on Sept 24.",
+        "A drone strike destroyed a truck carrying food aid in northwestern Tigray; road closures are disrupting aid."
+      ],
+      "url": "https://news.un.org/en/story/2026/09/1168450"
+    },
+    {
+      "date": "2026-09-24",
+      "cat": "foreign",
+      "issuer": "United Kingdom",
+      "role": "Foreign, Commonwealth & Development Office",
+      "logo": "gov.uk",
+      "initials": "UK",
+      "title": "UK statement on escalation in northern Ethiopia",
+      "quote": "Civilians must be protected, and those affected by the conflict must be able to access basic services and life-saving aid.",
+      "points": [
+        "Condemned attacks by the Tigray Defence Forces in Afar and southern Tigray, and the takeover of Tigray's airports.",
+        "Called on all parties to halt hostilities and support African Union mediation.",
+        "Called for safe, unhindered humanitarian access and protection of aid workers."
+      ],
+      "url": "https://www.gov.uk/government/news/uk-statement-on-escalation-in-northern-ethiopia-24-september"
+    },
+    {
+      "date": "2026-09-24",
+      "cat": "fed",
+      "issuer": "Ethiopian National Defense Force",
+      "role": "Statement on Facebook",
+      "logo": "",
+      "initials": "ENDF",
+      "title": "Army says its counter-offensive inflicted heavy losses in North Wollo",
+      "points": [
+        "Said government forces launched a counter-offensive after the TPLF and its allies attacked areas of North Wollo, Amhara.",
+        "Said 272 Tigrayan fighters were killed. This figure has not been independently verified."
+      ],
+      "url": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates"
+    },
+    {
+      "date": "2026-09-24",
+      "cat": "rights",
+      "issuer": "Human Rights Watch",
+      "role": "Laetitia Bader, Deputy Africa Director",
+      "logo": "hrw.org",
+      "initials": "HRW",
+      "title": "Renewed Tigray fighting shows the need to protect civilians",
+      "quote": "The parties need to take all necessary measures to protect civilians and civilian infrastructure.",
+      "points": [
+        "Warned that the renewed fighting raises serious concerns for civilians, given past atrocities and the lack of accountability for them.",
+        "Urged international actors to act immediately to protect civilians and support strong monitoring."
+      ],
+      "url": "https://www.hrw.org/news/2026/09/24/ethiopia-renewed-tigray-fighting-shows-need-to-protect-civilians"
+    },
+    {
+      "date": "2026-09-23",
+      "cat": "foreign",
+      "issuer": "United States",
+      "role": "Ambassador Ervin J. Massinga, U.S. Embassy Addis Ababa",
+      "logo": "state.gov",
+      "initials": "US",
+      "title": "Statement on recent developments in Tigray and Afar",
+      "quote": "I still believe a reasonable political dialogue is the right way to go.",
+      "points": [
+        "Disappointed by the TPLF leadership's decision to launch a large-scale offensive.",
+        "Criticised the rejection of AU-sponsored dialogue led by President Obasanjo.",
+        "Said the U.S. has tools to impose further sanctions on those undermining Ethiopia's stability."
+      ],
+      "url": "https://et.usembassy.gov/statement-on-recent-developments-in-tigray-and-afar/"
+    },
+    {
+      "date": "2026-09-23",
+      "cat": "fed",
+      "issuer": "Ethiopian Federal Government",
+      "role": "Getachew Reda, adviser to Prime Minister Abiy Ahmed",
+      "logo": "",
+      "initials": "FDRE",
+      "title": "Government says the TPLF launched an “all-out offensive”",
+      "points": [
+        "Said the TPLF seized federally controlled airports in Tigray.",
+        "Said the TPLF launched an all-out offensive against government positions in Afar and Amhara."
+      ],
+      "url": "https://www.aljazeera.com/news/2026/9/23/ethiopian-airlines-suspends-flights-to-three-northern-tigray-airports"
+    },
+    {
+      "date": "2026-09-23",
+      "cat": "intl",
+      "issuer": "European Union",
+      "role": "EEAS Spokesperson",
+      "logo": "eeas.europa.eu",
+      "initials": "EU",
+      "title": "Statement by the Spokesperson on the situation in Northern Ethiopia",
+      "quote": "Immediate de-escalation is needed. It is not yet too late to decisively recommit to the Permanent Cessation of Hostilities Agreement.",
+      "points": [
+        "Deeply concerned by the takeover of the Mekelle, Axum and Shire airports by TPLF forces.",
+        "Concerned by several drone strikes carried out by the Ethiopian National Defence Force in recent weeks.",
+        "Strongly condemned strikes affecting humanitarian convoys and any denial of humanitarian access."
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/ethiopia-statement-spokesperson-situation-northern-ethiopia_en"
+    },
+    {
+      "date": "2026-09-23",
+      "cat": "intl",
+      "issuer": "IGAD",
+      "role": "Intergovernmental Authority on Development",
+      "logo": "igad.int",
+      "initials": "IGAD",
+      "title": "IGAD calls for immediate de-escalation in northern Ethiopia",
+      "quote": "cease hostilities, exercise maximum restraint and refrain from any action that could further imperil civilian lives",
+      "points": [
+        "Concerned by renewed hostilities, the seizure of civilian airports and disrupted air travel.",
+        "Called the Pretoria Agreement the only legitimate framework for resolving disputes.",
+        "Urged direct dialogue and warned neighbouring countries against making tensions worse."
+      ],
+      "url": "https://igad.int/igad-calls-for-immediate-de-escalation-in-northern-ethiopia/"
+    },
+    {
+      "date": "2026-09-23",
+      "cat": "intl",
+      "issuer": "African Union Commission",
+      "role": "Chairperson Mahmoud Ali Youssouf",
+      "logo": "au.int",
+      "initials": "AU",
+      "title": "AUC Chairperson calls for utmost restraint and immediate de-escalation in northern Ethiopia",
+      "quote": "the cornerstone of sustainable peace, stability and reconciliation in Ethiopia",
+      "points": [
+        "Deeply concerned by the seizure of the Mekelle, Axum and Shire airports and the detention of federal personnel by the TPLF.",
+        "Said the 2022 Pretoria Agreement remains the foundation for peace (quoted above).",
+        "Asked AU High Representative Olusegun Obasanjo to re-engage the parties."
+      ],
+      "url": "https://au.int/en/pressreleases/20260923/chairperson-calls-restraint-and-immediate-de-escalation-northern-ethiopia"
+    },
+    {
+      "date": "2026-09-23",
+      "cat": "intl",
+      "issuer": "UN Secretary-General",
+      "role": "António Guterres",
+      "logo": "un.org",
+      "initials": "UN",
+      "title": "Secretary-General urges restraint as fighting intensifies in northern Ethiopia",
+      "quote": "exercise maximum restraint, immediately de-escalate tensions, protect civilians",
+      "points": [
+        "Gravely concerned by the seizure of the Mekelle, Axum and Shire airports and the spread of fighting.",
+        "Called for safe and unhindered humanitarian access.",
+        "Backed African Union mediation led by former Nigerian President Olusegun Obasanjo, under the Pretoria Agreement."
+      ],
+      "url": "https://press.un.org/en/2026/sgsm23299.doc.htm"
+    },
+    {
+      "date": "2026-09-23",
+      "cat": "tigray",
+      "issuer": "Government of Tigray",
+      "role": "National Regional Government of Tigray",
+      "logo": "",
+      "initials": "TG",
+      "title": "Tigray authorities say they have entered a “defensive war”",
+      "points": [
+        "Said the federal government launched an open invasion of Tigray with aircraft, drones and infantry on Sept 22–23.",
+        "Said Tigray's forces had been instructed to defend against the attack.",
+        "Called for unity among Tigray's army, people and allied forces."
+      ],
+      "url": "https://martinplaut.com/2026/09/23/tigray-authorities-ethiopian-government-has-invaded-us-we-are-fighting-back/"
+    },
+    {
+      "date": "2026-09-22",
+      "cat": "foreign",
+      "issuer": "United States",
+      "role": "State Department, Bureau of African Affairs",
+      "logo": "state.gov",
+      "initials": "US",
+      "title": "U.S. condemns drone strike on Catholic Relief Services convoy in Tigray",
+      "points": [
+        "Condemned the Sept 20 drone strike on a truck carrying about 41 tonnes of food for displaced families in Sheraro.",
+        "Urged authorities to conduct a full investigation and share the findings.",
+        "Called on the parties to engage in dialogue."
+      ],
+      "url": "https://allafrica.com/stories/202609230486.html"
+    },
+    {
+      "date": "2026-09-21",
+      "cat": "fed",
+      "issuer": "Ethiopian Federal Government",
+      "role": "Federal authorities, Addis Ababa",
+      "logo": "",
+      "initials": "FDRE",
+      "title": "Federal government suspends Tigrai TV indefinitely",
+      "points": [
+        "Suspended the regional broadcaster Tigrai TV indefinitely.",
+        "Barred other media outlets from broadcasting its reports.",
+        "Six days later, on Sept 27, a drone strike hit Tigrai TV's headquarters in Mekelle."
+      ],
+      "url": "https://www.france24.com/en/live-news/20260927-tigray-tv-station-hit-by-drone-rebels-advance-in-north-ethiopia"
+    },
+    {
+      "date": "2026-09-20",
+      "cat": "tigray",
+      "issuer": "TPLF and six allied groups",
+      "role": "Ethiopian Peoples' Forces Alliance for Survival",
+      "logo": "",
+      "initials": "TPLF",
+      "title": "Seven armed groups announce an alliance to remove Prime Minister Abiy",
+      "points": [
+        "The TPLF, the Oromo Liberation Army, the Amhara Fano National Movement, the ONLF and three other groups announced a joint alliance.",
+        "Said their aim is to remove Abiy Ahmed's government and replace it with an inclusive transitional government.",
+        "The announcement was read on Tigrai TV. Full-scale fighting began two days later."
+      ],
+      "url": "https://www.euronews.com/2026/09/21/former-enemies-form-alliance-to-overthrow-ethiopias-abiy-ahmed"
+    },
+    {
+      "date": "2026-09-09",
+      "cat": "rights",
+      "issuer": "Human Rights Watch",
+      "role": "Allan Ngari, Advocacy Director, Africa",
+      "logo": "hrw.org",
+      "initials": "HRW",
+      "title": "Rising Tigray tensions test the African Union",
+      "quote": "Both parties have accused the other of military mobilization, while unresolved questions over contested territories, the safe return of displaced people, and disarmament threaten the agreement.",
+      "points": [
+        "Warned that disputes over the Pretoria Agreement were pushing the parties toward war.",
+        "Reported that the TPLF had forcibly recruited civilians in Tigray, including children as young as 15.",
+        "Documented continuing abuses against Tigrayans by authorities and security forces in Western Tigray."
+      ],
+      "url": "https://www.hrw.org/news/2026/09/09/rising-tigray-tensions-test-african-union"
+    },
+    {
+      "date": "2026-09-08",
+      "cat": "foreign",
+      "issuer": "41 countries at the UN Human Rights Council",
+      "role": "Delivered by Lithuania's Ambassador Rytis Paulauskas",
+      "logo": "eeas.europa.eu",
+      "initials": "HRC",
+      "title": "Joint statement on the human rights situation in Ethiopia",
+      "quote": "Another devastating conflict should be avoided at any cost and differences between parties should be resolved via political dialogue.",
+      "points": [
+        "Warned that a new military confrontation in Tigray would have severe consequences for a region already facing drought.",
+        "Called for immediate de-escalation and adherence to the 2022 Pretoria Agreement.",
+        "Fully supported the AU-led mediation process."
+      ],
+      "url": "https://www.eeas.europa.eu/delegations/un-geneva/hrc63-joint-statement-item-2-joint-statement-human-rights-situation-ethiopia_en"
+    },
+    {
+      "date": "2026-08-26",
+      "cat": "foreign",
+      "issuer": "United States",
+      "role": "Ambassador Ervin Massinga and Walter Parks, U.S. Mission to the AU",
+      "logo": "state.gov",
+      "initials": "US",
+      "title": "U.S. urges continued engagement with AU envoy Obasanjo",
+      "quote": "We look forward to engaging former President Obasanjo",
+      "points": [
+        "Said Obasanjo's role under his African Union mandate remains critical, and hoped he would return to Tigray soon.",
+        "Warned of growing fears that the conflict could resume.",
+        "Urged priority for the drought response and the safe return of displaced people."
+      ],
+      "url": "https://allafrica.com/stories/202608270036.html"
+    },
+    {
+      "date": "2026-08-26",
+      "cat": "foreign",
+      "issuer": "EU, Canada, Norway, UK and US",
+      "role": "Joint statement by diplomatic missions in Addis Ababa",
+      "logo": "eeas.europa.eu",
+      "initials": "EU",
+      "title": "International partners warn that renewed war would be devastating",
+      "quote": "We are following developments in northern Ethiopia with deep concern.",
+      "points": [
+        "Signed by the EU, France, Germany, Italy, the Netherlands, Poland, Sweden, Canada, Norway, the UK and the US, among others.",
+        "Urged all parties to implement the Pretoria Agreement constructively and in good faith.",
+        "Backed African Union mediation led by Olusegun Obasanjo, and warned a new war would be devastating for a drought-hit region."
+      ],
+      "url": "https://capitalethiopia.com/2026/08/26/international-coalition-of-25-partners-issues-urgent-joint-warning-as-tigray-peace-talks-stall/"
+    },
+    {
+      "date": "2026-08-25",
+      "cat": "tigray",
+      "issuer": "Office of the Tigray Regional President",
+      "role": "Press Secretariat, Mekelle",
+      "logo": "",
+      "initials": "TG",
+      "title": "Tigray says talks with AU envoy Obasanjo brought no progress",
+      "quote": "neither the appetite nor the political space",
+      "points": [
+        "Said Obasanjo's Aug 24 visit to Mekelle brought no new proposals from the federal government.",
+        "Listed five unresolved issues: the economic embargo, military encirclement, occupied territories, return of displaced people, and the TPLF's legal status.",
+        "Said it would not repeat a process of talks and unfulfilled promises (quoted above)."
+      ],
+      "url": "https://allafrica.com/stories/202608270036.html"
+    },
+    {
+      "date": "2026-08-21",
+      "cat": "tigray",
+      "issuer": "TPLF",
+      "role": "Amanuel Assefa, Vice President",
+      "logo": "",
+      "initials": "TPLF",
+      "title": "TPLF says drones struck residential areas of Mekelle",
+      "points": [
+        "Said one strike hit a residential area of Mekelle and a second hit near Mekelle University.",
+        "Ayder Hospital reported at least 13 people injured, including 5 children and 7 women.",
+        "Ethiopia's federal army did not immediately comment."
+      ],
+      "url": "https://www.africanews.com/2026/08/21/drone-strike-wounds-13-in-tigray-capital-as-fears-of-renewed-war-grow/"
+    },
+    {
+      "date": "2026-08-18",
+      "cat": "tigray",
+      "issuer": "TPLF",
+      "role": "Tigray's governing party",
+      "logo": "",
+      "initials": "TPLF",
+      "title": "Tigray accuses the federal government of a drone strike near Mekelle",
+      "points": [
+        "Said a drone hit a farmer training centre in Dandera village, about 15 km from Mekelle.",
+        "Said there were no injuries; a local witness reported one fighter killed and two wounded.",
+        "Ethiopia's federal army did not comment."
+      ],
+      "url": "https://www.africanews.com/2026/08/18/ethiopia-authorities-in-tigray-accuse-addis-ababa-of-drone-strike-near-mekelle/"
+    },
+    {
+      "date": "2026-08-03",
+      "cat": "rights",
+      "issuer": "Amnesty International",
+      "role": "Tigere Chagutah, Regional Director for East and Southern Africa",
+      "logo": "amnesty.org",
+      "initials": "AI",
+      "title": "Tigray residents at renewed risk of human rights violations as violence returns",
+      "quote": "The resumption of violence in Tigray region puts residents at renewed risk of human rights violations",
+      "points": [
+        "Warned after clashes on 1 August between Tigrayan forces and the Ethiopian army.",
+        "Called on federal and Tigrayan authorities to respect human rights, and raised concerns about media restrictions and forced conscription by Tigrayan authorities.",
+        "Urged the restoration of international human rights investigations in Ethiopia."
+      ],
+      "url": "https://www.amnesty.org/en/latest/news/2026/08/ethiopia-tigray-residents-at-renewed-risk-of-human-rights-violations-as-violence-returns-to-the-region/"
+    },
+    {
+      "date": "2026-08-01",
+      "cat": "fed",
+      "issuer": "Ethiopian Federal Government",
+      "role": "Minister Abraham Belay",
+      "logo": "",
+      "initials": "FDRE",
+      "title": "Federal government blames the TPLF for clashes in Western Tigray",
+      "quote": "Enough war! Let us resolve our differences through dialogue.",
+      "points": [
+        "Accused TPLF forces of starting the fighting near the Sudanese border.",
+        "PM adviser Getachew Reda urged Tigray Defence Forces commanders to break with TPLF chairman Debretsion Gebremichael."
+      ],
+      "url": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame"
+    },
+    {
+      "date": "2026-08-01",
+      "cat": "tigray",
+      "issuer": "Government of Tigray",
+      "role": "Regional government statement from Mekelle",
+      "logo": "",
+      "initials": "TG",
+      "title": "Tigray says federal forces attacked at dawn in Western Tigray",
+      "points": [
+        "Said federal forces opened an assault at dawn, advancing from Shererina near the Sudanese border.",
+        "Described the fighting as a threat to Tigray's “national survival” and called on Tigrayans to prepare."
+      ],
+      "url": "https://www.aljazeera.com/news/2026/8/1/fighting-breaks-out-in-western-tigray-as-ethiopia-and-tplf-trade-blame"
+    },
+    {
+      "date": "2026-04-30",
+      "cat": "intl",
+      "issuer": "European Union",
+      "role": "EEAS Spokesperson",
+      "logo": "eeas.europa.eu",
+      "initials": "EU",
+      "title": "EU urges de-escalation and respect for the 2022 peace agreement",
+      "quote": "It is imperative that another devastating conflict is avoided, and that differences between parties are resolved via political dialogue.",
+      "points": [
+        "Expressed serious concern about developments in Tigray.",
+        "Urged immediate de-escalation and adherence to the November 2022 Pretoria Agreement."
+      ],
+      "url": "https://www.eeas.europa.eu/eeas/ethiopia-statement-spokesperson-latest-developments-tigray_en"
+    },
+    {
+      "date": "2026-04-22",
+      "cat": "rights",
+      "issuer": "Human Rights Watch",
+      "role": "Laetitia Bader, Deputy Africa Director",
+      "logo": "hrw.org",
+      "initials": "HRW",
+      "title": "Persecution of Tigrayans in Western Tigray is unrelenting",
+      "quote": "Tigrayans in Western Tigray Zone are facing severe and dehumanizing restrictions on all aspects of their lives.",
+      "points": [
+        "Found that Tigrayans in Western Tigray face arbitrary arrest, are refused ID cards and need hard-to-get permits to travel.",
+        "Reported that more than 740,000 people displaced from Western Tigray remain in camps in central Tigray.",
+        "Called for officials implicated in abuses to be suspended and investigated, and for targeted sanctions."
+      ],
+      "url": "https://www.hrw.org/news/2026/04/22/ethiopia-persecution-of-tigrayans-unrelenting"
+    },
+    {
+      "date": "2026-02-10",
+      "cat": "intl",
+      "issuer": "UN High Commissioner for Human Rights",
+      "role": "Volker Türk",
+      "logo": "ohchr.org",
+      "initials": "UN",
+      "title": "UN rights chief fears a new crisis in Tigray",
+      "quote": "Both sides must step back from the brink and work to resolve their differences through political means",
+      "points": [
+        "Warned of renewed heavy fighting from 26 January, with drones, artillery and heavy weapons.",
+        "Raised concern about civilians being arrested because of their perceived affiliations.",
+        "Noted that about one million people remain displaced from the 2020–2022 war."
+      ],
+      "url": "https://news.un.org/en/story/2026/02/1166930"
+    },
+    {
+      "date": "2026-01-29",
+      "cat": "foreign",
+      "issuer": "U.S. House Foreign Affairs Committee",
+      "role": "Rep. Gregory W. Meeks, Ranking Member",
+      "logo": "house.gov",
+      "initials": "US",
+      "title": "Statement on the resumption of hostilities in northern Tigray",
+      "quote": "The recent fighting in Tigray risks embroiling Ethiopia back into a civil war that endangers millions of lives",
+      "points": [
+        "Called for an immediate ceasefire and full humanitarian access.",
+        "Urged full implementation of the 2022 Cessation of Hostilities Agreement."
+      ],
+      "url": "https://democrats-foreignaffairs.house.gov/press-releases?ContentRecord_id=FA3FDBAF-848E-46B7-B4DF-DD1D96E3D554"
+    },
+    {
+      "date": "2025-07-15",
+      "cat": "rights",
+      "issuer": "Médecins Sans Frontières (MSF)",
+      "role": "Findings of MSF's investigation",
+      "logo": "msf.org",
+      "initials": "MSF",
+      "title": "MSF concludes Ethiopian soldiers deliberately killed its three staff in 2021",
+      "quote": "They were fully identifiable as humanitarian workers and were shot several times at close range while facing their attackers.",
+      "points": [
+        "Concluded that María Hernández, Yohannes Halefom Reda and Tedros Gebremariam Gebremichael were deliberately killed by members of Ethiopia's military in June 2021.",
+        "Said they were not killed by accident or in crossfire."
+      ],
+      "url": "https://www.yahoo.com/news/msf-accuses-ethiopian-soldiers-targeted-144910548.html"
+    },
+    {
+      "date": "2024-06-04",
+      "cat": "rights",
+      "issuer": "New Lines Institute",
+      "role": "Independent legal report",
+      "logo": "newlinesinstitute.org",
+      "initials": "NL",
+      "title": "Report finds strong evidence of acts of genocide against Tigrayans",
+      "points": [
+        "Concluded there is strong evidence that Ethiopian forces and their allies committed acts of genocide against Tigrayans as an ethnic group.",
+        "Listed killings, serious bodily and mental harm, measures to prevent births, and conditions of life calculated to destroy the group.",
+        "Called for Ethiopia to be brought before the International Court of Justice."
+      ],
+      "url": "https://newlinesinstitute.org/rules-based-international-order/genocide-in-tigray-serious-breaches-of-international-law-in-the-tigray-conflict-ethiopia-and-paths-to-accountability-2/"
+    },
+    {
+      "date": "2023-08-24",
+      "cat": "rights",
+      "issuer": "Physicians for Human Rights",
+      "role": "Report: Broken Promises",
+      "logo": "phr.org",
+      "initials": "PHR",
+      "title": "Sexual violence in Tigray was widespread and systematic, and continued after the truce",
+      "quote": "these incidents of conflict-related sexual violence were both widespread and systematic",
+      "points": [
+        "Reviewed 305 medical records from Tigray's health facilities; 304 documented conflict-related sexual violence.",
+        "Most attacks involved several perpetrators, identified as Eritrean or Ethiopian armed forces.",
+        "128 of the incidents happened after the November 2022 peace agreement."
+      ],
+      "url": "https://phr.org/our-work/resources/medical-records-sexual-violence-tigray-ethiopia/"
+    },
+    {
+      "date": "2023-06-01",
+      "cat": "rights",
+      "issuer": "Human Rights Watch",
+      "role": "Laetitia Bader, Deputy Africa Director",
+      "logo": "hrw.org",
+      "initials": "HRW",
+      "title": "Ethnic cleansing persists under the Tigray truce",
+      "quote": "The November truce in northern Ethiopia has not brought about an end to the ethnic cleansing of Tigrayans in Western Tigray Zone.",
+      "points": [
+        "Found that Amhara forces and local authorities kept forcibly expelling Tigrayans after the truce.",
+        "More than 1,000 Tigrayans were held in detention sites in Humera, Rawyan and Adebai, where some died of starvation and lack of medicine."
+      ],
+      "url": "https://www.hrw.org/news/2023/06/01/ethiopia-ethnic-cleansing-persists-under-tigray-truce"
+    },
+    {
+      "date": "2022-11-02",
+      "cat": "intl",
+      "issuer": "UN Secretary-General",
+      "role": "António Guterres",
+      "logo": "un.org",
+      "initials": "UN",
+      "title": "UN chief welcomes the Pretoria peace agreement",
+      "quote": "a critical first step towards ending the devastating two-year old conflict",
+      "points": [
+        "Welcomed the signing of the Permanent Cessation of Hostilities Agreement in Pretoria.",
+        "Urged the international community to support the agreement and the parties to keep negotiating in a spirit of reconciliation."
+      ],
+      "url": "https://news.un.org/en/story/2022/11/1130137"
+    },
+    {
+      "date": "2022-04-06",
+      "cat": "rights",
+      "issuer": "Human Rights Watch & Amnesty International",
+      "role": "Joint report: “We Will Erase You from This Land”",
+      "logo": "hrw.org",
+      "initials": "HRW",
+      "title": "Crimes against humanity and ethnic cleansing in Western Tigray",
+      "points": [
+        "Concluded that Amhara officials and forces, with the acquiescence and possible participation of federal forces, carried out a campaign of ethnic cleansing against Tigrayans.",
+        "Documented killings, sexual violence, mass detention, denial of aid and the forced removal of hundreds of thousands of people.",
+        "Based on more than 400 interviews; called for accountability and an African Union-led peacekeeping force."
+      ],
+      "url": "https://www.hrw.org/news/2022/04/06/crimes-against-humanity-and-ethnic-cleansing-ethiopias-western-tigray-zone"
+    },
+    {
+      "date": "2022-01-12",
+      "cat": "intl",
+      "issuer": "World Health Organization",
+      "role": "Director-General Tedros Adhanom Ghebreyesus",
+      "logo": "who.int",
+      "initials": "WHO",
+      "title": "WHO chief says the blockade has created “hell” in Tigray",
+      "quote": "Nowhere in the world are we witnessing hell like in Tigray",
+      "points": [
+        "Said the blockade was stopping food and medicine from reaching Tigray and called it an insult to humanity.",
+        "Said all WHO requests for permission to deliver life-saving medicines had been refused."
+      ],
+      "url": "https://www.aljazeera.com/news/2022/1/12/blockade-creates-hell-in-ethiopias-tigray-who"
+    },
+    {
+      "date": "2021-12-17",
+      "cat": "intl",
+      "issuer": "UN Human Rights Council",
+      "role": "Special session on Ethiopia, requested by the European Union",
+      "logo": "ohchr.org",
+      "initials": "HRC",
+      "title": "UN sets up an international commission to investigate abuses in Ethiopia",
+      "points": [
+        "Voted 21 to 15, with 11 abstentions, to create the International Commission of Human Rights Experts on Ethiopia.",
+        "Gave it a mandate to investigate violations committed since 3 November 2020."
+      ],
+      "url": "https://www.ohchr.org/en/press-releases/2021/12/human-rights-council-decides-establish-international-commission-human-rights"
+    },
+    {
+      "date": "2021-09-29",
+      "cat": "intl",
+      "issuer": "UN Emergency Relief Coordinator",
+      "role": "Martin Griffiths",
+      "logo": "unocha.org",
+      "initials": "UN",
+      "title": "UN aid chief calls Tigray's hunger crisis “a stain on our conscience”",
+      "quote": "This is man-made, this can be remedied by the act of government.",
+      "points": [
+        "Described a de facto blockade of food, medicine and fuel to Tigray.",
+        "Said Tigray needed 100 aid trucks a day, but only about 10% had got through in the previous three months."
+      ],
+      "url": "https://www.aljazeera.com/news/2021/9/29/ethiopias-tigray-crisis-stain-on-our-conscience-un"
+    },
+    {
+      "date": "2021-08-11",
+      "cat": "rights",
+      "issuer": "Amnesty International",
+      "role": "Report: “I Don't Know If They Realized I Was a Person”",
+      "logo": "amnesty.org",
+      "initials": "AI",
+      "title": "Troops and militia raped and abducted women and girls in Tigray",
+      "points": [
+        "Based on interviews with 63 survivors, found that women and girls were raped, held in sexual slavery and tortured by Ethiopian and Eritrean soldiers, Amhara special forces and Fano militia.",
+        "Concluded the violations amount to war crimes and may amount to crimes against humanity."
+      ],
+      "url": "https://www.amnesty.org/en/latest/news/2021/08/ethiopia-troops-and-militia-rape-abduct-women-and-girls-in-tigray-conflict-new-report/"
+    },
+    {
+      "date": "2021-06-25",
+      "cat": "rights",
+      "issuer": "Médecins Sans Frontières (MSF)",
+      "role": "Marta Cañas, MSF General Director",
+      "logo": "msf.org",
+      "initials": "MSF",
+      "title": "Three MSF staff killed in an attack in Tigray",
+      "quote": "No words can truly convey all our sadness, shock and outrage against this horrific attack.",
+      "points": [
+        "María Hernández, Yohannes Halefom Reda and Tedros Gebremariam Gebremichael were found dead beside their vehicle on 24 June 2021."
+      ],
+      "url": "https://www.doctorswithoutborders.org/latest/ethiopia-three-msf-staff-killed-attack"
+    },
+    {
+      "date": "2021-06-10",
+      "cat": "intl",
+      "issuer": "UN Under-Secretary-General for Humanitarian Affairs",
+      "role": "Mark Lowcock",
+      "logo": "unocha.org",
+      "initials": "UN",
+      "title": "UN declares famine in Tigray",
+      "quote": "There is famine now in Tigray.",
+      "points": [
+        "More than 350,000 people in Tigray were found to be living in famine conditions.",
+        "Said it was the highest number of people in famine anywhere in the world since 2011 in Somalia."
+      ],
+      "url": "https://www.aljazeera.com/news/2021/6/10/un-official-says-350000-people-in-famine-in-ethiopias-tigray"
+    },
+    {
+      "date": "2021-04-02",
+      "cat": "foreign",
+      "issuer": "G7 Foreign Ministers",
+      "role": "Canada, France, Germany, Italy, Japan, the UK, the US and the EU High Representative",
+      "logo": "eeas.europa.eu",
+      "initials": "G7",
+      "title": "G7 statement on the situation in Tigray",
+      "quote": "All parties must exercise utmost restraint, ensure the protection of civilians and respect human rights and international law.",
+      "points": [
+        "Condemned killings, sexual violence, indiscriminate shelling and forced displacement.",
+        "Called for an independent investigation and immediate, unhindered humanitarian access.",
+        "Welcomed the announced withdrawal of Eritrean forces from Tigray."
+      ],
+      "url": "https://eeas.europa.eu/headquarters/headquarters-homepage/96145/ethiopia-g7-foreign-ministers-statement-situation-tigray_en"
+    },
+    {
+      "date": "2021-03-10",
+      "cat": "foreign",
+      "issuer": "United States",
+      "role": "Secretary of State Antony Blinken, testifying to Congress",
+      "logo": "state.gov",
+      "initials": "US",
+      "title": "U.S. Secretary of State describes “acts of ethnic cleansing” in Western Tigray",
+      "quote": "acts of ethnic cleansing, which we've seen in Western Tigray",
+      "points": [
+        "Called for Eritrean and Amhara forces to leave Tigray.",
+        "Called for unhindered humanitarian access and an independent investigation of abuses."
+      ],
+      "url": "https://www.cnn.com/2021/03/10/politics/blinken-tigray-ethnic-cleansing"
+    },
+    {
+      "date": "2021-03-04",
+      "cat": "intl",
+      "issuer": "UN High Commissioner for Human Rights",
+      "role": "Michelle Bachelet",
+      "logo": "ohchr.org",
+      "initials": "UN",
+      "title": "UN rights chief says war crimes may have been committed by multiple parties in Tigray",
+      "points": [
+        "Said serious violations, possibly amounting to war crimes and crimes against humanity, may have been committed by the Ethiopian army, the TPLF, Eritrean forces, and Amhara regional forces and militia.",
+        "Cited corroborated reports of mass killings in Axum and Dengelat by Eritrean forces, and indiscriminate shelling in Mekelle, Humera and Adigrat.",
+        "Called for an objective, independent investigation."
+      ],
+      "url": "https://news.un.org/en/story/2021/03/1086472"
+    },
+    {
+      "date": "2021-02-27",
+      "cat": "foreign",
+      "issuer": "United States",
+      "role": "Secretary of State Antony Blinken",
+      "logo": "state.gov",
+      "initials": "US",
+      "title": "Atrocities in Ethiopia's Tigray region",
+      "quote": "the immediate withdrawal of Eritrean forces and Amhara regional forces from Tigray",
+      "points": [
+        "Said the U.S. was gravely concerned by reported atrocities in Tigray.",
+        "Condemned killings, forced removals, sexual assaults and other serious abuses.",
+        "Called for an end to hostilities and unhindered delivery of aid."
+      ],
+      "url": "https://www.globalsecurity.org/military/library/news/2021/02/mil-210227-state01.htm"
+    },
+    {
+      "date": "2021-02-26",
+      "cat": "rights",
+      "issuer": "Amnesty International",
+      "role": "Deprose Muchena, Director for East and Southern Africa",
+      "logo": "amnesty.org",
+      "initials": "AI",
+      "title": "Eritrean troops' massacre of hundreds of civilians in Axum may be a crime against humanity",
+      "quote": "Ethiopian and Eritrean troops carried out multiple war crimes in their offensive to take control of Axum.",
+      "points": [
+        "Found that Eritrean troops systematically killed hundreds of unarmed civilians in Axum on 28–29 November 2020.",
+        "Based on 41 survivors and witnesses; satellite images showed signs of mass burials near two churches.",
+        "Called for a UN-led investigation and full access to Tigray."
+      ],
+      "url": "https://www.amnesty.org/en/latest/news/2021/02/ethiopia-eritrean-troops-massacre-of-hundreds-of-axum-civilians-may-amount-to-crime-against-humanity/"
+    },
+    {
+      "date": "2020-11-04",
+      "cat": "intl",
+      "issuer": "UN Secretary-General",
+      "role": "António Guterres",
+      "logo": "un.org",
+      "initials": "UN",
+      "title": "UN chief alarmed by clashes in Tigray, calls for immediate de-escalation",
+      "quote": "deeply alarmed over the situation in the Tigray region of Ethiopia",
+      "points": [
+        "Issued on the day the war began.",
+        "Called for immediate steps to de-escalate tensions and a peaceful resolution."
+      ],
+      "url": "https://press.un.org/en/2020/sgsm20396.doc.htm"
+    }
+  ]
 }
