@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-04T01:20:00Z",
+  "updated": "2026-10-04T02:25:00Z",
   "items": [
+    {
+      "date": "2026-10-03",
+      "outlet": "TRT World",
+      "logo": "trtworld.com",
+      "color": "#a30d1f",
+      "title": "Ethiopian pro-government forces say they have recaptured Tigray's capital airport",
+      "url": "https://www.trtworld.com/article/71b3506bda6b"
+    },
+    {
+      "date": "2026-10-03",
+      "outlet": "The Jerusalem Post",
+      "logo": "jpost.com",
+      "color": "#0b3a6e",
+      "title": "Ethiopia allied militia claims capture of Mekelle airport in Tigray",
+      "url": "https://www.jpost.com/international/article-910448"
+    },
     {
       "date": "2026-10-03",
       "outlet": "Al Jazeera",
@@ -32,6 +48,14 @@
       "color": "#a86400",
       "title": "Ethiopian gov’t-aligned group claims close to full control of Tigray region",
       "url": "https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region"
+    },
+    {
+      "date": "2026-10-02",
+      "outlet": "Semafor",
+      "logo": "semafor.com",
+      "color": "#1b1b1b",
+      "title": "African Union urges restraint as Ethiopia tensions grow",
+      "url": "https://www.semafor.com/article/10/02/2026/african-union-urges-restraint-as-ethiopia-tensions-grow"
     },
     {
       "date": "2026-10-01",
