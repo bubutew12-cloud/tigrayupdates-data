@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T07:30:00Z",
+  "updated": "2026-10-04T09:30:00Z",
   "items": [
     {
       "date": "2026-10-04",
@@ -63,6 +63,22 @@
         "Eritrea has denied involvement."
       ],
       "url": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north"
+    },
+    {
+      "date": "2026-10-01",
+      "cat": "intl",
+      "issuer": "African Union Commission",
+      "role": "",
+      "logo": "au.int",
+      "initials": "AU",
+      "title": "AU Commission urges Ethiopia, Eritrea and Egypt to avoid escalation",
+      "quote": "exercise maximum restraint and refrain from actions or statements that could further escalate tensions",
+      "points": [
+        "Called on Ethiopia, Eritrea and Egypt to show maximum restraint.",
+        "Urged the three countries to settle differences through diplomatic channels and dialogue.",
+        "Said it stands ready to support de-escalation and peaceful resolution of differences."
+      ],
+      "url": "https://au.int/en/pressreleases/20261001/statement-auc-escalating-tensions-between-ethiopia-eritrea-and-egypt"
     },
     {
       "date": "2026-09-30",

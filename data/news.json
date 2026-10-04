@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T08:16:00Z",
+  "updated": "2026-10-04T09:30:00Z",
   "items": [
     {
       "date": "2026-10-04",
@@ -8,6 +8,14 @@
       "color": "#a86400",
       "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle"
+    },
+    {
+      "date": "2026-10-03",
+      "outlet": "France 24",
+      "logo": "france24.com",
+      "color": "#0b6aa8",
+      "title": "Ethiopia's Tigray rebels abandon regional capital Mekelle as government forces enter city",
+      "url": "https://www.france24.com/en/africa/20261003-ethiopia-s-tigray-rebels-abandon-regional-capital-of-mekelle-as-pro-government-forces-advance"
     },
     {
       "date": "2026-10-03",
