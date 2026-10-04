@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T11:30:00Z",
+  "updated": "2026-10-04T12:30:00Z",
   "items": [
     {
       "date": "2026-10-04",
@@ -16,6 +16,21 @@
         "Ethiopian government and allied forces have said they control the city; this is as reported by TRT World."
       ],
       "url": "https://www.trtworld.com/article/3efcc811f992"
+    },
+    {
+      "date": "2026-10-04",
+      "cat": "tigray",
+      "issuer": "TPLF",
+      "role": "Chairman Debretsion Gebremichael",
+      "logo": "",
+      "initials": "TPLF",
+      "title": "TPLF chairman says the fighting continues the previous war",
+      "points": [
+        "Said the current fighting is a \"continuation of the previous war\", as reported by AP.",
+        "Said TPLF forces would keep attacking and defending the region.",
+        "AP reported the TPLF left Mekelle to spare the city from destruction."
+      ],
+      "url": "https://abcnews.com/International/wireStory/opposition-fighters-northern-ethiopias-tigray-withdraw-regional-capital-136984315"
     },
     {
       "date": "2026-10-04",

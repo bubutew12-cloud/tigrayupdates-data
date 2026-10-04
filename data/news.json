@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-04T11:30:00Z",
+  "updated": "2026-10-04T12:30:00Z",
   "items": [
+    {
+      "date": "2026-10-04",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
+      "url": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels"
+    },
+    {
+      "date": "2026-10-04",
+      "outlet": "Associated Press",
+      "logo": "apnews.com",
+      "color": "#9e1b1b",
+      "title": "Opposition fighters in northern Ethiopia's Tigray withdraw from regional capital",
+      "url": "https://abcnews.com/International/wireStory/opposition-fighters-northern-ethiopias-tigray-withdraw-regional-capital-136984315"
+    },
     {
       "date": "2026-10-04",
       "outlet": "TRT World",
