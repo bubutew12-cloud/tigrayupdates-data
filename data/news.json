@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-05T17:30:00Z",
+  "updated": "2026-10-05T18:30:00Z",
   "items": [
+    {
+      "date": "2026-10-05",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
+      "url": "https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates"
+    },
     {
       "date": "2026-10-05",
       "outlet": "TimesLive (Reuters)",
