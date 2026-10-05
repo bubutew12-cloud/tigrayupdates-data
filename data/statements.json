@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-04T12:30:00Z",
+  "updated": "2026-10-05T05:30:00Z",
   "items": [
+    {
+      "date": "2026-10-04",
+      "cat": "foreign",
+      "issuer": "Egypt",
+      "role": "President Abdel Fattah al-Sisi",
+      "logo": "presidency.eg",
+      "initials": "EG",
+      "title": "Egypt's president urges dialogue as violence continues in Ethiopia",
+      "quote": "dialogue, not confrontation",
+      "points": [
+        "Said cross-border challenges require cooperation, not competition.",
+        "Called for dialogue and consultation, away from unilateral policies or narrow interests.",
+        "Spoke at a meeting in El-Alamein, Egypt, with leaders of Eritrea, Somalia and Sudan, as reported by the Taipei Times."
+      ],
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/05/2003865405"
+    },
     {
       "date": "2026-10-04",
       "cat": "tigray",
