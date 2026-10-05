@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T19:30:00Z",
+  "updated": "2026-10-05T00:25:00Z",
   "items": [
     {
       "date": "2026-10-04",
@@ -209,6 +209,14 @@
       "color": "#13306e",
       "title": "Tigray rebels push into Afar as Ethiopia blames neighbours",
       "url": "https://euronews.com/2026/09/28/tigray-rebels-push-into-afar-as-ethiopia-blames-neighbours"
+    },
+    {
+      "date": "2026-09-28",
+      "outlet": "France 24",
+      "logo": "france24.com",
+      "color": "#0b6aa8",
+      "title": "Ethiopia accuses Eritrea, Sudan of backing Tigray rebels amid clashes",
+      "url": "https://www.france24.com/en/africa/20260927-ethiopia-accuses-eritrea-sudan-backing-tigray-rebels"
     },
     {
       "date": "2026-09-27",
