@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T05:30:00Z",
+  "updated": "2026-10-05T10:30:00Z",
   "items": [
     {
       "date": "2026-10-04",
@@ -217,6 +217,21 @@
         "Eritrea, Sudan and Egypt have all rejected the accusations."
       ],
       "url": "https://www.euronews.com/2026/09/27/ethiopias-army-chief-accuses-egypt-and-sudan-of-backing-armed-alliance-seeking-to-oust-abi"
+    },
+    {
+      "date": "2026-09-26",
+      "cat": "intl",
+      "issuer": "UN High Commissioner for Human Rights",
+      "role": "Volker Türk",
+      "logo": "ohchr.org",
+      "initials": "UN",
+      "title": "UN rights chief alarmed by civilian toll as fighting intensifies in Ethiopia",
+      "points": [
+        "Said he was alarmed by the mounting toll on civilians and called on all parties to protect civilians and urgently de-escalate.",
+        "Cited reported airstrikes by Ethiopian forces on five schools in Tigray on 22 September and a mortar strike in Kobo, Amhara, on 23 September. These reports are as relayed by JURIST and are unverified here.",
+        "Raised concern about reported forced recruitment of civilians and children by the TPLF and arbitrary conscription by government forces."
+      ],
+      "url": "https://www.jurist.org/news/2026/09/un-high-commissioner-for-human-rights-urges-de-escalation-as-fighting-intensifies-in-ethiopia/"
     },
     {
       "date": "2026-09-25",
