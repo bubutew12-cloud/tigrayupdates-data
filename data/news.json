@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-05T01:30:00Z",
+  "updated": "2026-10-05T02:30:00Z",
   "items": [
+    {
+      "date": "2026-10-05",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Ethiopia's forces retake Mekelle amid renewed Tigray fighting",
+      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting"
+    },
+    {
+      "date": "2026-10-05",
+      "outlet": "The Express Tribune",
+      "logo": "tribune.com.pk",
+      "color": "#9b1c1c",
+      "title": "Ethiopia controls Tigray capital amid Egypt talks",
+      "url": "https://tribune.com.pk/story/2633029/ethiopia-controls-tigray-capital-amid-egypt-talks"
+    },
     {
       "date": "2026-10-04",
       "outlet": "Al Jazeera",
