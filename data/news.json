@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-05T12:30:00Z",
+  "updated": "2026-10-05T17:30:00Z",
   "items": [
+    {
+      "date": "2026-10-05",
+      "outlet": "TimesLive (Reuters)",
+      "logo": "timeslive.co.za",
+      "color": "#a30d0d",
+      "title": "At least 17 killed as Ethiopia-Tigray conflict reignites",
+      "url": "https://timeslive.co.za/news/africa/2026-10-05-at-least-17-killed-as-ethiopia-tigray-conflict-reignites"
+    },
     {
       "date": "2026-10-05",
       "outlet": "Al Jazeera",
