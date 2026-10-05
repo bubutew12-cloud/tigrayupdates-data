@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-05T10:30:00Z",
+  "updated": "2026-10-05T20:30:00Z",
   "items": [
+    {
+      "date": "2026-10-04",
+      "cat": "foreign",
+      "issuer": "Leaders of Egypt, Eritrea, Somalia and Sudan",
+      "role": "Joint declaration after a meeting in New Alamein, Egypt",
+      "logo": "",
+      "initials": "4L",
+      "title": "Four leaders issue joint declaration as Ethiopia war escalates",
+      "quote": "a dialogue, not confrontation",
+      "points": [
+        "Called for dialogue on cross-border challenges in the region.",
+        "Said the Red Sea should remain under the authority of coastal states.",
+        "Egypt and Sudan warned against what they called unilateral measures harming downstream countries on the Nile."
+      ],
+      "url": "https://www.aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates"
+    },
     {
       "date": "2026-10-04",
       "cat": "foreign",
