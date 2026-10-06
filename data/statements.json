@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-06T00:30:00Z",
+  "updated": "2026-10-06T18:25:00Z",
   "items": [
+    {
+      "date": "2026-10-05",
+      "cat": "intl",
+      "issuer": "United Nations",
+      "role": "Office of the Spokesperson for the Secretary-General, daily briefing",
+      "logo": "un.org",
+      "initials": "UN",
+      "title": "UN says aid warehouse looted in Tigray and civilian casualties are growing",
+      "quote": "Humanitarian personnel, premises and assets must never be targeted and must be protected at all times.",
+      "points": [
+        "Expressed deep concern about growing reports of civilian casualties, including among displaced people, in northern Ethiopia.",
+        "Said a UN agency warehouse and facilities of local and international aid groups were looted in Tigray, with food, seed, fertilizer and water pumps lost.",
+        "Said phone and electronic banking services resumed in most of Tigray after more than a week, and aid deliveries to Tigray and Afar are planned to resume."
+      ],
+      "url": "https://press.un.org/en/2026/db261005.doc.htm"
+    },
     {
       "date": "2026-10-05",
       "cat": "fed",
