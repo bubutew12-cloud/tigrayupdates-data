@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-06T08:30:00Z",
+  "updated": "2026-10-06T10:18:00Z",
   "items": [
+    {
+      "date": "2026-10-05",
+      "outlet": "CNBC Africa (Reuters)",
+      "logo": "cnbcafrica.com",
+      "color": "#8a1c1c",
+      "title": "Government forces seize capital of Ethiopia's Tigray region from rebels",
+      "url": "https://www.cnbcafrica.com/2026/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels"
+    },
+    {
+      "date": "2026-10-05",
+      "outlet": "ThePrint (Reuters)",
+      "logo": "theprint.in",
+      "color": "#1f4e79",
+      "title": "Airstrikes and artillery hit north Ethiopia after Tigray capital's fall, aid sources say",
+      "url": "https://theprint.in/world/airstrikes-and-artillery-hit-north-ethiopia-after-tigray-capitals-fall-aid-sources-say/3062472"
+    },
     {
       "date": "2026-10-05",
       "outlet": "Daily Sabah",
