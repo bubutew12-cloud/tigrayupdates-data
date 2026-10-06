@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T20:30:00Z",
+  "updated": "2026-10-06T00:30:00Z",
   "items": [
     {
       "date": "2026-10-05",
@@ -58,6 +58,14 @@
       "url": "https://www.ewn.co.za/2026/10/05/ethiopia-controls-tigray-capital-as-regional-rivals-meet-in-egypt"
     },
     {
+      "date": "2026-10-05",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Ethiopia's PM insists on access to Red Sea despite regional conflict threat",
+      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat"
+    },
+    {
       "date": "2026-10-04",
       "outlet": "BBC",
       "logo": "bbc.com",
@@ -112,6 +120,14 @@
       "color": "#0b6aa8",
       "title": "Ethiopian federal forces control Tigray capital as regional rivals meet in Egypt",
       "url": "https://www.france24.com/en/africa/20261004-ethiopian-federal-forces-control-tigray-capital-as-regional-rivals-meet-in-egypt"
+    },
+    {
+      "date": "2026-10-04",
+      "outlet": "Africanews",
+      "logo": "africanews.com",
+      "color": "#1a4a8a",
+      "title": "Ethiopian forces recapture Mekelle airport from Tigrayan fighters",
+      "url": "https://www.africanews.com/2026/10/04/ethiopian-forces-recapture-mekelle-airport-from-tigrayan-fighters/"
     },
     {
       "date": "2026-10-03",

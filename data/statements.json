@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-05T20:30:00Z",
+  "updated": "2026-10-06T00:30:00Z",
   "items": [
+    {
+      "date": "2026-10-05",
+      "cat": "fed",
+      "issuer": "Prime Minister Abiy Ahmed",
+      "role": "Ethiopian Prime Minister, speaking in Parliament at his swearing-in",
+      "logo": "",
+      "initials": "PM",
+      "title": "Abiy says Ethiopia will keep seeking access to the Red Sea",
+      "quote": "Based on the principle of give and take, we will work diligently to ensure that Ethiopia has an outlet to the sea",
+      "points": [
+        "Said Ethiopia will work to secure an outlet to the sea.",
+        "Spoke at his swearing-in for another five-year term, as fighting continues in Tigray.",
+        "Four Red Sea states said earlier that only coastal states should govern the waterway."
+      ],
+      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat"
+    },
     {
       "date": "2026-10-04",
       "cat": "foreign",
