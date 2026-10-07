@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T09:30:00Z",
+  "updated": "2026-10-07T15:25:00Z",
   "items": [
     {
       "date": "2026-10-06",
@@ -130,6 +130,14 @@
       "url": "https://www.ewn.co.za/2026/10/05/ethiopia-controls-tigray-capital-as-regional-rivals-meet-in-egypt"
     },
     {
+      "date": "2026-10-05",
+      "outlet": "Arab News",
+      "logo": "arabnews.pk",
+      "color": "#1a5c3a",
+      "title": "Ethiopia's regional rivals urge 'peaceful' solutions to disputes at Egypt summit",
+      "url": "https://www.arabnews.pk/world/ethiopias-regional-rivals-urge-peaceful-solutions-to-disputes-at-egypt-summit-3003202"
+    },
+    {
       "date": "2026-10-04",
       "outlet": "BBC",
       "logo": "bbc.com",
@@ -208,6 +216,14 @@
       "color": "#7a3b00",
       "title": "Ethiopia: New Interim Administration to Be Established in Tigray Region",
       "url": "https://allafrica.com/stories/202610050088.html"
+    },
+    {
+      "date": "2026-10-04",
+      "outlet": "The National",
+      "logo": "thenationalnews.com",
+      "color": "#1f3a5f",
+      "title": "Egypt hosts four-way summit as tensions with Ethiopia escalate",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/04/egypt-hosts-four-way-summit-as-tensions-with-ethiopia-escalate/"
     },
     {
       "date": "2026-10-03",
