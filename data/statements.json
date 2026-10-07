@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T18:25:00Z",
+  "updated": "2026-10-07T16:30:00Z",
   "items": [
     {
       "date": "2026-10-05",
@@ -204,6 +204,22 @@
         "Called for civilians to be protected."
       ],
       "url": "https://www.euronews.com/2026/09/30/qatar-and-uae-back-ethiopian-government-as-fighting-spreads-beyond-tigray"
+    },
+    {
+      "date": "2026-09-30",
+      "cat": "foreign",
+      "issuer": "Holy See",
+      "role": "Pope Leo XIV",
+      "logo": "vatican.va",
+      "initials": "HS",
+      "title": "Pope Leo XIV appeals for dialogue in Tigray, Afar and Amhara",
+      "quote": "Armed conflict never solves problems but only worsens them leaving in its wake a trail of death, destruction and resentment",
+      "points": [
+        "Appealed for peace in Tigray and the neighbouring Afar and Amhara regions.",
+        "Invited all parties to choose the path of dialogue.",
+        "Hoped the international community would give generous and timely humanitarian aid."
+      ],
+      "url": "https://www.africanews.com/amp/2026/09/30/pope-leo-xiv-calls-for-dialogue-in-ethiopia-amid-renewed-fighting-in-tigray/"
     },
     {
       "date": "2026-09-29",
