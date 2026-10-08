@@ -1,6 +1,9 @@
 {
-  "updated": "2026-10-08T20:00:00Z",
+  "updated": "2026-10-08T21:30:00Z",
   "items": [
+    { "date": "2026-10-03", "place": "Mekelle", "at": [13.497, 39.475], "title": "Federal and allied forces say they took Mekelle",
+      "text": "Residents told Xinhua that federal forces and the Tigray Peace Force took control of Mekelle late on Saturday, with limited fighting in or around the city.",
+      "source": "China Daily (citing Xinhua)", "url": "https://www.chinadailyhk.com/article/640572" },
     { "date": "2026-10-03", "place": "Mekelle airport", "at": [13.467, 39.533], "title": "Government forces retake Mekelle's airport",
       "text": "Ethiopian government forces recaptured Alula Aba Nega Airport after fighting that began on 23 September.",
       "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know" },
