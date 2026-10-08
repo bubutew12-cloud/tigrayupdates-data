@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-07T16:30:00Z",
+  "updated": "2026-10-08T15:30:00Z",
   "items": [
+    {
+      "date": "2026-10-08",
+      "cat": "foreign",
+      "issuer": "Eritrea",
+      "role": "Information Minister Yemane Meskel",
+      "logo": "",
+      "initials": "ER",
+      "title": "Eritrea accuses Ethiopia of seeking regime change",
+      "quote": "openly working to bring about regime change in Eritrea",
+      "points": [
+        "Said Ethiopia is shielding and supporting what he called mercenaries posing as opposition.",
+        "Earlier called Ethiopia's accusations of Eritrean involvement \"false flags\" to justify war, as reported by Euronews.",
+        "Ethiopia accuses Eritrea of backing Tigray rebels. Neither government answered questions about the fighting."
+      ],
+      "url": "https://www.euronews.com/2026/10/08/ethiopian-drones-hit-eritrean-forces-accused-of-backing-rebels-in-tigray"
+    },
     {
       "date": "2026-10-05",
       "cat": "intl",
