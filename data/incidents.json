@@ -1,0 +1,32 @@
+{
+  "updated": "2026-10-08T20:00:00Z",
+  "items": [
+    { "date": "2026-10-03", "place": "Mekelle airport", "at": [13.467, 39.533], "title": "Government forces retake Mekelle's airport",
+      "text": "Ethiopian government forces recaptured Alula Aba Nega Airport after fighting that began on 23 September.",
+      "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know" },
+    { "date": "2026-09-28", "place": "Alamata", "at": [12.417, 39.55], "title": "Heavy fighting around Alamata",
+      "text": "Government troops took control of Alamata after days of fighting. A medic told the BBC that at least 52 civilians were killed.",
+      "source": "The Star (Kenya) / BBC", "url": "https://www.the-star.co.ke/news/africa/2026-09-30-medic-ethiopia-fighting-escalates-in-tigray-killing-52-civilians" },
+    { "date": "2026-09-27", "place": "Mekelle", "at": [13.49, 39.47], "title": "Drone strike hits Tigrai TV headquarters",
+      "text": "A drone struck the building of Tigray's public television station in Mekelle, taking it off air. No casualties were reported at the time.",
+      "source": "France 24", "url": "https://www.france24.com/en/live-news/20260927-tigray-tv-station-hit-by-drone-rebels-advance-in-north-ethiopia" },
+    { "date": "2026-09-24", "place": "Kobo (Amhara)", "at": [12.15, 39.633], "title": "Mortar strike kills civilians in Kobo",
+      "text": "The UN human rights chief reported that a mortar strike killed civilians in Kobo, in Amhara near the Tigray border.",
+      "source": "UN News", "url": "https://news.un.org/en/story/2026/09/1168450" },
+    { "date": "2026-09-24", "place": "Abala (Afar)", "at": [13.36, 39.75], "title": "Tigrayan forces capture Abala",
+      "text": "Tigrayan forces captured Abala, a district capital in the neighbouring Afar region, as fighting spread.",
+      "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/9/24/fighting-widens-across-ethiopia-as-tigray-clashes-escalate" },
+    { "date": "2026-09-23", "place": "Axum airport", "at": [14.147, 38.773], "title": "Airports at Mekelle, Axum and Shire seized",
+      "text": "Tigrayan forces seized the airports of Mekelle, Axum and Shire, and flights to the region were cancelled.",
+      "source": "UN Secretary-General", "url": "https://press.un.org/en/2026/sgsm23299.doc.htm" },
+    { "date": "2026-09-23", "place": "Shire airport", "at": [14.078, 38.272], "title": "Airports at Mekelle, Axum and Shire seized",
+      "text": "Tigrayan forces seized the airports of Mekelle, Axum and Shire, and flights to the region were cancelled.",
+      "source": "UN Secretary-General", "url": "https://press.un.org/en/2026/sgsm23299.doc.htm" },
+    { "date": "2026-09-20", "place": "Near Adi Daero", "at": [14.33, 38.17], "title": "Drone strike destroys food aid truck",
+      "text": "A drone struck a truck carrying about 41 tonnes of food for displaced families in Sheraro. A 13-year-old girl was injured.",
+      "source": "allAfrica / U.S. State Department", "url": "https://allafrica.com/stories/202609230486.html" },
+    { "date": "2026-08-20", "place": "Mekelle", "at": [13.5, 39.48], "title": "Airstrike on a residential compound in Mekelle",
+      "text": "Human Rights Watch found that an apparent Ethiopian government airstrike hit a compound for teachers and their families, wounding 13 civilians including 7 children.",
+      "source": "Human Rights Watch", "url": "https://hrw.org/news/2026/09/25/ethiopia-indiscriminate-airstrike-in-tigray" }
+  ]
+}
