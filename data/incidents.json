@@ -1,6 +1,9 @@
 {
-  "updated": "2026-10-08T21:30:00Z",
+  "updated": "2026-10-08T23:30:00Z",
   "items": [
+    { "date": "2026-10-04", "place": "Sheraro", "at": [14.397, 37.77], "title": "Drone strike reported on Sheraro displacement camp",
+      "text": "An aid worker told AFP that a drone strike early on Sunday on a camp for displaced people killed at least eight people, including a child, and seriously wounded six. AFP said it could not verify the toll independently.",
+      "source": "Oman Observer (AFP)", "url": "https://www.omanobserver.om/article/1197305/world/africa/drone-strike-on-tigray-displacement-camp-kills-eight" },
     { "date": "2026-10-03", "place": "Mekelle", "at": [13.497, 39.475], "title": "Federal and allied forces say they took Mekelle",
       "text": "Residents told Xinhua that federal forces and the Tigray Peace Force took control of Mekelle late on Saturday, with limited fighting in or around the city.",
       "source": "China Daily (citing Xinhua)", "url": "https://www.chinadailyhk.com/article/640572" },
@@ -28,6 +31,9 @@
     { "date": "2026-09-20", "place": "Near Adi Daero", "at": [14.33, 38.17], "title": "Drone strike destroys food aid truck",
       "text": "A drone struck a truck carrying about 41 tonnes of food for displaced families in Sheraro. A 13-year-old girl was injured.",
       "source": "allAfrica / U.S. State Department", "url": "https://allafrica.com/stories/202609230486.html" },
+    { "date": "2026-09-08", "place": "Near Freweyni", "at": [14.05, 39.567], "title": "Drone strikes reported near Freweyni",
+      "text": "Hintalo district officials told Tigray TV that drone strikes on a residential area in the MyShumet area near Freweyni killed three people, including a two-year-old child, and injured four. Addis Standard could not verify the figures. The federal government made no immediate comment.",
+      "source": "Addis Standard (via allAfrica)", "url": "https://allafrica.com/stories/202609090028.html" },
     { "date": "2026-08-20", "place": "Mekelle", "at": [13.5, 39.48], "title": "Airstrike on a residential compound in Mekelle",
       "text": "Human Rights Watch found that an apparent Ethiopian government airstrike hit a compound for teachers and their families, wounding 13 civilians including 7 children.",
       "source": "Human Rights Watch", "url": "https://hrw.org/news/2026/09/25/ethiopia-indiscriminate-airstrike-in-tigray" }
