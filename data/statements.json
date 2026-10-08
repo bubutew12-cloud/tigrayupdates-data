@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T18:30:00Z",
+  "updated": "2026-10-08T19:30:00Z",
   "items": [
+    {
+      "date": "2026-10-08",
+      "cat": "fed",
+      "issuer": "Ethiopian Government Communication Service",
+      "role": "Government Communication Minister Enatalem Melese",
+      "logo": "",
+      "initials": "GCS",
+      "title": "Ethiopia demands foreign forces leave its territory",
+      "quote": "All foreign military forces operating within our sovereign territory must withdraw immediately.",
+      "points": [
+        "Government Communication Minister Enatalem Melese demanded that foreign troops leave Ethiopia, as reported by The National.",
+        "Came after witnesses and an allied militia commander said Eritrean troops had entered Tigray. Reuters said it could not independently verify these accounts.",
+        "Eritrea's information minister called Ethiopia's self-defence claims a pretext for a war of aggression."
+      ],
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/08/ethiopia-and-eritrea-edge-closer-to-direct-conflict-as-troops-enter-tigray/"
+    },
     {
       "date": "2026-10-08",
       "cat": "foreign",
