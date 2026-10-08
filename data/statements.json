@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T15:30:00Z",
+  "updated": "2026-10-08T18:30:00Z",
   "items": [
     {
       "date": "2026-10-08",
@@ -16,6 +16,21 @@
         "Ethiopia accuses Eritrea of backing Tigray rebels. Neither government answered questions about the fighting."
       ],
       "url": "https://www.euronews.com/2026/10/08/ethiopian-drones-hit-eritrean-forces-accused-of-backing-rebels-in-tigray"
+    },
+    {
+      "date": "2026-10-06",
+      "cat": "intl",
+      "issuer": "European Union",
+      "role": "EU statement, as reported by The Media Line",
+      "logo": "europa.eu",
+      "initials": "EU",
+      "title": "EU calls for halt to violence and warns Ethiopia-Eritrea tensions could spread",
+      "points": [
+        "Called for an immediate halt to escalating violence in Ethiopia and warned the conflict could spread across the Horn of Africa.",
+        "Asked outside powers not to interfere and to respect the sovereignty of states.",
+        "Urged the parties to implement the Pretoria cessation of hostilities agreement through the African Union, protect civilians and allow humanitarian access."
+      ],
+      "url": "https://themedialine.org/headlines/eu-calls-for-halt-to-ethiopia-eritrea-escalation-warns-fighting-could-spread/"
     },
     {
       "date": "2026-10-05",

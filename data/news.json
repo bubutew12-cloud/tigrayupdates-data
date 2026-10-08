@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-08T16:30:00Z",
+  "updated": "2026-10-08T18:30:00Z",
   "items": [
+    {
+      "date": "2026-10-08",
+      "outlet": "France 24",
+      "logo": "france24.com",
+      "color": "#0b6aa8",
+      "title": "Ethiopia drones hit Eritrean troops in Tigray",
+      "url": "https://www.france24.com/en/live-news/20261008-ethiopia-drones-hit-eritrean-troops-in-tigray"
+    },
     {
       "date": "2026-10-08",
       "outlet": "Africanews",
