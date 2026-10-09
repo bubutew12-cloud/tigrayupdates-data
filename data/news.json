@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T09:30:00Z",
+  "updated": "2026-10-09T10:30:00Z",
   "items": [
     {
       "date": "2026-10-09",
@@ -8,6 +8,14 @@
       "color": "#a86400",
       "title": "Will Ethiopia's neighbours intervene as Tigray war escalates?",
       "url": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates"
+    },
+    {
+      "date": "2026-10-09",
+      "outlet": "WRAL (AP)",
+      "logo": "wral.com",
+      "color": "#1f4e79",
+      "title": "Ethiopian police ask residents in Tigray regional capital to help restore order after rebel pullout",
+      "url": "https://wral.com/news/ap/faaf4-ethiopian-police-ask-residents-in-tigray-regional-capital-to-help-restore-order-after-rebel-pullout"
     },
     {
       "date": "2026-10-08",
