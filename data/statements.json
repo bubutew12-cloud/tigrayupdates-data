@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-08T19:30:00Z",
+  "updated": "2026-10-09T16:30:00Z",
   "items": [
+    {
+      "date": "2026-10-09",
+      "cat": "fed",
+      "issuer": "Ethiopian Ministry of Foreign Affairs",
+      "role": "Foreign Minister Gedion Timothewos",
+      "logo": "",
+      "initials": "MFA",
+      "title": "Ethiopia says Eritrea's actions allow it to act in self-defence",
+      "quote": "a blatant act of aggression that engages Ethiopia's inherent right to self-defence",
+      "points": [
+        "Foreign Minister Gedion Timothewos wrote to diplomats describing Eritrea's conduct as aggression, as reported by AFP via France 24.",
+        "Ethiopian officials estimate up to 8,000 Eritrean soldiers are in Tigray backing the TPLF; Eritrea denies backing the TPLF.",
+        "AFP said it could not independently confirm the troop numbers."
+      ],
+      "url": "https://www.france24.com/en/africa/20261009-eritrea-ethiopia-accuse-each-other-of-provoking-war-as-tigray-rebels-retreat"
+    },
+    {
+      "date": "2026-10-09",
+      "cat": "foreign",
+      "issuer": "Eritrea",
+      "role": "Information Minister Yemane Gebremeskel",
+      "logo": "",
+      "initials": "ER",
+      "title": "Eritrea says it faces an unprovoked war of aggression from Ethiopia",
+      "quote": "an unprovoked war of aggression",
+      "points": [
+        "Said on X that Eritrea faces a war of aggression from Ethiopia, as reported by AFP via France 24.",
+        "Called Ethiopia's interest in Red Sea access \"hysterical\" and linked it to past intentions to invade Eritrea.",
+        "Eritrea denies Ethiopia's claim that it backs the TPLF."
+      ],
+      "url": "https://www.france24.com/en/africa/20261009-eritrea-ethiopia-accuse-each-other-of-provoking-war-as-tigray-rebels-retreat"
+    },
     {
       "date": "2026-10-08",
       "cat": "fed",
