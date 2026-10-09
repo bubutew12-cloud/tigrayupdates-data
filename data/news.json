@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T00:30:00Z",
+  "updated": "2026-10-09T08:30:00Z",
   "items": [
     {
       "date": "2026-10-08",
@@ -104,6 +104,14 @@
       "color": "#7a1f1f",
       "title": "UN Warns Of Aid Disruption In Tigray Following Looting Of Humanitarian Depots",
       "url": "https://www.thereporterethiopia.com/53257/"
+    },
+    {
+      "date": "2026-10-06",
+      "outlet": "Africanews",
+      "logo": "africanews.com",
+      "color": "#1a4a8a",
+      "title": "Tigray drone strikes continue as life resumes in Mekelle",
+      "url": "https://www.africanews.com/2026/10/06/tigray-drone-strikes-continue-as-life-resumes-in-mekelle/"
     },
     {
       "date": "2026-10-06",
