@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-09T08:30:00Z",
+  "updated": "2026-10-09T09:30:00Z",
   "items": [
+    {
+      "date": "2026-10-09",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Will Ethiopia's neighbours intervene as Tigray war escalates?",
+      "url": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates"
+    },
     {
       "date": "2026-10-08",
       "outlet": "France 24",
