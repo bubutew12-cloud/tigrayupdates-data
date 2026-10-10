@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T00:30:00Z",
+  "updated": "2026-10-10T10:30:00Z",
   "items": [
     {
       "date": "2026-10-10",
@@ -48,6 +48,22 @@
       "color": "#1f4e79",
       "title": "Ethiopian police ask residents in Tigray regional capital to help restore order after rebel pullout",
       "url": "https://wral.com/news/ap/faaf4-ethiopian-police-ask-residents-in-tigray-regional-capital-to-help-restore-order-after-rebel-pullout"
+    },
+    {
+      "date": "2026-10-08",
+      "outlet": "Atlanta Journal-Constitution (AP)",
+      "logo": "ajc.com",
+      "color": "#1a4f8b",
+      "title": "Eritrean forces seen entering towns in Ethiopia's Tigray region after crossing border",
+      "url": "https://www.ajc.com/news/2026/10/eritrean-forces-seen-entering-towns-in-ethiopias-tigray-region-after-crossing-border/"
+    },
+    {
+      "date": "2026-10-08",
+      "outlet": "Capital FM Kenya (BBC)",
+      "logo": "capitalfm.africa",
+      "color": "#9b1c1c",
+      "title": "Eritrean troops move deep into Ethiopia's Tigray region as fighting escalates",
+      "url": "https://capitalfm.africa/eritrean-troops-move-deep-into-ethiopias-tigray-region-as-fighting-escalates/"
     },
     {
       "date": "2026-10-08",
