@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-10T10:30:00Z",
+  "updated": "2026-10-10T12:30:00Z",
   "items": [
+    {
+      "date": "2026-10-10",
+      "outlet": "Associated Press",
+      "logo": "apnews.com",
+      "color": "#9e1b1b",
+      "title": "Ethiopia tells UN it is acting in self-defense against Eritrea",
+      "url": "https://abcnews.com/International/wireStory/ethiopia-tells-acting-defense-eritrea-137153814"
+    },
     {
       "date": "2026-10-10",
       "outlet": "Xinhua",
