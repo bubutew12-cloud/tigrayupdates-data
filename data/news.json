@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-10T14:30:00Z",
+  "updated": "2026-10-11T01:30:00Z",
   "items": [
+    {
+      "date": "2026-10-10",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Eritrea urges UN to intervene in standoff with Ethiopia",
+      "url": "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with"
+    },
     {
       "date": "2026-10-10",
       "outlet": "Associated Press",

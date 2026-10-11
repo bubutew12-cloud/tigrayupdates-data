@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-10T00:30:00Z",
+  "updated": "2026-10-11T01:30:00Z",
   "items": [
+    {
+      "date": "2026-10-10",
+      "cat": "foreign",
+      "issuer": "Eritrea",
+      "role": "Foreign Minister Osman Saleh",
+      "logo": "",
+      "initials": "ER",
+      "title": "Eritrea asks UN Security Council to condemn Ethiopia",
+      "quote": "deplorable declaration of war against Eritrea",
+      "points": [
+        "Asked the UN Security Council to condemn Ethiopia and take \"deterrent measures\", citing Chapter VII of the UN Charter, as reported by Al Jazeera.",
+        "Said Ethiopia's accusations of an Eritrean incursion are a pretext for a war of aggression.",
+        "Ethiopia says Eritrean troops advanced up to 60 km into Tigray; Eritrea has not confirmed this."
+      ],
+      "url": "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with"
+    },
     {
       "date": "2026-10-09",
       "cat": "intl",
