@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T12:30:00Z",
+  "updated": "2026-10-11T15:30:00Z",
   "items": [
     {
       "date": "2026-10-11",
@@ -8,6 +8,14 @@
       "color": "#1f4e5f",
       "title": "Tigray Peace Forces Claim Control of Adigrat Amid Renewed Fighting",
       "url": "https://www.dawan.africa/news/tigray-peace-forces-claim-control-of-adigrat-amid-renewed-fighting"
+    },
+    {
+      "date": "2026-10-10",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Celebrations in Ethiopian city after reported Eritrean 'incursion'",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean"
     },
     {
       "date": "2026-10-10",
