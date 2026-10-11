@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-11T02:30:00Z",
+  "updated": "2026-10-11T03:30:00Z",
   "items": [
+    {
+      "date": "2026-10-10",
+      "cat": "fed",
+      "issuer": "Ethiopian National Rehabilitation Commission",
+      "role": "Deputy Commissioner Brigadier General Derbie Mekuriaw",
+      "logo": "ena.et",
+      "initials": "NRC",
+      "title": "Ethiopia names reception points for TPLF fighters who want to disarm",
+      "quote": "a final opportunity to return to peace",
+      "points": [
+        "Named reception points in Maichew, Mehoni, Mekelle, Adigrat, Wukro, Adwa, Axum, Abi Adi and Shire for fighters who want to join the disarmament and reintegration process.",
+        "Said the government remains committed to the Pretoria Peace Agreement.",
+        "Accused a faction within the TPLF of undermining the agreement and recruiting young people into the conflict."
+      ],
+      "url": "https://www.ena.et/web/eng/w/eng_9722246"
+    },
     {
       "date": "2026-10-09",
       "cat": "intl",
