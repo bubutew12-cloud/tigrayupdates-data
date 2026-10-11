@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T05:30:00Z",
+  "updated": "2026-10-11T10:30:00Z",
   "items": [
     {
       "date": "2026-10-10",
@@ -104,6 +104,15 @@
       "color": "#1a4a8a",
       "title": "Ethiopia and Eritrea trade war accusations as regional conflict threatens to escalate",
       "url": "https://africanews.com/2026/10/09/ethiopia-and-eritrea-trade-war-accusations-as-regional-conflict-threatens-to-escalate"
+    },
+    {
+      "date": "2026-10-08",
+      "outlet": "The New Humanitarian",
+      "logo": "thenewhumanitarian.org",
+      "color": "#8a1c1c",
+      "title": "Tigray faces a double catastrophe: War and worsening hunger",
+      "url": "https://www.thenewhumanitarian.org/analysis/2026/10/08/tigray-faces-double-catastrophe-war-and-worsening-hunger",
+      "kind": "Analysis"
     },
     {
       "date": "2026-10-08",
