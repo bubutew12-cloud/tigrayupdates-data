@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-11T01:30:00Z",
+  "updated": "2026-10-11T02:30:00Z",
   "items": [
+    {
+      "date": "2026-10-10",
+      "outlet": "UN News",
+      "logo": "news.un.org",
+      "color": "#0a6aad",
+      "title": "UN chief 'gravely concerned' by renewed fighting in northern Ethiopia, warns against escalation",
+      "url": "https://news.un.org/en/story/2026/10/1168570"
+    },
     {
       "date": "2026-10-10",
       "outlet": "Al Jazeera",

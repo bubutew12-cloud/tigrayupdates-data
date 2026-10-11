@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-11T01:30:00Z",
+  "updated": "2026-10-11T02:30:00Z",
   "items": [
+    {
+      "date": "2026-10-09",
+      "cat": "intl",
+      "issuer": "UN Secretary-General António Guterres",
+      "role": "Statement issued by spokesperson Stéphane Dujarric",
+      "logo": "un.org",
+      "initials": "UN",
+      "title": "UN chief urges end to fighting in Tigray, Afar and Amhara",
+      "quote": "refrain from the threat or use of force against the territorial integrity or political independence of any State",
+      "points": [
+        "Called for an immediate end to fighting in Tigray, Afar and Amhara and urged Pretoria Agreement signatories to return to dialogue.",
+        "Said UN aid operations remain paused until access is safe and a government-led return effort in Kobo has been suspended.",
+        "Noted Ethiopia's accusation of an Eritrean 'all-out invasion', which Eritrea rejects."
+      ],
+      "url": "https://news.un.org/en/story/2026/10/1168570"
+    },
     {
       "date": "2026-10-10",
       "cat": "foreign",
