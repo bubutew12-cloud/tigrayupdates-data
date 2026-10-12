@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-12T11:30:00Z",
+  "updated": "2026-10-12T12:30:00Z",
   "items": [
+    {
+      "date": "2026-10-12",
+      "outlet": "Africanews",
+      "logo": "africanews.com",
+      "color": "#1a4a8a",
+      "title": "Flights to Mekelle resume after Ethiopian forces recapture of Tigray capital",
+      "url": "https://www.africanews.com/2026/10/12/flights-to-mekelle-resume-after-ethiopian-forces-recapture-of-tigray-capital/"
+    },
     {
       "date": "2026-10-12",
       "outlet": "News Central TV",
@@ -8,6 +16,14 @@
       "color": "#b71c1c",
       "title": "Tigray: Government Forces Enter Adwa Without Resistance",
       "url": "https://newscentraltv.com/ethiopian-forces-enter-key-tigray-town"
+    },
+    {
+      "date": "2026-10-12",
+      "outlet": "Fana Media Corporation",
+      "logo": "fanamc.com",
+      "color": "#1b5e20",
+      "title": "Tigray Region Residents Take to Streets in Relief and Celebration as Region Is Freed from the Yoke of TPLF Remnants",
+      "url": "https://fanamc.com/english/tigray-region-residents-take-to-streets-in-relief-and-celebration-as-region-is-freed-from-the-yoke-of-tplf-remnants"
     },
     {
       "date": "2026-10-11",
@@ -24,14 +40,6 @@
       "color": "#1b5e20",
       "title": "Mekelle City Residents Welcome Resumption of Flights, See Renewed Air Links as a Step Toward Lasting Peace and Recovery",
       "url": "https://fanamc.com/english/mekelle-city-residents-welcome-resumption-of-flights-see-renewed-air-links-as-a-step-toward-lasting-peace-and-recovery"
-    },
-    {
-      "date": "2026-10-12",
-      "outlet": "Fana Media Corporation",
-      "logo": "fanamc.com",
-      "color": "#1b5e20",
-      "title": "Tigray Region Residents Take to Streets in Relief and Celebration as Region Is Freed from the Yoke of TPLF Remnants",
-      "url": "https://fanamc.com/english/tigray-region-residents-take-to-streets-in-relief-and-celebration-as-region-is-freed-from-the-yoke-of-tplf-remnants"
     },
     {
       "date": "2026-10-11",
