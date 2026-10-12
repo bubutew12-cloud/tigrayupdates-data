@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-12T10:30:00Z",
+  "updated": "2026-10-12T11:30:00Z",
   "items": [
+    {
+      "date": "2026-10-12",
+      "outlet": "News Central TV",
+      "logo": "newscentraltv.com",
+      "color": "#b71c1c",
+      "title": "Tigray: Government Forces Enter Adwa Without Resistance",
+      "url": "https://newscentraltv.com/ethiopian-forces-enter-key-tigray-town"
+    },
+    {
+      "date": "2026-10-11",
+      "outlet": "Kulu Media",
+      "logo": "kulu-media.com",
+      "color": "#37474f",
+      "title": "Getachew Reda Declares Tigray War Over, Says Federal Command Post to Remain for Six Months",
+      "url": "https://kulu-media.com/getachew-reda-declares-tigray-war-over/"
+    },
     {
       "date": "2026-10-11",
       "outlet": "Fana Media Corporation",

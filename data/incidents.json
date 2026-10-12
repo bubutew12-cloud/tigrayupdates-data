@@ -1,6 +1,9 @@
 {
-  "updated": "2026-10-12T06:30:00Z",
+  "updated": "2026-10-12T11:30:00Z",
   "items": [
+    { "date": "2026-10-11", "place": "Adwa", "at": [14.165, 38.896], "title": "Government forces enter Adwa; looting reported",
+      "text": "Residents told AFP that federal forces and allied fighters entered Adwa without resistance after TPLF-loyal forces withdrew. Residents said government buildings, including Adwa Hospital, were looted overnight.",
+      "source": "News Central TV (citing AFP)", "url": "https://newscentraltv.com/ethiopian-forces-enter-key-tigray-town" },
     { "date": "2026-10-10", "place": "Adigrat", "at": [14.277, 39.462], "title": "Rival forces claim Adigrat",
       "text": "The Tigray Peace Forces said they control Adigrat. Reuters, citing three residents, said government forces and allied militia entered the city. Reuters could not confirm who controls it.", "source": "Dawan Africa", "url": "https://www.dawan.africa/news/tigray-peace-forces-claim-control-of-adigrat-amid-renewed-fighting" },
     { "date": "2026-10-08", "place": "Adigrat", "at": [14.277, 39.462], "title": "Drone strikes reported on Eritrean forces near Adigrat",
