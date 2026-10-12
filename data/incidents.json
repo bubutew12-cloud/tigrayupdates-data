@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T12:30:00Z",
+  "updated": "2026-10-12T06:30:00Z",
   "items": [
     { "date": "2026-10-10", "place": "Adigrat", "at": [14.277, 39.462], "title": "Rival forces claim Adigrat",
       "text": "The Tigray Peace Forces said they control Adigrat. Reuters, citing three residents, said government forces and allied militia entered the city. Reuters could not confirm who controls it.", "source": "Dawan Africa", "url": "https://www.dawan.africa/news/tigray-peace-forces-claim-control-of-adigrat-amid-renewed-fighting" },
@@ -16,6 +16,9 @@
     { "date": "2026-10-03", "place": "Mekelle airport", "at": [13.467, 39.533], "title": "Government forces retake Mekelle's airport",
       "text": "Ethiopian government forces recaptured Alula Aba Nega Airport after fighting that began on 23 September.",
       "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know" },
+    { "date": "2026-10-03", "place": "Adwa", "at": [14.165, 38.896], "title": "Drone strikes reported on hotels in Adwa",
+      "text": "Residents told Addis Standard that drone strikes hit several hotels. One resident estimated up to nine civilians were killed. Addis Standard could not verify the figure, and no one has claimed the strikes.",
+      "source": "Addis Standard (via allAfrica)", "url": "https://allafrica.com/stories/202610060026.html" },
     { "date": "2026-09-28", "place": "Alamata", "at": [12.417, 39.55], "title": "Heavy fighting around Alamata",
       "text": "Government troops took control of Alamata after days of fighting. A medic told the BBC that at least 52 civilians were killed.",
       "source": "The Star (Kenya) / BBC", "url": "https://www.the-star.co.ke/news/africa/2026-09-30-medic-ethiopia-fighting-escalates-in-tigray-killing-52-civilians" },
