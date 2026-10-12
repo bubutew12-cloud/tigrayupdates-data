@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T06:30:00Z",
+  "updated": "2026-10-12T07:30:00Z",
   "items": [
     {
       "date": "2026-10-11",
@@ -81,6 +81,15 @@
       "color": "#8a1c1c",
       "title": "Eritrea urges UN Security Council to act against Ethiopia over alleged declaration of war",
       "url": "https://www.anews.com.tr/world/2026/10/10/eritrea-urges-un-security-council-to-act-against-ethiopia-over-alleged-declaration-of-war"
+    },
+    {
+      "date": "2026-10-10",
+      "outlet": "The Jerusalem Post",
+      "logo": "jpost.com",
+      "color": "#0b3a6e",
+      "title": "Ethiopian-Eritrean fighting raises fears of wider war as Egypt builds Red Sea alliance - analysis",
+      "url": "https://www.jpost.com/international/article-911223",
+      "kind": "Analysis"
     },
     {
       "date": "2026-10-09",
@@ -226,6 +235,14 @@
       "color": "#1f4e79",
       "title": "Ethiopia Appeals to the UN Security Council That \"Eritrea Invaded Its Territory\"",
       "url": "https://borkena.com/ethiopia-appeals-to-the-un-security-council-that-eritrea-invaded-its-territory/"
+    },
+    {
+      "date": "2026-10-08",
+      "outlet": "NBC News (AP)",
+      "logo": "nbcnews.com",
+      "color": "#1a1a1a",
+      "title": "Eritrean troops cross into northern Ethiopia as conflict escalates",
+      "url": "https://www.nbcnews.com/world/africa/eritrean-troops-cross-northern-ethiopia-conflict-escalates-rcna602246"
     },
     {
       "date": "2026-10-07",
