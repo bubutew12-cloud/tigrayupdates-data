@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-12T22:30:00Z",
+  "updated": "2026-10-13T00:30:00Z",
   "items": [
+    {
+      "date": "2026-10-12",
+      "outlet": "SABC News",
+      "logo": "sabcnews.com",
+      "color": "#8a1c1c",
+      "title": "Eritrea asks UN to intervene in standoff with Ethiopia",
+      "url": "https://www.sabcnews.com/sabcnews/eritrea-asks-un-to-intervene-in-standoff-with-ethiopia/"
+    },
     {
       "date": "2026-10-12",
       "outlet": "Al Jazeera",
