@@ -1,6 +1,9 @@
 {
-  "updated": "2026-10-12T11:30:00Z",
+  "updated": "2026-10-13T21:30:00Z",
   "items": [
+    { "date": "2026-10-13", "place": "Zalambessa", "at": [14.517, 39.383], "title": "Ethiopian troops reported entering Zalambessa on Eritrean border",
+      "text": "People in touch with residents told Reuters that Ethiopian government troops advanced into Zalambessa, which Tigrayan rebels had held. A pro-government militia spokesperson did not confirm army control. Eritrea denies sending troops into the area.",
+      "source": "Reuters (via TimesLive)", "url": "https://www.timeslive.co.za/news/africa/2026-10-13-ethiopian-troops-enter-town-on-border-with-eritrea-stoking-war-fears/" },
     { "date": "2026-10-11", "place": "Adwa", "at": [14.165, 38.896], "title": "Government forces enter Adwa; looting reported",
       "text": "Residents told AFP that federal forces and allied fighters entered Adwa without resistance after TPLF-loyal forces withdrew. Residents said government buildings, including Adwa Hospital, were looted overnight.",
       "source": "News Central TV (citing AFP)", "url": "https://newscentraltv.com/ethiopian-forces-enter-key-tigray-town" },
