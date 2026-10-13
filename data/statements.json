@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-11T03:30:00Z",
+  "updated": "2026-10-13T07:30:00Z",
   "items": [
+    {
+      "date": "2026-10-11",
+      "cat": "fed",
+      "issuer": "Ethiopian Federal Government",
+      "role": "Getachew Reda, adviser to Prime Minister Abiy Ahmed",
+      "logo": "",
+      "initials": "FDRE",
+      "title": "Government adviser promises “visible change” in Tigray after retaking Mekelle",
+      "quote": "I would like to assure you on this occasion that we will bring visible change, a change beyond mere hope.",
+      "points": [
+        "Spoke to supporters at Mekelle airport after government-allied units retook the city, according to AP.",
+        "Did not say what the change would involve.",
+        "Ethiopian Airlines resumed flights to Mekelle the same day, AP reported."
+      ],
+      "url": "https://abcnews.com/amp/International/wireStory/ethiopian-official-promises-change-tigray-after-troops-retake-137176106"
+    },
     {
       "date": "2026-10-10",
       "cat": "fed",
