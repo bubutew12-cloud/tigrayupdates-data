@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T04:30:00Z",
+  "updated": "2026-10-13T05:30:00Z",
   "items": [
     {
       "date": "2026-10-13",
@@ -8,6 +8,14 @@
       "color": "#a86400",
       "title": "Ethiopia's Tigray war: Where do the UAE and Saudi Arabia stand?",
       "url": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand"
+    },
+    {
+      "date": "2026-10-12",
+      "outlet": "France 24",
+      "logo": "france24.com",
+      "color": "#0b6aa8",
+      "title": "Ethiopian govt forces enter key Tigray town near Eritrea border",
+      "url": "https://france24.com/en/ethiopian-govt-forces-enter-key-tigray-town-near-eritrea-border"
     },
     {
       "date": "2026-10-12",
