@@ -1,9 +1,6 @@
 {
   "updated": "2026-10-14T13:30:00Z",
   "items": [
-    { "date": "2026-10-07", "place": "Wukro", "at": [13.785, 39.6], "title": "Federal forces reported to take control of Wukro",
-      "text": "The Critical Threats Project reported that federal forces and the Tigray Peace Force paused outside Wukro from 5 October and took control of the town on 7 October.",
-      "source": "Critical Threats Project", "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/ethiopia-war-security-review-october-9-2026" },
     { "date": "2026-10-13", "place": "Zalambessa", "at": [14.517, 39.383], "title": "Ethiopian troops reported entering Zalambessa on Eritrean border",
       "text": "People in touch with residents told Reuters that Ethiopian government troops advanced into Zalambessa, which Tigrayan rebels had held. A pro-government militia spokesperson did not confirm army control. Eritrea denies sending troops into the area.",
       "source": "Reuters (via TimesLive)", "url": "https://www.timeslive.co.za/news/africa/2026-10-13-ethiopian-troops-enter-town-on-border-with-eritrea-stoking-war-fears/" },
@@ -16,6 +13,9 @@
       "text": "The conflict monitor ACLED said multiple drone strikes hit Eritrean troops and ammunition in the Adigrat area overnight. Witnesses told AFP they saw destroyed Eritrean lorries and a large explosion. No casualty figures were reported.", "source": "Euronews (AFP)", "url": "https://www.euronews.com/2026/10/08/ethiopian-drones-hit-eritrean-forces-accused-of-backing-rebels-in-tigray" },
     { "date": "2026-10-07", "place": "Shire", "at": [14.100, 38.283], "title": "Looting and gunfire reported in Shire after rebels leave",
       "text": "An aid worker told AFP that TPLF fighters and the local administration left Shire on Wednesday. AFP reported that looting followed and four people were killed and 11 injured in gunfire. Pro-government forces had not yet entered the city.", "source": "AFP (via Yahoo News)", "url": "https://www.yahoo.com/news/world/articles/eritrea-ethiopia-trade-barbs-tigray-113445296.html" },
+    { "date": "2026-10-07", "place": "Wukro", "at": [13.785, 39.6], "title": "Federal forces reported to take control of Wukro",
+      "text": "The Critical Threats Project reported that federal forces and the Tigray Peace Force paused outside Wukro from 5 October and took control of the town on 7 October.",
+      "source": "Critical Threats Project", "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/ethiopia-war-security-review-october-9-2026" },
     { "date": "2026-10-04", "place": "Sheraro", "at": [14.397, 37.77], "title": "Drone strike reported on Sheraro displacement camp",
       "text": "An aid worker told AFP that a drone strike early on Sunday on a camp for displaced people killed at least eight people, including a child, and seriously wounded six. AFP said it could not verify the toll independently.",
       "source": "Oman Observer (AFP)", "url": "https://www.omanobserver.om/article/1197305/world/africa/drone-strike-on-tigray-displacement-camp-kills-eight" },
