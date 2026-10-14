@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-13T07:30:00Z",
+  "updated": "2026-10-14T18:30:00Z",
   "items": [
+    {
+      "date": "2026-10-13",
+      "cat": "foreign",
+      "issuer": "Eritrea",
+      "role": "Government of Eritrea, note circulated to UN Security Council members",
+      "logo": "shabait.com",
+      "initials": "ER",
+      "title": "Eritrea says Pretoria Agreement is not its concern and accuses Ethiopia of aggression",
+      "quote": "Eritrea is not a party to the Agreement and has no role in its implementation.",
+      "points": [
+        "Said the 2022 Pretoria Agreement is an internal Ethiopian deal between the federal government and the TPLF.",
+        "Accused Ethiopia of an \"unprovoked war agenda\" against Eritrea and of hosting anti-Eritrea armed groups. Ethiopia has not accepted these claims.",
+        "Asked the Security Council to urge Ethiopia to respect Eritrea's sovereignty. The note answers an Ethiopian note of 11 October."
+      ],
+      "url": "https://shabait.com/2026/10/14/information-note-regarding-eritrea-ethiopia-relations/"
+    },
     {
       "date": "2026-10-11",
       "cat": "fed",
@@ -34,22 +50,6 @@
       "url": "https://www.ena.et/web/eng/w/eng_9722246"
     },
     {
-      "date": "2026-10-09",
-      "cat": "intl",
-      "issuer": "UN Secretary-General António Guterres",
-      "role": "Statement issued by spokesperson Stéphane Dujarric",
-      "logo": "un.org",
-      "initials": "UN",
-      "title": "UN chief urges end to fighting in Tigray, Afar and Amhara",
-      "quote": "refrain from the threat or use of force against the territorial integrity or political independence of any State",
-      "points": [
-        "Called for an immediate end to fighting in Tigray, Afar and Amhara and urged Pretoria Agreement signatories to return to dialogue.",
-        "Said UN aid operations remain paused until access is safe and a government-led return effort in Kobo has been suspended.",
-        "Noted Ethiopia's accusation of an Eritrean 'all-out invasion', which Eritrea rejects."
-      ],
-      "url": "https://news.un.org/en/story/2026/10/1168570"
-    },
-    {
       "date": "2026-10-10",
       "cat": "foreign",
       "issuer": "Eritrea",
@@ -64,6 +64,22 @@
         "Ethiopia says Eritrean troops advanced up to 60 km into Tigray; Eritrea has not confirmed this."
       ],
       "url": "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with"
+    },
+    {
+      "date": "2026-10-09",
+      "cat": "intl",
+      "issuer": "UN Secretary-General António Guterres",
+      "role": "Statement issued by spokesperson Stéphane Dujarric",
+      "logo": "un.org",
+      "initials": "UN",
+      "title": "UN chief urges end to fighting in Tigray, Afar and Amhara",
+      "quote": "refrain from the threat or use of force against the territorial integrity or political independence of any State",
+      "points": [
+        "Called for an immediate end to fighting in Tigray, Afar and Amhara and urged Pretoria Agreement signatories to return to dialogue.",
+        "Said UN aid operations remain paused until access is safe and a government-led return effort in Kobo has been suspended.",
+        "Noted Ethiopia's accusation of an Eritrean 'all-out invasion', which Eritrea rejects."
+      ],
+      "url": "https://news.un.org/en/story/2026/10/1168570"
     },
     {
       "date": "2026-10-09",
@@ -112,6 +128,38 @@
         "Eritrea denies Ethiopia's claim that it backs the TPLF."
       ],
       "url": "https://www.france24.com/en/africa/20261009-eritrea-ethiopia-accuse-each-other-of-provoking-war-as-tigray-rebels-retreat"
+    },
+    {
+      "date": "2026-10-08",
+      "cat": "intl",
+      "issuer": "African Commission on Human and Peoples' Rights",
+      "role": "Country Rapporteur for Ethiopia Mudford Zachariah Mwandenga",
+      "logo": "au.int",
+      "initials": "ACHPR",
+      "title": "African rights commission voices concern over renewed hostilities in northern Ethiopia",
+      "quote": "expresses profound concern over the renewed tensions and escalation of hostilities in Northern Ethiopia",
+      "points": [
+        "Said reports indicate civilian airports in Mekelle, Axum and Shire were seized and flights to Tigray suspended.",
+        "Noted reported fighting in parts of Afar and Amhara, including around Abala, and internet and telecom disruptions.",
+        "Urged all parties to show restraint, protect civilians and respect the Pretoria commitments."
+      ],
+      "url": "https://achpr.au.int/index.php/en/news/press-releases/2026-10-08/statement-renewed-tensions-northern-ethiopia"
+    },
+    {
+      "date": "2026-10-08",
+      "cat": "rights",
+      "issuer": "Human Rights Watch, Amnesty International, FIDH and other groups",
+      "role": "Joint letter from 36 civil society organizations to UN Human Rights Council states",
+      "logo": "hrw.org",
+      "initials": "HRW",
+      "title": "Rights groups urge UN Human Rights Council special session on Ethiopia",
+      "quote": "The Human Rights Council should urgently convene a special session on the human rights impact of the conflict in Ethiopia.",
+      "points": [
+        "Said fighting resumed on 22 September 2026 and spread to Afar and Amhara, and that the Pretoria agreement has \"effectively collapsed\".",
+        "Described drone, mortar and artillery attacks, including airstrikes on populated areas, that they said may amount to war crimes.",
+        "Asked for an expert panel to assess violations by all parties since August 2026."
+      ],
+      "url": "https://www.hrw.org/news/2026/10/09/ethiopia-call-for-a-special-session-to-prevent-further-atrocities"
     },
     {
       "date": "2026-10-08",
