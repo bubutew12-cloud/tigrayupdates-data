@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-15T03:30:00Z",
+  "updated": "2026-10-15T14:30:00Z",
   "items": [
+    {
+      "date": "2026-10-14",
+      "cat": "foreign",
+      "issuer": "United States",
+      "role": "Secretary of State Marco Rubio, in a call with Prime Minister Abiy Ahmed",
+      "logo": "state.gov",
+      "initials": "US",
+      "title": "US Secretary of State urges de-escalation between Ethiopia and Eritrea",
+      "quote": "all countries in the Horn of Africa must respect the sovereignty and territorial integrity",
+      "points": [
+        "Spoke by phone with Ethiopian Prime Minister Abiy Ahmed, according to the State Department as reported by AP.",
+        "Urged dialogue under the 2018 Ethiopia-Eritrea peace deal and said the region cannot withstand more conflict.",
+        "The call came as Ethiopia accuses Eritrea of crossing the border and Eritrea calls Ethiopia's actions a declaration of war."
+      ],
+      "url": "https://abcnews.com/International/wireStory/rubio-urges-restraint-ethiopia-eritrea-tensions-rights-group-137280105"
+    },
     {
       "date": "2026-10-13",
       "cat": "intl",
