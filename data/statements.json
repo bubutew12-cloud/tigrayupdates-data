@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T02:30:00Z",
+  "updated": "2026-10-15T03:30:00Z",
   "items": [
     {
       "date": "2026-10-13",
@@ -144,6 +144,22 @@
         "Eritrea denies Ethiopia's claim that it backs the TPLF."
       ],
       "url": "https://www.france24.com/en/africa/20261009-eritrea-ethiopia-accuse-each-other-of-provoking-war-as-tigray-rebels-retreat"
+    },
+    {
+      "date": "2026-10-08",
+      "cat": "fed",
+      "issuer": "Ethiopian Ministry of Foreign Affairs",
+      "role": "Foreign Minister Gedion Timothewos, letter to UN Security Council",
+      "logo": "",
+      "initials": "MFA",
+      "title": "Ethiopia tells UN Security Council it will defend itself against Eritrea",
+      "quote": "no option but to defend itself against Eritrea",
+      "points": [
+        "Accused Eritrea of repeated military incursions into Ethiopian territory and of sending mechanized units into Tigray, as reported by Anadolu Agency.",
+        "Called for Eritrean forces to withdraw immediately and asked the Council to address the escalation.",
+        "Eritrea rejects the accusations and calls them a pretext for military action. The claims were not independently verified."
+      ],
+      "url": "https://aa.com.tr/en/africa/ethiopia-tells-un-security-council-it-has-no-choice-but-to-defend-itself-against-eritrea/4083089"
     },
     {
       "date": "2026-10-08",
