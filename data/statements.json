@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-14T18:30:00Z",
+  "updated": "2026-10-15T02:30:00Z",
   "items": [
+    {
+      "date": "2026-10-13",
+      "cat": "intl",
+      "issuer": "UN Secretary-General's Spokesperson's Office",
+      "role": "Daily press briefing, citing OCHA",
+      "logo": "un.org",
+      "initials": "UN",
+      "title": "UN says aid access is improving in northern Ethiopia but looting continues in Tigray",
+      "quote": "incidents of looting are continuing in Tigray.",
+      "points": [
+        "Said aid groups are now reaching North Wollo and Wag Hamra in Amhara, and some areas of Afar and Tigray.",
+        "Said a hospital in Adwa was looted on Monday, and other public infrastructure was also reported looted.",
+        "Said displacement continues across northwest Tigray but verified figures are not yet available, and repeated its call for safe and unhindered humanitarian access."
+      ],
+      "url": "https://press.un.org/en/2026/db261013.doc.htm"
+    },
     {
       "date": "2026-10-13",
       "cat": "foreign",
