@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-15T18:30:00Z",
+  "updated": "2026-10-15T19:30:00Z",
   "items": [
+    {
+      "date": "2026-10-15",
+      "outlet": "EEPA",
+      "logo": "eepa.be",
+      "color": "#2f4a3a",
+      "title": "Situation report: ENDF controls key towns in northwestern and central Tigray; Shipwreck off of Djibouti coast; Gold refinery launched in Ethiopia",
+      "url": "https://eepa.be/situation-report-endf-controls-key-towns-in-northwestern-and-central-tigray-shipwreck-off-of-djibouti-coast-gold-refinery-launched-in-ethiopia"
+    },
     {
       "date": "2026-10-15",
       "outlet": "ABC News (AP)",
@@ -387,7 +395,14 @@
       "title": "Ethiopia and Eritrea trade war accusations as regional conflict threatens to escalate",
       "url": "https://africanews.com/2026/10/09/ethiopia-and-eritrea-trade-war-accusations-as-regional-conflict-threatens-to-escalate"
     },
-    {"date": "2026-10-08", "outlet": "IDN-InDepthNews", "logo": "indepthnews.net", "color": "#7a2e2e", "title": "EEPA reports on Eritrean forces seen in Adigrat, Tigray", "url": "https://indepthnews.net/eepa-reports-on-eritrean-forces-seen-in-adigrat-tigray/"},
+    {
+      "date": "2026-10-08",
+      "outlet": "IDN-InDepthNews",
+      "logo": "indepthnews.net",
+      "color": "#7a2e2e",
+      "title": "EEPA reports on Eritrean forces seen in Adigrat, Tigray",
+      "url": "https://indepthnews.net/eepa-reports-on-eritrean-forces-seen-in-adigrat-tigray/"
+    },
     {
       "date": "2026-10-08",
       "outlet": "The New Humanitarian",
