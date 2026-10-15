@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T19:30:00Z",
+  "updated": "2026-10-15T20:30:00Z",
   "items": [
     {
       "date": "2026-10-15",
@@ -24,6 +24,14 @@
       "color": "#1a4a8a",
       "title": "Eritrean forces suffer 'heavy losses' in Tigray, Ethiopian militia says",
       "url": "https://www.africanews.com/2026/10/15/eritrean-forces-suffer-heavy-losses-in-tigray-ethiopian-militia-says/"
+    },
+    {
+      "date": "2026-10-15",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
+      "url": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses"
     },
     {
       "date": "2026-10-14",
@@ -314,6 +322,14 @@
       "title": "Ethiopian-Eritrean fighting raises fears of wider war as Egypt builds Red Sea alliance - analysis",
       "url": "https://www.jpost.com/international/article-911223",
       "kind": "Analysis"
+    },
+    {
+      "date": "2026-10-10",
+      "outlet": "Dawan Africa",
+      "logo": "dawan.africa",
+      "color": "#1f4e5f",
+      "title": "Tigray Peace Force Urges TPLF Fighters to Surrender, Promises Protection",
+      "url": "https://www.dawan.africa/news/tigray-peace-force-urges-tplf-fighters-to-surrender-promises-protection"
     },
     {
       "date": "2026-10-09",
