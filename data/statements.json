@@ -1,6 +1,21 @@
 {
-  "updated": "2026-10-15T14:30:00Z",
+  "updated": "2026-10-16T02:30:00Z",
   "items": [
+    {
+      "date": "2026-10-15",
+      "cat": "tigray",
+      "issuer": "TPLF",
+      "role": "Spokesperson Michael Asgedom",
+      "logo": "",
+      "initials": "TP",
+      "title": "TPLF says its forces are restructured and will launch a counteroffensive",
+      "points": [
+        "Said its forces had been restructured and repositioned for a major counteroffensive against federal forces and allied militia.",
+        "Spokesperson Michael Asgedom rejected claims by the pro-government Tigray Peace Force that TPLF-led forces were disintegrating, saying they remained intact.",
+        "These claims are unverified. Government forces and allies have taken Adwa, Axum, Adigrat and Zalambessa, according to Wazema Radio."
+      ],
+      "url": "https://wazema.substack.com/p/tplf-vows-counteroffensive-as-government"
+    },
     {
       "date": "2026-10-14",
       "cat": "foreign",
