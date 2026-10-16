@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-16T18:30:00Z",
+  "updated": "2026-10-16T20:30:00Z",
   "items": [
+    {
+      "date": "2026-10-16",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Ethiopia announces instalment of interim government in Tigray",
+      "url": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray"
+    },
+    {
+      "date": "2026-10-16",
+      "outlet": "France 24",
+      "logo": "france24.com",
+      "color": "#0b6aa8",
+      "title": "Ethiopia announces interim government in Tigray, aims for polls in six months",
+      "url": "https://www.france24.com/en/africa/20261016-ethiopia-announces-interim-government-tigray-calls-for-polls-six-months"
+    },
     {
       "date": "2026-10-16",
       "outlet": "Eye Radio (ENA)",
