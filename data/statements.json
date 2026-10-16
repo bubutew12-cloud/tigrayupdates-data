@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-16T02:30:00Z",
+  "updated": "2026-10-16T10:30:00Z",
   "items": [
+    {
+      "date": "2026-10-16",
+      "cat": "fed",
+      "issuer": "Ethiopian Federal Government",
+      "role": "Prime Minister's Office",
+      "logo": "",
+      "initials": "FDRE",
+      "title": "Government dissolves Tigray interim administration and names federal caretaker body",
+      "quote": "This federal interim administration of the Tigray Region will administer Tigray for the next 6 months",
+      "points": [
+        "Announced a federal interim administration for Tigray, as reported by ChimpReports; it named Asefa Abrahaga Hagos as chief administrator.",
+        "Said it will prepare a \"free and fair election\" within six months. No polling date was given.",
+        "Said the Pretoria agreement was frustrated by obstructions and blamed Tigray's leadership for renewed fighting. The displaced Tigray leadership had not yet responded, according to the report."
+      ],
+      "url": "https://chimpreports.com/ethiopia-dissolves-tigray-administration-orders-elections-within-six-months"
+    },
     {
       "date": "2026-10-15",
       "cat": "tigray",

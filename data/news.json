@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-16T08:30:00Z",
+  "updated": "2026-10-16T10:30:00Z",
   "items": [
+    {
+      "date": "2026-10-16",
+      "outlet": "Associated Press (via Arkansas Democrat-Gazette)",
+      "logo": "arkansasonline.com",
+      "color": "#3a3a3a",
+      "title": "Peace deal urged in Ethiopia tension",
+      "url": "https://arkansasonline.com/news/2026/oct/16/peace-deal-urged-in-ethiopia-tension"
+    },
+    {
+      "date": "2026-10-16",
+      "outlet": "ChimpReports",
+      "logo": "chimpreports.com",
+      "color": "#7a1f1f",
+      "title": "Ethiopia Dissolves Tigray Administration, Orders Elections Within Six Months",
+      "url": "https://chimpreports.com/ethiopia-dissolves-tigray-administration-orders-elections-within-six-months"
+    },
     {
       "date": "2026-10-15",
       "outlet": "Dawan Africa",
