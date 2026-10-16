@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-16T12:30:00Z",
+  "updated": "2026-10-16T13:30:00Z",
   "items": [
+    {
+      "date": "2026-10-16",
+      "outlet": "TimesLive (Reuters)",
+      "logo": "timeslive.co.za",
+      "color": "#a30d0d",
+      "title": "Ethiopia's Abiy appoints Tigray caretaker government",
+      "url": "https://www.timeslive.co.za/news/africa/2026-10-16-ethiopias-abiy-appoints-tigray-caretaker-government/"
+    },
+    {
+      "date": "2026-10-16",
+      "outlet": "Martin Plaut",
+      "logo": "martinplaut.com",
+      "color": "#3d4a5c",
+      "title": "News Alert: Ethiopian government establishes six-month caretaker administration for Tigray, with an election as a priority",
+      "url": "https://martinplaut.com/2026/10/16/news-alert-ethiopian-government-establishes-six-month-caretaker-administration-for-tigray-with-an-election-as-a-priority/"
+    },
     {
       "date": "2026-10-16",
       "outlet": "Daily Maverick (Reuters)",
