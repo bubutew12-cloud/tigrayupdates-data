@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T02:30:00Z",
+  "updated": "2026-10-16T04:30:00Z",
   "items": [
     {
       "date": "2026-10-16",
@@ -136,6 +136,14 @@
       "color": "#0b6aa8",
       "title": "Ethiopia: Social media becomes a battleground for propaganda",
       "url": "https://www.france24.com/en/ethiopia-social-media-becomes-a-battleground-for-propaganda"
+    },
+    {
+      "date": "2026-10-12",
+      "outlet": "Security Council Report",
+      "logo": "securitycouncilreport.org",
+      "color": "#1f4e79",
+      "title": "Horn of Africa: Closed Consultations",
+      "url": "https://www.securitycouncilreport.org/whatsinblue/2026/10/horn-of-africa-closed-consultations.php"
     },
     {
       "date": "2026-10-12",
