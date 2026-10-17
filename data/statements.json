@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-17T07:30:00Z",
+  "updated": "2026-10-17T12:30:00Z",
   "items": [
+    {
+      "date": "2026-10-16",
+      "cat": "tigray",
+      "issuer": "Government of Tigray (TPLF-aligned)",
+      "role": "Statement",
+      "logo": "",
+      "initials": "TP",
+      "title": "TPLF-aligned leadership rejects the federal caretaker administration and warns against movement at Mekelle airport",
+      "quote": "we strongly warn that no movement of any kind be made at the airport",
+      "points": [
+        "Said decisions of the federal caretaker administration have \"neither legality nor enforceability\".",
+        "Accused the federal government of using Mekelle airport to move troops and supplies. Kulu Media said it could not verify this.",
+        "Warned that institutions cooperating with the caretaker administration would be held accountable. Getachew Reda, now an adviser to Prime Minister Abiy, criticised the statement; Kulu Media said it did not explicitly threaten aircraft."
+      ],
+      "url": "https://kulu-media.com/tplf-airport-warning-mekelle"
+    },
     {
       "date": "2026-10-14",
       "cat": "intl",
