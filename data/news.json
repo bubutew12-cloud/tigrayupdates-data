@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T23:25:00Z",
+  "updated": "2026-10-17T00:25:00Z",
   "items": [
     {
       "date": "2026-10-16",
@@ -98,14 +98,6 @@
       "url": "https://chimpreports.com/ethiopia-dissolves-tigray-administration-orders-elections-within-six-months"
     },
     {
-      "date": "2026-10-15",
-      "outlet": "Dawan Africa",
-      "logo": "dawan.africa",
-      "color": "#1f4e5f",
-      "title": "Ethiopia: TPLF Says It Retook Abiy Addi in Central Tigray",
-      "url": "https://www.dawan.africa/news/ethiopia-tplf-says-it-retook-abiy-addi-in-central-tigray"
-    },
-    {
       "date": "2026-10-16",
       "outlet": "Wazema Radio",
       "logo": "wazema.substack.com",
@@ -120,6 +112,14 @@
       "color": "#37474f",
       "title": "TPLF-Aligned Tigray Fighters Claim Recapture of Abiy Adi and Two Other Towns",
       "url": "https://kulu-media.com/tplf-fighters-claim-recapture-of-abiy-adi"
+    },
+    {
+      "date": "2026-10-15",
+      "outlet": "Dawan Africa",
+      "logo": "dawan.africa",
+      "color": "#1f4e5f",
+      "title": "Ethiopia: TPLF Says It Retook Abiy Addi in Central Tigray",
+      "url": "https://www.dawan.africa/news/ethiopia-tplf-says-it-retook-abiy-addi-in-central-tigray"
     },
     {
       "date": "2026-10-15",
@@ -208,6 +208,14 @@
       "color": "#1f4e79",
       "title": "High on wins in Tigray, Ethiopia now has Eritrea in its crosshairs",
       "url": "https://responsiblestatecraft.org/ethiopian-eritrea-war/"
+    },
+    {
+      "date": "2026-10-14",
+      "outlet": "Just Security",
+      "logo": "justsecurity.org",
+      "color": "#1f3a5f",
+      "title": "Ethiopia's Fragile Peace Has Broken – But This is Not the 2020-2022 Conflict",
+      "url": "https://justsecurity.org/160520/ethiopia-new-war-different-conflict"
     },
     {
       "date": "2026-10-13",
