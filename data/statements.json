@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-16T10:30:00Z",
+  "updated": "2026-10-17T07:30:00Z",
   "items": [
+    {
+      "date": "2026-10-14",
+      "cat": "intl",
+      "issuer": "UN Secretary-General's Spokesperson's Office",
+      "role": "Daily press briefing, Deputy Spokesman Farhan Haq",
+      "logo": "un.org",
+      "initials": "UN",
+      "title": "UN says access is improving in Tigray but the security situation stays volatile",
+      "quote": "the security situation remains volatile in parts of Afar, Amhara and Tigray.",
+      "points": [
+        "Said flights resumed on 13 October and more roads are now considered safe for humanitarian movement.",
+        "Said 80 trucks carried over 315 metric tons of food into Tigray, and the Emergency Relief Coordinator released $8.5 million for more than 200,000 people in the northern regions.",
+        "Said humanitarians are concerned about ongoing fighting, artillery shelling, looting and disruption to health services, and that food insecurity is expected to worsen."
+      ],
+      "url": "https://press.un.org/en/2026/db261014.doc.htm"
+    },
     {
       "date": "2026-10-16",
       "cat": "fed",
