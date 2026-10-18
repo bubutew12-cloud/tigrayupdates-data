@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T18:30:00Z",
+  "updated": "2026-10-18T19:30:00Z",
   "items": [
     {
       "date": "2026-10-17",
@@ -34,22 +34,6 @@
       "url": "https://kulu-media.com/tplf-airport-warning-mekelle"
     },
     {
-      "date": "2026-10-14",
-      "cat": "intl",
-      "issuer": "UN Secretary-General's Spokesperson's Office",
-      "role": "Daily press briefing, Deputy Spokesman Farhan Haq",
-      "logo": "un.org",
-      "initials": "UN",
-      "title": "UN says access is improving in Tigray but the security situation stays volatile",
-      "quote": "the security situation remains volatile in parts of Afar, Amhara and Tigray.",
-      "points": [
-        "Said flights resumed on 13 October and more roads are now considered safe for humanitarian movement.",
-        "Said 80 trucks carried over 315 metric tons of food into Tigray, and the Emergency Relief Coordinator released $8.5 million for more than 200,000 people in the northern regions.",
-        "Said humanitarians are concerned about ongoing fighting, artillery shelling, looting and disruption to health services, and that food insecurity is expected to worsen."
-      ],
-      "url": "https://press.un.org/en/2026/db261014.doc.htm"
-    },
-    {
       "date": "2026-10-16",
       "cat": "fed",
       "issuer": "Ethiopian Federal Government",
@@ -79,6 +63,22 @@
         "These claims are unverified. Government forces and allies have taken Adwa, Axum, Adigrat and Zalambessa, according to Wazema Radio."
       ],
       "url": "https://wazema.substack.com/p/tplf-vows-counteroffensive-as-government"
+    },
+    {
+      "date": "2026-10-14",
+      "cat": "intl",
+      "issuer": "UN Secretary-General's Spokesperson's Office",
+      "role": "Daily press briefing, Deputy Spokesman Farhan Haq",
+      "logo": "un.org",
+      "initials": "UN",
+      "title": "UN says access is improving in Tigray but the security situation stays volatile",
+      "quote": "the security situation remains volatile in parts of Afar, Amhara and Tigray.",
+      "points": [
+        "Said flights resumed on 13 October and more roads are now considered safe for humanitarian movement.",
+        "Said 80 trucks carried over 315 metric tons of food into Tigray, and the Emergency Relief Coordinator released $8.5 million for more than 200,000 people in the northern regions.",
+        "Said humanitarians are concerned about ongoing fighting, artillery shelling, looting and disruption to health services, and that food insecurity is expected to worsen."
+      ],
+      "url": "https://press.un.org/en/2026/db261014.doc.htm"
     },
     {
       "date": "2026-10-14",
@@ -127,6 +127,22 @@
         "Asked the Security Council to urge Ethiopia to respect Eritrea's sovereignty. The note answers an Ethiopian note of 11 October."
       ],
       "url": "https://shabait.com/2026/10/14/information-note-regarding-eritrea-ethiopia-relations/"
+    },
+    {
+      "date": "2026-10-13",
+      "cat": "fed",
+      "issuer": "Ethiopian Consulate General in Bahrain",
+      "role": "Consul General Shiferaw Geneti Jena",
+      "logo": "",
+      "initials": "ET",
+      "title": "Ethiopian envoy demands Eritrean troops leave Ethiopian territory",
+      "quote": "every Eritrean soldier and every piece of equipment must return to Eritrea's side of the border",
+      "points": [
+        "Said the federal government demands Eritrea pull all troops and military hardware out of Ethiopian territory immediately and unconditionally.",
+        "Described the deployment as a serious violation of Ethiopia's sovereignty and territorial integrity.",
+        "Said Ethiopia reserves the right to defend itself and would take all necessary and lawful measures to protect its borders."
+      ],
+      "url": "https://www.newsofbahrain.com/en/article/ethiopia-demands-immediate-withdrawal-of-eritrean-troops-warns-of-rig"
     },
     {
       "date": "2026-10-11",
