@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-18T01:30:00Z",
+  "updated": "2026-10-18T03:30:00Z",
   "items": [
+    {
+      "date": "2026-10-17",
+      "outlet": "Anadolu Agency",
+      "logo": "aa.com.tr",
+      "color": "#8a1c1c",
+      "title": "Ethiopia's TPLF rejects new Tigray administration as illegitimate",
+      "url": "https://www.aa.com.tr/en/africa/ethiopias-tplf-rejects-new-tigray-administration-as-illegitimate/4092056"
+    },
+    {
+      "date": "2026-10-17",
+      "outlet": "The Peninsula (Xinhua)",
+      "logo": "thepeninsulaqatar.com",
+      "color": "#1a3f7a",
+      "title": "Ethiopia establishes 6-month caretaker administration for conflict-hit Tigray region",
+      "url": "https://thepeninsulaqatar.com/article/17/10/2026/ethiopia-establishes-6-month-caretaker-administration-for-conflict-hit-tigray-region"
+    },
     {
       "date": "2026-10-17",
       "outlet": "Kulu Media",
@@ -24,6 +40,14 @@
       "color": "#37474f",
       "title": "TPLF Warns Against Mekelle Airport Movements, Rejects Tigray Caretaker Administration",
       "url": "https://kulu-media.com/tplf-airport-warning-mekelle"
+    },
+    {
+      "date": "2026-10-16",
+      "outlet": "KIRO 7 (AP)",
+      "logo": "kiro7.com",
+      "color": "#7a1a1a",
+      "title": "Ethiopia sets up Tigray caretaker government as ex-fighters seek return to civilian life",
+      "url": "https://www.kiro7.com/news/world/ethiopia-sets-up/7K3TAXXWTA2Q3DA5WN2OHDKLS4/"
     },
     {
       "date": "2026-10-16",
