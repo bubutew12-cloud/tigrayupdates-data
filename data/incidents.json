@@ -1,64 +1,305 @@
 {
-  "updated": "2026-10-17T06:30:00Z",
+  "updated": "2026-10-18T21:30:00Z",
   "items": [
-    {"date": "2026-10-15", "place": "Rama", "at": [14.417, 38.783], "title": "Drone strikes reported around Rama", "text": "ACLED reported Ethiopian army drone strikes on Tigrayan force vehicles around Rama on 15 October, after similar strikes the day before. Reuters photos showed damaged homes; no casualty figures were independently confirmed.", "source": "Kulu Media", "url": "https://kulu-media.com/drone-strike-damage-in-rama-tigray/"},
-    {"date": "2026-10-14", "place": "Abiy Addi", "at": [13.617, 39.000], "title": "Tigrayan forces claim to retake Abiy Addi", "text": "Tigray Defense Forces said they attacked government forces and took Abiy Addi, Shewate Higum and Yechila. A Tigray Peace Force commander had earlier said government-allied forces held the town. Neither claim was independently verified.", "source": "Dawan Africa", "url": "https://www.dawan.africa/news/ethiopia-tplf-says-it-retook-abiy-addi-in-central-tigray"},
-    {"date": "2026-10-14", "place": "Axum", "at": [14.121, 38.724], "title": "Ethiopian forces and allied fighters reported entering Axum", "text": "Ethiopian forces and allied Tigray Peace Force fighters said they entered Axum. ACLED documented the entry and said rival Tigrayan fighters stayed in surrounding areas. The entry date and any fighting there are not independently verified.", "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses"},
-    {"date": "2026-10-12", "place": "Adwa", "at": [14.165, 38.896], "title": "Hospital in Adwa reported looted", "text": "UN spokespeople said a hospital in Adwa was looted on Monday, and that looting of other public buildings was also reported in Tigray.", "source": "United Nations", "url": "https://press.un.org/en/2026/db261013.doc.htm"},
-    { "date": "2026-10-13", "place": "Zalambessa", "at": [14.517, 39.383], "title": "Ethiopian troops reported entering Zalambessa on Eritrean border",
+    {
+      "date": "2026-10-17",
+      "place": "Adigrat",
+      "at": [
+        14.277,
+        39.462
+      ],
+      "title": "Federal forces clash with armed groups in Adigrat",
+      "text": "AFP reported that federal forces clashed with armed groups opposed to the government in Adigrat on October 17. Residents described burnt-out trucks in the city centre after earlier drone strikes on Eritrean troops.",
+      "source": "AFP (via Kuwait Times)",
+      "url": "https://kuwaittimes.com/article/51864/world/in-tigray-ethiopians-welcome-departure-of-eritrean-troops"
+    },
+    {
+      "date": "2026-10-15",
+      "place": "Rama",
+      "at": [
+        14.417,
+        38.783
+      ],
+      "title": "Drone strikes reported around Rama",
+      "text": "ACLED reported Ethiopian army drone strikes on Tigrayan force vehicles around Rama on 15 October, after similar strikes the day before. Reuters photos showed damaged homes; no casualty figures were independently confirmed.",
+      "source": "Kulu Media",
+      "url": "https://kulu-media.com/drone-strike-damage-in-rama-tigray/"
+    },
+    {
+      "date": "2026-10-14",
+      "place": "Abiy Addi",
+      "at": [
+        13.617,
+        39.0
+      ],
+      "title": "Tigrayan forces claim to retake Abiy Addi",
+      "text": "Tigray Defense Forces said they attacked government forces and took Abiy Addi, Shewate Higum and Yechila. A Tigray Peace Force commander had earlier said government-allied forces held the town. Neither claim was independently verified.",
+      "source": "Dawan Africa",
+      "url": "https://www.dawan.africa/news/ethiopia-tplf-says-it-retook-abiy-addi-in-central-tigray"
+    },
+    {
+      "date": "2026-10-14",
+      "place": "Axum",
+      "at": [
+        14.121,
+        38.724
+      ],
+      "title": "Ethiopian forces and allied fighters reported entering Axum",
+      "text": "Ethiopian forces and allied Tigray Peace Force fighters said they entered Axum. ACLED documented the entry and said rival Tigrayan fighters stayed in surrounding areas. The entry date and any fighting there are not independently verified.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses"
+    },
+    {
+      "date": "2026-10-12",
+      "place": "Adwa",
+      "at": [
+        14.165,
+        38.896
+      ],
+      "title": "Hospital in Adwa reported looted",
+      "text": "UN spokespeople said a hospital in Adwa was looted on Monday, and that looting of other public buildings was also reported in Tigray.",
+      "source": "United Nations",
+      "url": "https://press.un.org/en/2026/db261013.doc.htm"
+    },
+    {
+      "date": "2026-10-13",
+      "place": "Zalambessa",
+      "at": [
+        14.517,
+        39.383
+      ],
+      "title": "Ethiopian troops reported entering Zalambessa on Eritrean border",
       "text": "People in touch with residents told Reuters that Ethiopian government troops advanced into Zalambessa, which Tigrayan rebels had held. A pro-government militia spokesperson did not confirm army control. Eritrea denies sending troops into the area.",
-      "source": "Reuters (via TimesLive)", "url": "https://www.timeslive.co.za/news/africa/2026-10-13-ethiopian-troops-enter-town-on-border-with-eritrea-stoking-war-fears/" },
-    { "date": "2026-10-11", "place": "Adwa", "at": [14.165, 38.896], "title": "Government forces enter Adwa; looting reported",
+      "source": "Reuters (via TimesLive)",
+      "url": "https://www.timeslive.co.za/news/africa/2026-10-13-ethiopian-troops-enter-town-on-border-with-eritrea-stoking-war-fears/"
+    },
+    {
+      "date": "2026-10-11",
+      "place": "Adwa",
+      "at": [
+        14.165,
+        38.896
+      ],
+      "title": "Government forces enter Adwa; looting reported",
       "text": "Residents told AFP that federal forces and allied fighters entered Adwa without resistance after TPLF-loyal forces withdrew. Residents said government buildings, including Adwa Hospital, were looted overnight.",
-      "source": "News Central TV (citing AFP)", "url": "https://newscentraltv.com/ethiopian-forces-enter-key-tigray-town" },
-    { "date": "2026-10-10", "place": "Adigrat", "at": [14.277, 39.462], "title": "Rival forces claim Adigrat",
-      "text": "The Tigray Peace Forces said they control Adigrat. Reuters, citing three residents, said government forces and allied militia entered the city. Reuters could not confirm who controls it.", "source": "Dawan Africa", "url": "https://www.dawan.africa/news/tigray-peace-forces-claim-control-of-adigrat-amid-renewed-fighting" },
-    { "date": "2026-10-08", "place": "Adigrat", "at": [14.277, 39.462], "title": "Drone strikes reported on Eritrean forces near Adigrat",
-      "text": "The conflict monitor ACLED said multiple drone strikes hit Eritrean troops and ammunition in the Adigrat area overnight. Witnesses told AFP they saw destroyed Eritrean lorries and a large explosion. No casualty figures were reported.", "source": "Euronews (AFP)", "url": "https://www.euronews.com/2026/10/08/ethiopian-drones-hit-eritrean-forces-accused-of-backing-rebels-in-tigray" },
-    {"date": "2026-10-07", "place": "Adwa", "at": [14.165, 38.896], "title": "Drone strikes reported on homes in Adwa", "text": "A situation report by the Europe External Programme with Africa, republished by IDN-InDepthNews, said drone strikes reportedly hit civilian homes in Adwa. The report says the information comes from third parties and is not verified.", "source": "IDN-InDepthNews (EEPA)", "url": "https://indepthnews.net/eepa-reports-on-eritrean-forces-seen-in-adigrat-tigray/"},
-    { "date": "2026-10-07", "place": "Shire", "at": [14.100, 38.283], "title": "Looting and gunfire reported in Shire after rebels leave",
-      "text": "An aid worker told AFP that TPLF fighters and the local administration left Shire on Wednesday. AFP reported that looting followed and four people were killed and 11 injured in gunfire. Pro-government forces had not yet entered the city.", "source": "AFP (via Yahoo News)", "url": "https://www.yahoo.com/news/world/articles/eritrea-ethiopia-trade-barbs-tigray-113445296.html" },
-    { "date": "2026-10-07", "place": "Wukro", "at": [13.785, 39.6], "title": "Federal forces reported to take control of Wukro",
+      "source": "News Central TV (citing AFP)",
+      "url": "https://newscentraltv.com/ethiopian-forces-enter-key-tigray-town"
+    },
+    {
+      "date": "2026-10-10",
+      "place": "Adigrat",
+      "at": [
+        14.277,
+        39.462
+      ],
+      "title": "Rival forces claim Adigrat",
+      "text": "The Tigray Peace Forces said they control Adigrat. Reuters, citing three residents, said government forces and allied militia entered the city. Reuters could not confirm who controls it.",
+      "source": "Dawan Africa",
+      "url": "https://www.dawan.africa/news/tigray-peace-forces-claim-control-of-adigrat-amid-renewed-fighting"
+    },
+    {
+      "date": "2026-10-08",
+      "place": "Adigrat",
+      "at": [
+        14.277,
+        39.462
+      ],
+      "title": "Drone strikes reported on Eritrean forces near Adigrat",
+      "text": "The conflict monitor ACLED said multiple drone strikes hit Eritrean troops and ammunition in the Adigrat area overnight. Witnesses told AFP they saw destroyed Eritrean lorries and a large explosion. No casualty figures were reported.",
+      "source": "Euronews (AFP)",
+      "url": "https://www.euronews.com/2026/10/08/ethiopian-drones-hit-eritrean-forces-accused-of-backing-rebels-in-tigray"
+    },
+    {
+      "date": "2026-10-07",
+      "place": "Adwa",
+      "at": [
+        14.165,
+        38.896
+      ],
+      "title": "Drone strikes reported on homes in Adwa",
+      "text": "A situation report by the Europe External Programme with Africa, republished by IDN-InDepthNews, said drone strikes reportedly hit civilian homes in Adwa. The report says the information comes from third parties and is not verified.",
+      "source": "IDN-InDepthNews (EEPA)",
+      "url": "https://indepthnews.net/eepa-reports-on-eritrean-forces-seen-in-adigrat-tigray/"
+    },
+    {
+      "date": "2026-10-07",
+      "place": "Shire",
+      "at": [
+        14.1,
+        38.283
+      ],
+      "title": "Looting and gunfire reported in Shire after rebels leave",
+      "text": "An aid worker told AFP that TPLF fighters and the local administration left Shire on Wednesday. AFP reported that looting followed and four people were killed and 11 injured in gunfire. Pro-government forces had not yet entered the city.",
+      "source": "AFP (via Yahoo News)",
+      "url": "https://www.yahoo.com/news/world/articles/eritrea-ethiopia-trade-barbs-tigray-113445296.html"
+    },
+    {
+      "date": "2026-10-07",
+      "place": "Wukro",
+      "at": [
+        13.785,
+        39.6
+      ],
+      "title": "Federal forces reported to take control of Wukro",
       "text": "The Critical Threats Project reported that federal forces and the Tigray Peace Force paused outside Wukro from 5 October and took control of the town on 7 October.",
-      "source": "Critical Threats Project", "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/ethiopia-war-security-review-october-9-2026" },
-    { "date": "2026-10-04", "place": "Sheraro", "at": [14.397, 37.77], "title": "Drone strike reported on Sheraro displacement camp",
+      "source": "Critical Threats Project",
+      "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/ethiopia-war-security-review-october-9-2026"
+    },
+    {
+      "date": "2026-10-04",
+      "place": "Sheraro",
+      "at": [
+        14.397,
+        37.77
+      ],
+      "title": "Drone strike reported on Sheraro displacement camp",
       "text": "An aid worker told AFP that a drone strike early on Sunday on a camp for displaced people killed at least eight people, including a child, and seriously wounded six. AFP said it could not verify the toll independently.",
-      "source": "Oman Observer (AFP)", "url": "https://www.omanobserver.om/article/1197305/world/africa/drone-strike-on-tigray-displacement-camp-kills-eight" },
-    { "date": "2026-10-03", "place": "Mekelle", "at": [13.497, 39.475], "title": "Federal and allied forces say they took Mekelle",
+      "source": "Oman Observer (AFP)",
+      "url": "https://www.omanobserver.om/article/1197305/world/africa/drone-strike-on-tigray-displacement-camp-kills-eight"
+    },
+    {
+      "date": "2026-10-03",
+      "place": "Mekelle",
+      "at": [
+        13.497,
+        39.475
+      ],
+      "title": "Federal and allied forces say they took Mekelle",
       "text": "Residents told Xinhua that federal forces and the Tigray Peace Force took control of Mekelle late on Saturday, with limited fighting in or around the city.",
-      "source": "China Daily (citing Xinhua)", "url": "https://www.chinadailyhk.com/article/640572" },
-    { "date": "2026-10-03", "place": "Mekelle airport", "at": [13.467, 39.533], "title": "Government forces retake Mekelle's airport",
+      "source": "China Daily (citing Xinhua)",
+      "url": "https://www.chinadailyhk.com/article/640572"
+    },
+    {
+      "date": "2026-10-03",
+      "place": "Mekelle airport",
+      "at": [
+        13.467,
+        39.533
+      ],
+      "title": "Government forces retake Mekelle's airport",
       "text": "Ethiopian government forces recaptured Alula Aba Nega Airport after fighting that began on 23 September.",
-      "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know" },
-    { "date": "2026-10-03", "place": "Adwa", "at": [14.165, 38.896], "title": "Drone strikes reported on hotels in Adwa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know"
+    },
+    {
+      "date": "2026-10-03",
+      "place": "Adwa",
+      "at": [
+        14.165,
+        38.896
+      ],
+      "title": "Drone strikes reported on hotels in Adwa",
       "text": "Residents told Addis Standard that drone strikes hit several hotels. One resident estimated up to nine civilians were killed. Addis Standard could not verify the figure, and no one has claimed the strikes.",
-      "source": "Addis Standard (via allAfrica)", "url": "https://allafrica.com/stories/202610060026.html" },
-    { "date": "2026-09-28", "place": "Alamata", "at": [12.417, 39.55], "title": "Heavy fighting around Alamata",
+      "source": "Addis Standard (via allAfrica)",
+      "url": "https://allafrica.com/stories/202610060026.html"
+    },
+    {
+      "date": "2026-09-28",
+      "place": "Alamata",
+      "at": [
+        12.417,
+        39.55
+      ],
+      "title": "Heavy fighting around Alamata",
       "text": "Government troops took control of Alamata after days of fighting. A medic told the BBC that at least 52 civilians were killed.",
-      "source": "The Star (Kenya) / BBC", "url": "https://www.the-star.co.ke/news/africa/2026-09-30-medic-ethiopia-fighting-escalates-in-tigray-killing-52-civilians" },
-    { "date": "2026-09-27", "place": "Mekelle", "at": [13.49, 39.47], "title": "Drone strike hits Tigrai TV headquarters",
+      "source": "The Star (Kenya) / BBC",
+      "url": "https://www.the-star.co.ke/news/africa/2026-09-30-medic-ethiopia-fighting-escalates-in-tigray-killing-52-civilians"
+    },
+    {
+      "date": "2026-09-27",
+      "place": "Mekelle",
+      "at": [
+        13.49,
+        39.47
+      ],
+      "title": "Drone strike hits Tigrai TV headquarters",
       "text": "A drone struck the building of Tigray's public television station in Mekelle, taking it off air. No casualties were reported at the time.",
-      "source": "France 24", "url": "https://www.france24.com/en/live-news/20260927-tigray-tv-station-hit-by-drone-rebels-advance-in-north-ethiopia" },
-    { "date": "2026-09-24", "place": "Kobo (Amhara)", "at": [12.15, 39.633], "title": "Mortar strike kills civilians in Kobo",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/live-news/20260927-tigray-tv-station-hit-by-drone-rebels-advance-in-north-ethiopia"
+    },
+    {
+      "date": "2026-09-24",
+      "place": "Kobo (Amhara)",
+      "at": [
+        12.15,
+        39.633
+      ],
+      "title": "Mortar strike kills civilians in Kobo",
       "text": "The UN human rights chief reported that a mortar strike killed civilians in Kobo, in Amhara near the Tigray border.",
-      "source": "UN News", "url": "https://news.un.org/en/story/2026/09/1168450" },
-    { "date": "2026-09-24", "place": "Abala (Afar)", "at": [13.36, 39.75], "title": "Tigrayan forces capture Abala",
+      "source": "UN News",
+      "url": "https://news.un.org/en/story/2026/09/1168450"
+    },
+    {
+      "date": "2026-09-24",
+      "place": "Abala (Afar)",
+      "at": [
+        13.36,
+        39.75
+      ],
+      "title": "Tigrayan forces capture Abala",
       "text": "Tigrayan forces captured Abala, a district capital in the neighbouring Afar region, as fighting spread.",
-      "source": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/9/24/fighting-widens-across-ethiopia-as-tigray-clashes-escalate" },
-    { "date": "2026-09-23", "place": "Axum airport", "at": [14.147, 38.773], "title": "Airports at Mekelle, Axum and Shire seized",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/24/fighting-widens-across-ethiopia-as-tigray-clashes-escalate"
+    },
+    {
+      "date": "2026-09-23",
+      "place": "Axum airport",
+      "at": [
+        14.147,
+        38.773
+      ],
+      "title": "Airports at Mekelle, Axum and Shire seized",
       "text": "Tigrayan forces seized the airports of Mekelle, Axum and Shire, and flights to the region were cancelled.",
-      "source": "UN Secretary-General", "url": "https://press.un.org/en/2026/sgsm23299.doc.htm" },
-    { "date": "2026-09-23", "place": "Shire airport", "at": [14.078, 38.272], "title": "Airports at Mekelle, Axum and Shire seized",
+      "source": "UN Secretary-General",
+      "url": "https://press.un.org/en/2026/sgsm23299.doc.htm"
+    },
+    {
+      "date": "2026-09-23",
+      "place": "Shire airport",
+      "at": [
+        14.078,
+        38.272
+      ],
+      "title": "Airports at Mekelle, Axum and Shire seized",
       "text": "Tigrayan forces seized the airports of Mekelle, Axum and Shire, and flights to the region were cancelled.",
-      "source": "UN Secretary-General", "url": "https://press.un.org/en/2026/sgsm23299.doc.htm" },
-    { "date": "2026-09-20", "place": "Near Adi Daero", "at": [14.33, 38.17], "title": "Drone strike destroys food aid truck",
+      "source": "UN Secretary-General",
+      "url": "https://press.un.org/en/2026/sgsm23299.doc.htm"
+    },
+    {
+      "date": "2026-09-20",
+      "place": "Near Adi Daero",
+      "at": [
+        14.33,
+        38.17
+      ],
+      "title": "Drone strike destroys food aid truck",
       "text": "A drone struck a truck carrying about 41 tonnes of food for displaced families in Sheraro. A 13-year-old girl was injured.",
-      "source": "allAfrica / U.S. State Department", "url": "https://allafrica.com/stories/202609230486.html" },
-    { "date": "2026-09-08", "place": "Near Freweyni", "at": [14.05, 39.567], "title": "Drone strikes reported near Freweyni",
+      "source": "allAfrica / U.S. State Department",
+      "url": "https://allafrica.com/stories/202609230486.html"
+    },
+    {
+      "date": "2026-09-08",
+      "place": "Near Freweyni",
+      "at": [
+        14.05,
+        39.567
+      ],
+      "title": "Drone strikes reported near Freweyni",
       "text": "Hintalo district officials told Tigray TV that drone strikes on a residential area in the MyShumet area near Freweyni killed three people, including a two-year-old child, and injured four. Addis Standard could not verify the figures. The federal government made no immediate comment.",
-      "source": "Addis Standard (via allAfrica)", "url": "https://allafrica.com/stories/202609090028.html" },
-    { "date": "2026-08-20", "place": "Mekelle", "at": [13.5, 39.48], "title": "Airstrike on a residential compound in Mekelle",
+      "source": "Addis Standard (via allAfrica)",
+      "url": "https://allafrica.com/stories/202609090028.html"
+    },
+    {
+      "date": "2026-08-20",
+      "place": "Mekelle",
+      "at": [
+        13.5,
+        39.48
+      ],
+      "title": "Airstrike on a residential compound in Mekelle",
       "text": "Human Rights Watch found that an apparent Ethiopian government airstrike hit a compound for teachers and their families, wounding 13 civilians including 7 children.",
-      "source": "Human Rights Watch", "url": "https://hrw.org/news/2026/09/25/ethiopia-indiscriminate-airstrike-in-tigray" }
+      "source": "Human Rights Watch",
+      "url": "https://hrw.org/news/2026/09/25/ethiopia-indiscriminate-airstrike-in-tigray"
+    }
   ]
 }
