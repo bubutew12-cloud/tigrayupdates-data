@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-17T12:30:00Z",
+  "updated": "2026-10-18T18:30:00Z",
   "items": [
+    {
+      "date": "2026-10-17",
+      "cat": "tigray",
+      "issuer": "TPLF",
+      "role": "Tigray People's Liberation Front",
+      "logo": "",
+      "initials": "TP",
+      "title": "TPLF rejects federal caretaker administration for Tigray",
+      "quote": "no legality or enforceability",
+      "points": [
+        "Rejected the interim leadership named by the federal government as a Prosperity Party structure.",
+        "Said decisions made under the new administration have no legal force and warned institutions that cooperate they would be held accountable.",
+        "Accused the federal government of using Tigray's airports for military purposes and told residents to stay away from them. Anadolu said no independent evidence was provided."
+      ],
+      "url": "https://www.aa.com.tr/en/africa/ethiopias-tplf-rejects-new-tigray-administration-as-illegitimate/4092056"
+    },
     {
       "date": "2026-10-16",
       "cat": "tigray",
