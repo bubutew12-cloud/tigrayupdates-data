@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T11:30:00Z",
+  "updated": "2026-10-19T16:30:00Z",
   "items": [
     {
       "date": "2026-10-18",
@@ -417,6 +417,14 @@
       "color": "#0b6aa8",
       "title": "Ethiopia: Social media becomes a battleground for propaganda",
       "url": "https://www.france24.com/en/ethiopia-social-media-becomes-a-battleground-for-propaganda"
+    },
+    {
+      "date": "2026-10-12",
+      "outlet": "allAfrica (Addis Standard)",
+      "logo": "allafrica.com",
+      "color": "#7a3b00",
+      "title": "Eritrea Asks UN to Intervene in Standoff With Ethiopia As Addis Abeba Vows Self-Defense",
+      "url": "https://allafrica.com/stories/202610190065.html"
     },
     {
       "date": "2026-10-12",
