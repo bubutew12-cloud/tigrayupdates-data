@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-19T16:30:00Z",
+  "updated": "2026-10-19T18:30:00Z",
   "items": [
+    {
+      "date": "2026-10-19",
+      "outlet": "The Rio Times",
+      "logo": "riotimesonline.com",
+      "color": "#1f4e79",
+      "title": "Tigray Front Rejects 6-Month Caretaker Rule",
+      "url": "https://www.riotimesonline.com/tigray-tplf-rejects-caretaker-administration-2026/"
+    },
     {
       "date": "2026-10-18",
       "outlet": "Al Jazeera",
@@ -739,6 +747,14 @@
       "color": "#1a4a8a",
       "title": "Ethiopia and Eritrea trade war accusations as regional conflict threatens to escalate",
       "url": "https://africanews.com/2026/10/09/ethiopia-and-eritrea-trade-war-accusations-as-regional-conflict-threatens-to-escalate"
+    },
+    {
+      "date": "2026-10-08",
+      "outlet": "Courthouse News Service",
+      "logo": "courthousenews.com",
+      "color": "#7a1f1f",
+      "title": "Ethiopia drones hit Eritrean troops in Tigray",
+      "url": "https://www.courthousenews.com/ethiopia-drones-hit-eritrean-troops-in-tigray/"
     },
     {
       "date": "2026-10-08",
