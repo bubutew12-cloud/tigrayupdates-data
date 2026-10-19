@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-18T21:30:00Z",
+  "updated": "2026-10-19T05:30:00Z",
   "items": [
+    {
+      "date": "2026-10-18",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Residents recount drone strikes in Ethiopia's northern Tigray region",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region"
+    },
     {
       "date": "2026-10-18",
       "outlet": "Kuwait Times (AFP)",
