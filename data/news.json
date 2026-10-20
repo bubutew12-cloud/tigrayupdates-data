@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T14:30:00Z",
+  "updated": "2026-10-20T21:30:00Z",
   "items": [
     {
       "date": "2026-10-20",
@@ -8,6 +8,14 @@
       "color": "#7a3b00",
       "title": "Ethiopia: PM Abiy Warns Eritrea of 'Extremely Severe' Consequences If It Rejects Ethiopia's Peace Call Amid Rising Tensions",
       "url": "https://allafrica.com/stories/202610200411.html"
+    },
+    {
+      "date": "2026-10-19",
+      "outlet": "Fana Media Corporation",
+      "logo": "fanamc.com",
+      "color": "#1b5e20",
+      "title": "PM Abiy: Tigray’s Youth Must Stop Dying for TPLF Leaders and Start Building Their Future",
+      "url": "https://www.fanamc.com/english/pm-abiy-tigrays-youth-must-stop-dying-for-tplf-leaders-and-start-building-their-future/"
     },
     {
       "date": "2026-10-19",
@@ -64,14 +72,6 @@
       "color": "#1f3a5f",
       "title": "In Tigray, Ethiopians welcome departure of Eritrean troops",
       "url": "https://kuwaittimes.com/article/51864/world/in-tigray-ethiopians-welcome-departure-of-eritrean-troops"
-    },
-    {
-      "date": "2026-10-16",
-      "outlet": "ABC News (AP)",
-      "logo": "abcnews.com",
-      "color": "#1a3f7a",
-      "title": "Ethiopia sets up Tigray caretaker government as ex-fighters seek return to civilian life",
-      "url": "https://abcnews.com/Business/wireStory/ethiopia-sets-tigray-caretaker-government-fighters-seek-return-137328515"
     },
     {
       "date": "2026-10-17",
@@ -136,6 +136,14 @@
       "color": "#37474f",
       "title": "TPLF Warns Against Mekelle Airport Movements, Rejects Tigray Caretaker Administration",
       "url": "https://kulu-media.com/tplf-airport-warning-mekelle"
+    },
+    {
+      "date": "2026-10-16",
+      "outlet": "ABC News (AP)",
+      "logo": "abcnews.com",
+      "color": "#1a3f7a",
+      "title": "Ethiopia sets up Tigray caretaker government as ex-fighters seek return to civilian life",
+      "url": "https://abcnews.com/Business/wireStory/ethiopia-sets-tigray-caretaker-government-fighters-seek-return-137328515"
     },
     {
       "date": "2026-10-16",
@@ -304,6 +312,14 @@
       "color": "#1f4e5f",
       "title": "Ethiopia Appoints Six-Month Caretaker Administration for Tigray After Capturing Mekelle",
       "url": "https://www.dawan.africa/news/ethiopia-appoints-six-month-caretaker-administration-for-tigray-after-capturing-mekelle"
+    },
+    {
+      "date": "2026-10-15",
+      "outlet": "Africanews",
+      "logo": "africanews.com",
+      "color": "#1a4a8a",
+      "title": "HRW calls for greater access to Tigray region to ensure civilian protection",
+      "url": "https://www.africanews.com/2026/10/15/hrw-calls-for-greater-access-to-tigray-region-to-ensure-civilian-protection/"
     },
     {
       "date": "2026-10-15",
