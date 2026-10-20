@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-20T03:30:00Z",
+  "updated": "2026-10-20T11:30:00Z",
   "items": [
+    {
+      "date": "2026-10-19",
+      "cat": "fed",
+      "issuer": "Ethiopian Federal Government",
+      "role": "Prime Minister Abiy Ahmed",
+      "logo": "",
+      "initials": "FDRE",
+      "title": "Abiy says TPLF is alien to Tigrayan identity",
+      "quote": "no political organization can claim ownership of a people whose history stretches back thousands of years.",
+      "points": [
+        "Said the TPLF has nothing in common with the identity and dignity of the people of Tigray, as reported by state-affiliated Fana Media.",
+        "Said the people of Tigray have paid an immense price because of the TPLF.",
+        "The TPLF rejects the federal government's new caretaker administration and does not accept this characterisation."
+      ],
+      "url": "https://www.fanamc.com/english/pm-abiy-the-defunct-tplf-is-utterly-alien-to-the-identity-of-the-people-of-tigray-region/"
+    },
     {
       "date": "2026-10-19",
       "cat": "fed",
