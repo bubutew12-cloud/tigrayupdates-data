@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-18T19:30:00Z",
+  "updated": "2026-10-20T03:30:00Z",
   "items": [
+    {
+      "date": "2026-10-19",
+      "cat": "fed",
+      "issuer": "Ethiopian Federal Government",
+      "role": "Prime Minister Abiy Ahmed",
+      "logo": "",
+      "initials": "FDRE",
+      "title": "Abiy warns Eritrea of \"severe consequences\" if it backs rebels",
+      "quote": "I believe that ignoring our calls will have very, very, very severe consequences.",
+      "points": [
+        "Warned Eritrea, in remarks in Tigrinya reported by AFP, against serving as a base for Ethiopia's enemies.",
+        "Said the TPLF's existence \"is coming to an end\" and urged Eritrea to be a development partner.",
+        "Eritrea has denied backing rebels and says Ethiopia is seeking Red Sea access."
+      ],
+      "url": "https://www.france24.com/en/live-news/20261019-ethiopia-pm-warns-eritrea-of-severe-consequences-if-supports-enemies"
+    },
     {
       "date": "2026-10-17",
       "cat": "tigray",
