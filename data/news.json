@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-20T21:30:00Z",
+  "updated": "2026-10-21T03:30:00Z",
   "items": [
+    {
+      "date": "2026-10-20",
+      "outlet": "Türkiye Today",
+      "logo": "turkiyetoday.com",
+      "color": "#8a1c1c",
+      "kind": "Opinion",
+      "title": "Can Abiy secure peace in Tigray while avoiding war with Eritrea?",
+      "url": "https://turkiyetoday.com/opinion/can-abiy-secure-peace-in-tigray-while-avoiding-war-with-eritrea-3230674"
+    },
     {
       "date": "2026-10-20",
       "outlet": "allAfrica (Addis Standard)",
