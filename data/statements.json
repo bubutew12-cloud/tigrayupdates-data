@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-22T12:30:00Z",
+  "updated": "2026-10-22T22:30:00Z",
   "items": [
+    {
+      "date": "2026-10-22",
+      "cat": "fed",
+      "issuer": "Ethiopian Federal Government",
+      "role": "Getachew Reda, East African Affairs Advisor to the Prime Minister",
+      "logo": "",
+      "initials": "FDRE",
+      "title": "Getachew Reda dismisses \"Tsimdo\" and TPLF alliances",
+      "quote": "Tsimdo is a group that has no organized capability.",
+      "points": [
+        "Said the group known as Tsimdo is formed to mislead the public through propaganda, as reported by the state-run Ethiopian News Agency.",
+        "Described the TPLF's alignment with armed groups such as Fano and Shene as \"an alliance based on hatred and other interests\".",
+        "Spoke at a policy forum in Addis Ababa. The report gives no independent evidence for his claims."
+      ],
+      "url": "https://www.ena.et/web/eng/w/eng_9794823"
+    },
     {
       "date": "2026-10-21",
       "cat": "intl",
