@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T10:30:00Z",
+  "updated": "2026-10-22T12:30:00Z",
   "items": [
     {
       "date": "2026-10-22",
@@ -16,6 +16,14 @@
       "color": "#a86400",
       "title": "Tigray resumes daily life amid fears of wider war",
       "url": "https://aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war"
+    },
+    {
+      "date": "2026-10-21",
+      "outlet": "UN News",
+      "logo": "news.un.org",
+      "color": "#0a6aad",
+      "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
+      "url": "https://news.un.org/en/story/2026/10/1168643"
     },
     {
       "date": "2026-10-21",

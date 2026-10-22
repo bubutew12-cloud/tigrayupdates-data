@@ -1,6 +1,21 @@
 {
-  "updated": "2026-10-21T07:30:00Z",
+  "updated": "2026-10-22T12:30:00Z",
   "items": [
+    {
+      "date": "2026-10-21",
+      "cat": "intl",
+      "issuer": "World Health Organization",
+      "role": "",
+      "logo": "who.int",
+      "initials": "WHO",
+      "title": "WHO scales up emergency health response in Afar, Amhara and Tigray",
+      "points": [
+        "Said it is scaling up emergency health operations in Afar, Amhara and Tigray because of growing needs from ongoing fighting.",
+        "Said it has delivered more than 71 tonnes of supplies, including emergency health kits and cholera response materials.",
+        "Said it is supporting outbreak investigation, vaccine distribution and emergency referrals with UNICEF, UNHCR and regional authorities."
+      ],
+      "url": "https://news.un.org/en/story/2026/10/1168643"
+    },
     {
       "date": "2026-10-20",
       "cat": "intl",
