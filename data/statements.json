@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T22:30:00Z",
+  "updated": "2026-10-23T00:30:00Z",
   "items": [
     {
       "date": "2026-10-22",
@@ -47,6 +47,37 @@
         "Said the people of Tigray are tired of war and want normalcy."
       ],
       "url": "https://www.riotimesonline.com/un-urges-tigray-ceasefire-ethiopia-2026"
+    },
+    {
+      "date": "2026-10-20",
+      "cat": "foreign",
+      "issuer": "Eritrea",
+      "role": "Information Minister Yemane Gebremeskel",
+      "logo": "shabait.com",
+      "initials": "ER",
+      "title": "Eritrea rejects claim that TPLF leaders crossed into its territory",
+      "quote": "lies",
+      "points": [
+        "Rejected a claim by Gebregziabher Beyene, commander of the pro-government Tigray Peace Force, that TPLF leaders crossed into Eritrea.",
+        "Beyene also alleged that the TPLF moved military equipment and medicines to Asmara. AFP said it could not immediately verify the claims.",
+        "Ethiopia accuses Eritrea of backing the TPLF. Eritrea says Ethiopia wants its port of Assab."
+      ],
+      "url": "https://thepeninsulaqatar.com/article/21/10/2026/eritrea-denies-ethiopian-militia-claims-of-rebels-in-country"
+    },
+    {
+      "date": "2026-10-20",
+      "cat": "tigray",
+      "issuer": "TPLF",
+      "role": "Vice President Amanuel Assefa",
+      "logo": "",
+      "initials": "TP",
+      "title": "TPLF says its leadership is inside Tigray, denies crossing into Eritrea",
+      "quote": "The leadership is working within Tigray.",
+      "points": [
+        "Denied the claim by a pro-government militia commander that TPLF leaders had crossed into Eritrea.",
+        "The claim was made to residents of Mekelle and could not be independently verified, AFP reported."
+      ],
+      "url": "https://thepeninsulaqatar.com/article/21/10/2026/eritrea-denies-ethiopian-militia-claims-of-rebels-in-country"
     },
     {
       "date": "2026-10-19",
