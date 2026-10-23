@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-23T05:30:00Z",
+  "updated": "2026-10-23T09:30:00Z",
   "items": [
+    {
+      "date": "2026-10-23",
+      "outlet": "Africanews",
+      "logo": "africanews.com",
+      "color": "#1a4a8a",
+      "title": "Tigray is still at war, rebel leader warns, claiming tactical victories",
+      "url": "https://www.africanews.com/2026/10/23/tigray-is-still-at-war-rebel-leader-warns-claiming-tactical-victories/"
+    },
+    {
+      "date": "2026-10-22",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
+      "url": "https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting"
+    },
     {
       "date": "2026-10-22",
       "outlet": "EEPA",

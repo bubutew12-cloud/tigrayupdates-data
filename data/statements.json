@@ -1,6 +1,21 @@
 {
-  "updated": "2026-10-23T00:30:00Z",
+  "updated": "2026-10-23T09:30:00Z",
   "items": [
+    {
+      "date": "2026-10-21",
+      "cat": "tigray",
+      "issuer": "TPLF",
+      "role": "Chairman Debretsion Gebremichael",
+      "logo": "",
+      "initials": "TP",
+      "title": "TPLF leader says Tigray is still at war",
+      "points": [
+        "Said in a message on Tigrayan television that the region is still at war and that the TPLF continues to fight federal forces.",
+        "Claimed Tigrayan forces killed or disabled hundreds of federal soldiers in northern and central Tigray the previous week. This claim is unverified.",
+        "Africanews reported that the federal army retook Mekelle earlier in October."
+      ],
+      "url": "https://www.africanews.com/2026/10/23/tigray-is-still-at-war-rebel-leader-warns-claiming-tactical-victories/"
+    },
     {
       "date": "2026-10-22",
       "cat": "fed",
