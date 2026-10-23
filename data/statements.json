@@ -1,6 +1,36 @@
 {
-  "updated": "2026-10-23T09:30:00Z",
+  "updated": "2026-10-23T17:30:00Z",
   "items": [
+    {
+      "date": "2026-10-23",
+      "cat": "tigray",
+      "issuer": "Tigray caretaker administration",
+      "role": "Redae Halefom Woldeselassie, chief executive for political and public mobilization",
+      "logo": "",
+      "initials": "TCA",
+      "title": "Caretaker official urges Tigrayan fighters to give up weapons",
+      "quote": "This is not the time for settling scores, I call upon you to return to your homes and continue your civilian lives",
+      "points": [
+        "Urged rebel fighters to surrender their weapons, speaking in Mekelle, AP reported.",
+        "The caretaker administration is a six-month body set up by the federal government."
+      ],
+      "url": "https://www.boston25news.com/news/world/ethiopias-tigray/7H6LNK3WLE7O3NQZ4P6GRA3KFM/"
+    },
+    {
+      "date": "2026-10-22",
+      "cat": "tigray",
+      "issuer": "Tigray army",
+      "role": "Lt. Gen. Fisseha Kidanu, commander",
+      "logo": "",
+      "initials": "TA",
+      "title": "Tigrayan commander vows continued resistance",
+      "quote": "Local militias across the region — alongside all volunteers joining the resistance — are expected to engage the enemy",
+      "points": [
+        "Said on Tigray Broadcast Media that local militias and volunteers are expected to fight government forces.",
+        "His location was not disclosed, and AP could not verify the TPLF's claims of heavy losses inflicted on government forces."
+      ],
+      "url": "https://www.boston25news.com/news/world/ethiopias-tigray/7H6LNK3WLE7O3NQZ4P6GRA3KFM/"
+    },
     {
       "date": "2026-10-21",
       "cat": "tigray",
