@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-24T07:30:00Z",
+  "updated": "2026-10-24T17:30:00Z",
   "items": [
+    {
+      "date": "2026-10-24",
+      "outlet": "Kulu Media",
+      "logo": "kulu-media.com",
+      "color": "#37474f",
+      "title": "TPLF Forces Reportedly Reenter Rama After ENDF Withdrawal",
+      "url": "https://kulu-media.com/tplf-forces-reenter-rama"
+    },
     {
       "date": "2026-10-23",
       "outlet": "Kulu Media",
@@ -32,6 +40,15 @@
       "color": "#1a4a8a",
       "title": "Tigray is still at war, rebel leader warns, claiming tactical victories",
       "url": "https://www.africanews.com/2026/10/23/tigray-is-still-at-war-rebel-leader-warns-claiming-tactical-victories/"
+    },
+    {
+      "date": "2026-10-22",
+      "outlet": "Ethiopia Insight",
+      "logo": "ethiopia-insight.com",
+      "color": "#7a3b00",
+      "title": "Tsadkan's \"Reforms\" Have Fragmented Tigray's Unity",
+      "url": "https://ethiopia-insight.com/2026/10/22/tsadkans-reforms-have-fragmented-tigrays-unity",
+      "kind": "Opinion"
     },
     {
       "date": "2026-10-22",
