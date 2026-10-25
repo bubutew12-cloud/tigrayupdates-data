@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T11:30:00Z",
+  "updated": "2026-10-25T13:30:00Z",
   "items": [
     {
       "date": "2026-10-24",
@@ -362,6 +362,14 @@
       "color": "#2f4858",
       "title": "Russia's Mediation Offer Between Ethiopia and Eritrea",
       "url": "https://hornreview.org/?p=12746"
+    },
+    {
+      "date": "2026-10-16",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences"
     },
     {
       "date": "2026-10-16",
