@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T17:30:00Z",
+  "updated": "2026-10-25T09:40:00Z",
   "items": [
     {
       "date": "2026-10-23",
@@ -76,6 +76,21 @@
         "Said it is supporting outbreak investigation, vaccine distribution and emergency referrals with UNICEF, UNHCR and regional authorities."
       ],
       "url": "https://news.un.org/en/story/2026/10/1168643"
+    },
+    {
+      "date": "2026-10-20",
+      "cat": "fed",
+      "issuer": "Ethiopian Federal Government",
+      "role": "Prime Minister Abiy Ahmed",
+      "logo": "",
+      "initials": "PM",
+      "title": "Abiy says TPLF acquired combat drones, urges fighters to disarm",
+      "points": [
+        "Said in a televised address that TPLF forces acquired combat drones, according to Borkena. Federal authorities had not formally confirmed an earlier reported drone strike on Addis Ababa.",
+        "Accused TPLF leaders of spending on weapons instead of development and of diverting food aid meant for displaced people. These are government allegations and were not independently verified.",
+        "Urged fighters and residents of Tigray to put down weapons, said those responsible for crimes would face legal accountability, and warned Eritrean authorities of serious consequences if peaceful options were abandoned."
+      ],
+      "url": "https://borkena.com/pm-abiy-confirms-tplf-drone-acquisition-following-capital-explosion-reports/"
     },
     {
       "date": "2026-10-20",
