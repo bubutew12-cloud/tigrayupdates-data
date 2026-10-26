@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-25T09:40:00Z",
+  "updated": "2026-10-26T01:25:00Z",
   "items": [
+    {
+      "date": "2026-10-25",
+      "cat": "fed",
+      "issuer": "Ethiopian National Defense Force",
+      "role": "Field Marshal Berhanu Jula, Chief of Staff",
+      "logo": "",
+      "initials": "ENDF",
+      "title": "Army chief accuses Eritrea, Egypt and Sudan of backing TPLF",
+      "quote": "had already paid a devastating price for years of conflict",
+      "points": [
+        "Said, at the 119th Defense Forces Day event, that the people of Tigray had already paid a heavy price for years of conflict and need peace and new leadership.",
+        "Accused Eritrea, Egypt and Sudan of backing the TPLF and said forces seized weapons that came through Eritrea's Massawa port. Kulu Media noted these claims are not independently verified.",
+        "Rejected the TPLF's description of past defeats as \"strategic withdrawals\"."
+      ],
+      "url": "https://fanamc.com/english/tplf-and-its-external-backers-hide-behind-ethnic-survival-narratives-to-fuel-conflict-at-the-expense-of-the-people-of-tigray-region-endf-chief-of-staff"
+    },
     {
       "date": "2026-10-23",
       "cat": "tigray",
