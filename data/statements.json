@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T15:30:00Z",
+  "updated": "2026-10-26T22:30:00Z",
   "items": [
     {
       "date": "2026-10-25",
@@ -33,6 +33,21 @@
       "url": "https://www.boston25news.com/news/world/ethiopias-tigray/7H6LNK3WLE7O3NQZ4P6GRA3KFM/"
     },
     {
+      "date": "2026-10-23",
+      "cat": "tigray",
+      "issuer": "Tigray Interim Administration",
+      "role": "Asefa Abrha, Chief Executive of Administration and Public Service, speaking to Fana",
+      "logo": "",
+      "initials": "TI",
+      "title": "Interim administration says senior TPLF leaders will join disarmament process",
+      "points": [
+        "Said senior TPLF leaders will join the formal disarmament, demobilization and reintegration (DDR) process within days. The TPLF has not confirmed this.",
+        "Said DDR centers have opened in Mekelle, Shire, Adigrat, Abi Adi and Maychew, and that schools, health care and civil services have resumed.",
+        "Said local officials in Mekelle and southern zones would be elected or appointed within two to three days."
+      ],
+      "url": "https://borkena.com/ethiopia-tplf-leadership-set-to-join-ddr-process-amid-tigray-service-restoration/"
+    },
+    {
       "date": "2026-10-22",
       "cat": "tigray",
       "issuer": "Tigray army",
@@ -62,6 +77,21 @@
         "Spoke at a policy forum in Addis Ababa. The report gives no independent evidence for his claims."
       ],
       "url": "https://www.ena.et/web/eng/w/eng_9794823"
+    },
+    {
+      "date": "2026-10-22",
+      "cat": "foreign",
+      "issuer": "Eritrea",
+      "role": "Ministry of Foreign Affairs",
+      "logo": "shabait.com",
+      "initials": "ER",
+      "title": "Eritrea rejects calls on both sides to show restraint and denies troops entered Ethiopia",
+      "points": [
+        "Accused Ethiopia's ruling Prosperity Party of fabricating military allegations against Eritrea.",
+        "Rejected joint de-escalation appeals from the UN, African Union, US and UK, calling \"both parties\" language legally deficient.",
+        "Denied that Eritrean troops crossed into Ethiopia and said its forces remain within recognized borders. Ethiopia says Eritrea invaded; this has not been independently verified."
+      ],
+      "url": "https://borkena.com/eritrea-rejects-regional-restraint-calls-and-accuses-ethiopia-of-border-threats/"
     },
     {
       "date": "2026-10-21",
