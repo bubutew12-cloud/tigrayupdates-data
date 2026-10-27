@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T13:40:00Z",
+  "updated": "2026-10-27T23:25:00Z",
   "items": [
     {
       "date": "2026-10-27",
@@ -24,6 +24,14 @@
       "color": "#1a4a8a",
       "title": "Ethiopia: At least 60 Christians killed in attacks in Oromia region",
       "url": "https://www.africanews.com/2026/10/27/ethiopia-at-least-60-christians-killed-in-attacks-in-oromia-region/"
+    },
+    {
+      "date": "2026-10-27",
+      "outlet": "allAfrica (Addis Standard)",
+      "logo": "allafrica.com",
+      "color": "#7a3b00",
+      "title": "Ethiopia: Drought, Food Shortages and Child Malnutrition Deepen Humanitarian Needs in Afar, Amhara and Tigray",
+      "url": "https://allafrica.com/stories/202610270284.html"
     },
     {
       "date": "2026-10-26",
@@ -153,6 +161,14 @@
       "color": "#1f4e79",
       "title": "TPLF Leadership Set to Join DDR Process Amid Tigray Service Restoration",
       "url": "https://borkena.com/ethiopia-tplf-leadership-set-to-join-ddr-process-amid-tigray-service-restoration/"
+    },
+    {
+      "date": "2026-10-23",
+      "outlet": "Associated Press",
+      "logo": "apnews.com",
+      "color": "#9e1b1b",
+      "title": "Ethiopia's Tigray rebels urged to disarm as commander vows to fight on",
+      "url": "https://www.wsbtv.com/news/world/ethiopias-tigray/7H6LNK3WLE7O3NQZ4P6GRA3KFM/"
     },
     {
       "date": "2026-10-22",
