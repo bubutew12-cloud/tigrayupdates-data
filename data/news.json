@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T22:30:00Z",
+  "updated": "2026-10-27T00:30:00Z",
   "items": [
     {
       "date": "2026-10-26",
@@ -56,6 +56,15 @@
       "color": "#37474f",
       "title": "TPLF Forces Reportedly Reenter Rama After ENDF Withdrawal",
       "url": "https://kulu-media.com/tplf-forces-reenter-rama"
+    },
+    {
+      "date": "2026-10-23",
+      "outlet": "Critical Threats",
+      "logo": "criticalthreats.org",
+      "color": "#1f3a5f",
+      "title": "Ethiopia War Security Review, October 23, 2026",
+      "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/october-23-2026",
+      "kind": "Analysis"
     },
     {
       "date": "2026-10-23",
