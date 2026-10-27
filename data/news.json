@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:30:00Z",
+  "updated": "2026-10-27T13:40:00Z",
   "items": [
     {
       "date": "2026-10-27",
@@ -24,6 +24,14 @@
       "color": "#1a4a8a",
       "title": "Ethiopia: At least 60 Christians killed in attacks in Oromia region",
       "url": "https://www.africanews.com/2026/10/27/ethiopia-at-least-60-christians-killed-in-attacks-in-oromia-region/"
+    },
+    {
+      "date": "2026-10-26",
+      "outlet": "UN News",
+      "logo": "news.un.org",
+      "color": "#0a6aad",
+      "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN's food programme, UN mission in Somalia concludes",
+      "url": "https://news.un.org/en/story/2026/10/1168674"
     },
     {
       "date": "2026-10-26",
