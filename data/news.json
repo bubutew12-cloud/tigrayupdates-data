@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-28T23:30:00Z",
+  "updated": "2026-10-29T00:30:00Z",
   "items": [
+    {
+      "date": "2026-10-28",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition",
+      "url": "https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition"
+    },
     {
       "date": "2026-10-28",
       "outlet": "France 24",
