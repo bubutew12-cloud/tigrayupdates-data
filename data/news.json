@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-30T10:30:00Z",
+  "updated": "2026-10-30T15:30:00Z",
   "items": [
+    {
+      "date": "2026-10-30",
+      "outlet": "News Central TV",
+      "logo": "newscentraltv.com",
+      "color": "#b71c1c",
+      "title": "UPDATE: Drone Strikes in Ethiopia Kill At Least 25",
+      "url": "https://newscentraltv.com/drone-strike-kills-11-in-northern-tigray/"
+    },
     {
       "date": "2026-10-30",
       "outlet": "Wazema Radio",
