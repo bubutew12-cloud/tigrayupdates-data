@@ -1,6 +1,15 @@
 {
-  "updated": "2026-10-30T15:30:00Z",
+  "updated": "2026-10-31T08:30:00Z",
   "items": [
+    {
+      "date": "2026-10-29",
+      "place": "Hayk (Jari 2 displacement camp)",
+      "at": [11.313, 39.679],
+      "title": "Drone strike reported on displacement camp near Hayk in Amhara",
+      "text": "Anadolu, citing Addis Standard, a witness and the monitor Frontlines Ethiopia, reported at least 16 civilians killed and 22 injured. Borkena reported family members putting the toll at 24. The army had not commented. Figures were not independently verified.",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/africa/at-least-16-civilians-killed-in-drone-attack-on-displacement-camp-in-ethiopia/4106073"
+    },
     {"date": "2026-10-30", "place": "Rama", "at": [14.417, 38.783], "title": "Drone strike reported to kill at least 11 in Rama", "text": "News Central TV, citing hospital sources, reported that a strike on Friday morning hit a crowd gathering sorghum from a truck bombed the evening before, killing at least 11. The Ethiopian army did not respond to requests for comment. The figures were not independently verified.", "source": "News Central TV", "url": "https://newscentraltv.com/drone-strike-kills-11-in-northern-tigray/"},
     {"date": "2026-10-29", "place": "Rama", "at": [14.417, 38.783], "title": "Airstrikes reported near Rama for a third day", "text": "Kulu Media, citing the monitoring platform Frontlines.et, reported airstrikes near Rama continuing on 29 October. Who carried them out and any casualties were not established, and Kulu Media said it had not verified the reports.", "source": "Kulu Media", "url": "https://kulu-media.com/airstrikes-around-rama-reported-third-day-tigray"},
     {"date": "2026-10-20", "place": "Mekelle", "at": [13.497, 39.475], "title": "Drone strike reported to kill four in Mekelle", "text": "Residents told AP that a drone strike killed four people and wounded six as they loaded goats onto a truck. The casualties could not be independently verified.", "source": "Al Jazeera (AP)", "url": "https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm"},
