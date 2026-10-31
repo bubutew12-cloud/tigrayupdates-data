@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-26T22:30:00Z",
+  "updated": "2026-10-31T02:30:00Z",
   "items": [
+    {
+      "date": "2026-10-29",
+      "cat": "fed",
+      "issuer": "Ethiopian Federal Government",
+      "role": "Sebsibe Bade Adbeb, Chargé d'affaires, Ethiopian Embassy in Paris",
+      "logo": "",
+      "initials": "ET",
+      "title": "Ethiopian envoy defends offensive and demands Eritrean troops withdraw",
+      "quote": "Ethiopia demands that the Eritrean troops immediately and completely withdraw from its land.",
+      "points": [
+        "Said Ethiopia is acting in self-defence and had shown maximum restraint, as reported by The African Gazette.",
+        "Accused Eritrea of sending troops and heavy artillery across the border to support Tigrayan forces. Eritrea denies backing the TPLF.",
+        "Accused hardline TPLF elements of refusing to disarm and obstructing aid. These claims are unverified."
+      ],
+      "url": "https://www.theafricangazette.com/p/ethiopia-defends-military-offensive"
+    },
     {
       "date": "2026-10-25",
       "cat": "fed",
