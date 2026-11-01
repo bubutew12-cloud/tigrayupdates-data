@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T09:30:00Z",
+  "updated": "2026-11-01T18:30:00Z",
   "items": [
     {
       "date": "2026-10-29",
@@ -439,6 +439,22 @@
         "Ethiopian Airlines resumed flights to Mekelle the same day, AP reported."
       ],
       "url": "https://abcnews.com/amp/International/wireStory/ethiopian-official-promises-change-tigray-after-troops-retake-137176106"
+    },
+    {
+      "date": "2026-10-10",
+      "cat": "foreign",
+      "issuer": "Government of Eritrea",
+      "role": "Foreign Minister Osman Saleh, in a letter to the UN Security Council",
+      "logo": "",
+      "initials": "ER",
+      "title": "Eritrea asks UN Security Council to act against Ethiopia",
+      "quote": "Eritrea requests the UN Security Council to forcefully condemn Ethiopia's deplorable declaration of war against Eritrea",
+      "points": [
+        "Asked the UN Security Council to condemn Ethiopia and take deterrent measures under Chapter VII of the UN Charter.",
+        "Rejected Ethiopian accusations that Eritrea deployed troops and backs, arms and directs insurgent groups.",
+        "Ethiopia's Foreign Minister Gedion Timothewos has cited Article 51 of the UN Charter, claiming a right to self-defence against Eritrea."
+      ],
+      "url": "https://allafrica.com/stories/202610120127.html"
     },
     {
       "date": "2026-10-10",
