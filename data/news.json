@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:30:00Z",
+  "updated": "2026-11-01T16:30:00Z",
   "items": [
     {
       "date": "2026-10-31",
@@ -24,6 +24,14 @@
       "color": "#5f2eb5",
       "title": "Drone strike at a camp for displaced people kills 15 people, including 5 children",
       "url": "https://www.yahoo.com/news/world/articles/drone-strike-camp-displaced-people-194113083.html"
+    },
+    {
+      "date": "2026-10-30",
+      "outlet": "The New Arab",
+      "logo": "newarab.com",
+      "color": "#7a1f1f",
+      "title": "Drone strikes on Ethiopia displacement camp kill at least 15, sources say",
+      "url": "https://www.newarab.com/news/drone-strikes-ethiopia-displacement-camp-kill-least-15"
     },
     {
       "date": "2026-10-30",
