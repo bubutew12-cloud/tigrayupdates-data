@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-01T18:30:00Z",
+  "updated": "2026-11-02T06:30:00Z",
   "items": [
+    {
+      "date": "2026-11-01",
+      "cat": "foreign",
+      "issuer": "Government of Sudan",
+      "role": "Muawiya Othman, Foreign Ministry undersecretary",
+      "logo": "",
+      "initials": "SD",
+      "title": "Sudan accuses Ethiopia of letting drones launch from its territory",
+      "quote": "a proxy war on behalf of regional actors",
+      "points": [
+        "Said Ethiopia is part of a proxy war, and called the use of Ethiopian territory for drone strikes the most dangerous aspect, as reported by The New Arab.",
+        "The army-led Sovereignty Council reported 70 attacks with 187 drones between 15 February and 27 October, saying they killed or wounded 484 civilians and killed 176 soldiers (figures not independently verified).",
+        "Ethiopia denies the accusation and says the Sudanese army backs TPLF-linked rebels, which Khartoum rejects."
+      ],
+      "url": "https://www.newarab.com/news/sudan-accuses-ethiopia-over-drone-attacks-amid-fresh-strikes"
+    },
     {
       "date": "2026-10-29",
       "cat": "fed",
