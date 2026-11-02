@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-02T06:30:00Z",
+  "updated": "2026-11-02T17:45:00Z",
   "items": [
+    {
+      "date": "2026-11-02",
+      "cat": "intl",
+      "issuer": "World Health Organization",
+      "role": "Director-General Tedros Adhanom Ghebreyesus",
+      "logo": "who.int",
+      "initials": "WHO",
+      "title": "WHO chief calls for civilian protection in Amhara and Tigray",
+      "quote": "The violence in northern Ethiopia is pushing an already fragile health system closer to collapse.",
+      "points": [
+        "Said reports of attacks on civilians in Amhara and Tigray are deeply disturbing, after drone strikes over the weekend.",
+        "Said hospitals face shortages of health workers, medicines and equipment, and ambulance services are severely limited.",
+        "Said insecurity is blocking medical supplies from reaching some areas."
+      ],
+      "url": "https://news.un.org/en/story/2026/11/1168720"
+    },
     {
       "date": "2026-11-01",
       "cat": "foreign",
