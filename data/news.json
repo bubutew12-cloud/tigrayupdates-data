@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-03T07:30:00Z",
+  "updated": "2026-11-03T09:30:00Z",
   "items": [
+    {
+      "date": "2026-11-02",
+      "outlet": "The New Arab",
+      "logo": "newarab.com",
+      "color": "#7a1f1f",
+      "title": "Ethiopia attacks kill civilians as health system nears collapse, WHO chief says",
+      "url": "https://www.newarab.com/news/ethiopia-attacks-kill-civilians-health-system-nears-collapse"
+    },
+    {
+      "date": "2026-11-02",
+      "outlet": "allAfrica (Addis Standard)",
+      "logo": "allafrica.com",
+      "color": "#7a3b00",
+      "title": "Ethiopia: WHO Chief Warns Continued Violence in Amhara, Tigray Pushing Ethiopia's Fragile Health System Toward Collapse",
+      "url": "https://allafrica.com/stories/202611030152.html"
+    },
     {
       "date": "2026-11-02",
       "outlet": "Al Jazeera",
