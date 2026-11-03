@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-31T08:30:00Z",
+  "updated": "2026-11-03T02:30:00Z",
   "items": [
+    {
+      "date": "2026-10-31",
+      "place": "Aksum",
+      "at": [
+        14.121,
+        38.724
+      ],
+      "title": "TPLF reports heavy fighting near Aksum",
+      "text": "The TPLF said its fighters killed 500 soldiers and wounded 800 in clashes near Aksum on Saturday. The figures were not independently verified and the Ethiopian government had not commented.",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/africa/tigray-rebels-claim-500-ethiopian-soldiers-killed-800-wounded-in-renewed-fighting/4108630"
+    },
     {
       "date": "2026-10-29",
       "place": "Hayk (Jari 2 displacement camp)",
