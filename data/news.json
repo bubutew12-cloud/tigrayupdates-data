@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-03T02:30:00Z",
+  "updated": "2026-11-03T07:30:00Z",
   "items": [
+    {
+      "date": "2026-11-02",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Sudan files complaints against Ethiopia with UN over deadly drone spree",
+      "url": "https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree"
+    },
     {
       "date": "2026-11-02",
       "outlet": "Security Council Report",

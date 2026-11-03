@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T17:45:00Z",
+  "updated": "2026-11-03T07:30:00Z",
   "items": [
     {
       "date": "2026-11-02",
@@ -16,6 +16,22 @@
         "Said insecurity is blocking medical supplies from reaching some areas."
       ],
       "url": "https://news.un.org/en/story/2026/11/1168720"
+    },
+    {
+      "date": "2026-10-31",
+      "cat": "intl",
+      "issuer": "United Nations Secretary-General",
+      "role": "Spokesperson for Secretary-General Antonio Guterres",
+      "logo": "un.org",
+      "initials": "UN",
+      "title": "UN chief condemns escalating drone attacks in Sudan",
+      "quote": "strongly condemns the escalating drone attacks in Sudan by the parties to the conflict",
+      "points": [
+        "Said Guterres was appalled by the impact of drone strikes in Sudan.",
+        "Condemned the attacks by all parties to the conflict in Sudan.",
+        "Statement was reported by Al Jazeera alongside Sudan's complaints to the UN and African Union that drones were launched from Ethiopian territory."
+      ],
+      "url": "https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree"
     },
     {
       "date": "2026-11-01",
