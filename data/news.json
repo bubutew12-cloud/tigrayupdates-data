@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-03T09:30:00Z",
+  "updated": "2026-11-03T11:30:00Z",
   "items": [
+    {
+      "date": "2026-11-03",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia",
+      "url": "https://www.aljazeera.com/news/2026/11/3/deadly-rsf-drone-strikes-reveal-deep-divisions-between-sudan-and-ethiopia"
+    },
     {
       "date": "2026-11-02",
       "outlet": "The New Arab",
