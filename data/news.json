@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-05T02:30:00Z",
+  "updated": "2026-11-05T19:30:00Z",
   "items": [
+    {
+      "date": "2026-11-05",
+      "outlet": "The National",
+      "logo": "thenationalnews.com",
+      "color": "#1f3a5f",
+      "title": "Sudan and Ethiopia in retaliatory expulsions of diplomats as tensions rise",
+      "url": "https://www.thenationalnews.com/news/mena/2026/11/05/sudan-and-ethiopia-in-tit-for-tat-expulsions-of-diplomats-as-tensions-rise/"
+    },
+    {
+      "date": "2026-11-05",
+      "outlet": "TimesLive (Reuters)",
+      "logo": "timeslive.co.za",
+      "color": "#a30d0d",
+      "title": "Ethiopia and Sudan close each other's consulates after allegations of meddling in civil war",
+      "url": "https://timeslive.co.za/news/africa/2026-11-05-ethiopia-and-sudan-close-each-others-consulates-after-allegations-of-meddling-in-civil-war"
+    },
     {
       "date": "2026-11-04",
       "outlet": "Al Jazeera",
