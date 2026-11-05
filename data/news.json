@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-04T16:30:00Z",
+  "updated": "2026-11-05T02:30:00Z",
   "items": [
+    {
+      "date": "2026-11-04",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say",
+      "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions"
+    },
     {
       "date": "2026-11-04",
       "outlet": "Addis Standard",
