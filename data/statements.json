@@ -1,6 +1,21 @@
 {
-  "updated": "2026-11-03T07:30:00Z",
+  "updated": "2026-11-06T15:30:00Z",
   "items": [
+    {
+      "date": "2026-11-03",
+      "cat": "rights",
+      "issuer": "Human Rights Watch",
+      "role": "Laetitia Bader, Director, Horn of Africa",
+      "logo": "hrw.org",
+      "initials": "HRW",
+      "title": "HRW urges Ethiopia to reverse suspension of The Reporter newspaper",
+      "points": [
+        "Said Ethiopia's Media Authority indefinitely suspended the print and online licence of The Reporter, the country's last privately owned Amharic newspaper.",
+        "Noted that the authority cited breaches of 'national interests' and content it said harms investment, tourism and diplomacy.",
+        "Described the move as part of a wider crackdown on media since 2025 and urged the government to reverse it."
+      ],
+      "url": "https://www.hrw.org/news/2026/11/03/ethiopian-authorities-suspend-independent-newspaper"
+    },
     {
       "date": "2026-11-02",
       "cat": "intl",
