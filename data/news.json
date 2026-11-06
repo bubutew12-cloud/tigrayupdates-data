@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-06T01:30:00Z",
+  "updated": "2026-11-06T02:30:00Z",
   "items": [
+    {
+      "date": "2026-11-05",
+      "outlet": "France 24",
+      "logo": "france24.com",
+      "color": "#0b6aa8",
+      "title": "Sudan accuses Ethiopia of allowing RSF drone launches from its territory",
+      "url": "https://www.france24.com/en/video/20261105-sudan-accuses-ethiopia-of-allowing-rsf-drone-launches-from-its-territory"
+    },
+    {
+      "date": "2026-11-05",
+      "outlet": "France 24",
+      "logo": "france24.com",
+      "color": "#0b6aa8",
+      "title": "Ethiopian families fleeing conflict face difficulties with food access",
+      "url": "https://www.france24.com/en/video/20261105-ethiopian-families-fleeing-conflict-face-difficulties-with-food-access"
+    },
     {
       "date": "2026-11-05",
       "outlet": "Africanews",
