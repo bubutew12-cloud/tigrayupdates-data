@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T15:30:00Z",
+  "updated": "2026-11-07T12:30:00Z",
   "items": [
     {
       "date": "2026-11-03",
@@ -15,6 +15,22 @@
         "Described the move as part of a wider crackdown on media since 2025 and urged the government to reverse it."
       ],
       "url": "https://www.hrw.org/news/2026/11/03/ethiopian-authorities-suspend-independent-newspaper"
+    },
+    {
+      "date": "2026-11-02",
+      "cat": "foreign",
+      "issuer": "Government of China",
+      "role": "Foreign ministry spokesperson Mao Ning",
+      "logo": "mfa.gov.cn",
+      "initials": "CN",
+      "title": "China to send envoys to Ethiopia and Eritrea",
+      "quote": "promoting peace talks, de-escalating tensions, and playing a constructive role in safeguarding regional peace and stability",
+      "points": [
+        "Said special representative Liu Xianfa will visit Ethiopia, Djibouti and Egypt in early-to-mid November.",
+        "Said Horn of Africa envoy Hu Changchun will visit Eritrea in early November.",
+        "Said the visits aim to promote peace talks and ease tensions. The report did not describe the Ethiopia-Eritrea dispute in detail."
+      ],
+      "url": "https://gna.org.gh/2026/11/chinese-special-envoys-to-make-shuttle-visits-to-middle-east-africa/"
     },
     {
       "date": "2026-11-02",
