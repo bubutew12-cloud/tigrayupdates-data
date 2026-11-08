@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-07T12:30:00Z",
+  "updated": "2026-11-08T22:25:00Z",
   "items": [
+    {
+      "date": "2026-11-06",
+      "cat": "fed",
+      "issuer": "Ethiopian Federal Government",
+      "role": "Meles Alem, Director General for Europe and America Affairs, Ministry of Foreign Affairs",
+      "logo": "",
+      "initials": "ET",
+      "title": "Ethiopia demands Eritrea stop harbouring TPLF leaders and cites right of self-defence",
+      "quote": "Eritrea must immediately and unconditionally cease harbouring remnants of TPLF leaders",
+      "points": [
+        "Said Ethiopia retains a right of self-defence, subject to necessity and proportionality, as reported by Ghana Eye Report citing Viory.",
+        "Accused Eritrea of sheltering TPLF leaders and insurgents. Eritrea has denied backing the TPLF.",
+        "Made the remarks as Ethiopia displayed equipment it said it captured from Tigrayan forces. These claims are unverified."
+      ],
+      "url": "https://www.ghanaeyereport.com/ethiopia-displays-alleged-captured-weapons-as-tensions-with-eritrea-rise/"
+    },
     {
       "date": "2026-11-03",
       "cat": "rights",
