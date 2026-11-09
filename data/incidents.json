@@ -1,6 +1,11 @@
 {
-  "updated": "2026-11-03T02:30:00Z",
+  "updated": "2026-11-09T05:30:00Z",
   "items": [
+    {
+      "date": "2026-11-03", "place": "Sheraro", "at": [14.397, 37.77], "title": "Ethiopian army reported to capture Sheraro",
+      "text": "Critical Threats said open-source mappers reported that the Ethiopian National Defense Force captured Sheraro on November 3 after about three weeks of attempts. The report was not independently confirmed.",
+      "source": "Critical Threats", "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/november-6-2026"
+    },
     {
       "date": "2026-10-31",
       "place": "Aksum",
