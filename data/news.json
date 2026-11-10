@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-09T23:30:00Z",
+  "updated": "2026-11-10T08:30:00Z",
   "items": [
+    {
+      "date": "2026-11-09",
+      "outlet": "UN News",
+      "logo": "news.un.org",
+      "color": "#0a6aad",
+      "title": "Families who fled Ethiopia for Kenya’s Moyale need food, water and shelter",
+      "url": "https://news.un.org/en/story/2026/11/1168762"
+    },
     {
       "date": "2026-11-09",
       "outlet": "NPR",
