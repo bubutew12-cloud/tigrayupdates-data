@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-08T22:25:00Z",
+  "updated": "2026-11-11T23:30:00Z",
   "items": [
+    {
+      "date": "2026-11-10",
+      "cat": "foreign",
+      "issuer": "G7 Foreign Ministers",
+      "role": "Joint declaration, Paris meeting of 9-10 November",
+      "logo": "",
+      "initials": "G7",
+      "title": "G7 warns of regional escalation risk between Ethiopia and Eritrea",
+      "quote": "with great concern the worsening security situation in the Horn of Africa, specifically between Ethiopia and Eritrea",
+      "points": [
+        "Said further escalation could destabilise the region, worsen humanitarian crises and disrupt trade, including through the Red Sea.",
+        "Urged all parties to show restraint, pursue diplomacy, allow safe humanitarian access and protect civilians.",
+        "Backed respect for each country's sovereignty and borders and supported UN and African Union efforts to reduce tensions."
+      ],
+      "url": "https://allafrica.com/stories/202611110605.html"
+    },
+    {
+      "date": "2026-11-11",
+      "cat": "fed",
+      "issuer": "Ethiopian Federal Government",
+      "role": "Getachew Reda, adviser to the Prime Minister on Horn of Africa affairs",
+      "logo": "",
+      "initials": "ET",
+      "title": "Ethiopia tells UN envoy that Eritrea and Sudan back armed groups",
+      "quote": "talking, not shooting is the best game in town",
+      "points": [
+        "Accused Eritrean President Isaias Afwerki and Sudanese army chief Abdel Fattah al-Burhan of arming and coordinating armed groups in Ethiopia, including through drone attacks. These claims are unverified.",
+        "Said he told the UN Special Envoy for the Horn of Africa that both governments should stop backing such groups. Eritrea and Sudan did not respond, according to Addis Standard.",
+        "Sudan has accused Ethiopia of letting the Rapid Support Forces use its territory for drone attacks. Ethiopia denies this."
+      ],
+      "url": "https://allafrica.com/stories/202611110604.html"
+    },
     {
       "date": "2026-11-06",
       "cat": "fed",
