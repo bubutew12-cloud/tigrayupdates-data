@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-11T02:30:00Z",
+  "updated": "2026-11-11T07:30:00Z",
   "items": [
+    {
+      "date": "2026-11-10",
+      "outlet": "Critical Threats",
+      "logo": "criticalthreats.org",
+      "color": "#1f3a5f",
+      "title": "Ethiopia War Security Review, November 10, 2026",
+      "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/november-10-2026",
+      "kind": "Analysis"
+    },
     {
       "date": "2026-11-11",
       "outlet": "Al Jazeera",
