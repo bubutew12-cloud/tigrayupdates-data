@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-10T23:30:00Z",
+  "updated": "2026-11-11T02:30:00Z",
   "items": [
+    {
+      "date": "2026-11-11",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
+      "url": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade"
+    },
     {
       "date": "2026-11-10",
       "outlet": "allAfrica (Addis Standard)",
