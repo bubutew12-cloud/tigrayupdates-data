@@ -1,14 +1,13 @@
 {
-  "updated": "2026-11-11T07:30:00Z",
+  "updated": "2026-11-11T12:30:00Z",
   "items": [
     {
-      "date": "2026-11-10",
-      "outlet": "Critical Threats",
-      "logo": "criticalthreats.org",
-      "color": "#1f3a5f",
-      "title": "Ethiopia War Security Review, November 10, 2026",
-      "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/november-10-2026",
-      "kind": "Analysis"
+      "date": "2026-11-11",
+      "outlet": "allAfrica (Addis Standard)",
+      "logo": "allafrica.com",
+      "color": "#7a3b00",
+      "title": "Ethiopia: News - Renewed Fighting in Tigray Pushes Its Fragile Healthcare System Closer to Collapse, Again",
+      "url": "https://allafrica.com/stories/202611110422.html"
     },
     {
       "date": "2026-11-11",
@@ -17,6 +16,15 @@
       "color": "#a86400",
       "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
       "url": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade"
+    },
+    {
+      "date": "2026-11-10",
+      "outlet": "Critical Threats",
+      "logo": "criticalthreats.org",
+      "color": "#1f3a5f",
+      "title": "Ethiopia War Security Review, November 10, 2026",
+      "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/november-10-2026",
+      "kind": "Analysis"
     },
     {
       "date": "2026-11-10",
