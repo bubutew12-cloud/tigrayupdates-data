@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T10:30:00Z",
+  "updated": "2026-11-12T15:30:00Z",
   "items": [
     {
       "date": "2026-11-11",
@@ -32,6 +32,22 @@
       "color": "#a86400",
       "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
       "url": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade"
+    },
+    {
+      "date": "2026-11-11",
+      "outlet": "France 24",
+      "logo": "france24.com",
+      "color": "#0b6aa8",
+      "title": "Violent clashes near the Sudanese border: At least 65 dead in western Ethiopia",
+      "url": "https://www.france24.com/en/violent-clashes-near-the-sudanese-border-at-least-65-dead-in-western-ethiopia"
+    },
+    {
+      "date": "2026-11-11",
+      "outlet": "allAfrica (Addis Standard)",
+      "logo": "allafrica.com",
+      "color": "#7a3b00",
+      "title": "Ethiopia: U.S. Senators Send Second Letter to Rubio Urging Action to Avert Widening Conflict in Ethiopia",
+      "url": "https://allafrica.com/stories/202611120037.html"
     },
     {
       "date": "2026-11-10",

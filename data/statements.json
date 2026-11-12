@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-11T23:30:00Z",
+  "updated": "2026-11-12T15:30:00Z",
   "items": [
+    {
+      "date": "2026-11-10",
+      "cat": "foreign",
+      "issuer": "U.S. Senators (Shaheen, Booker, Coons, Merkley, Van Hollen)",
+      "role": "Second letter to Secretary of State Marco Rubio",
+      "logo": "",
+      "initials": "US",
+      "title": "US senators urge action to avert a wider conflict in Ethiopia",
+      "quote": "could lead to a multi-front conflict",
+      "points": [
+        "Said renewed fighting in Tigray has shattered the peace set by the 2022 Pretoria Agreement, and warned of spread to Amhara, Oromia and the Ethiopia-Eritrea border.",
+        "Asked the State Department to push for an immediate ceasefire and renewed mediation, and to say the US will not support forcible Ethiopian access to Eritrea's port of Assab.",
+        "Asked for pressure on all parties to stop using drones and heavy weapons in civilian areas, a pause on new arms sales to Ethiopia, and more humanitarian aid."
+      ],
+      "url": "https://allafrica.com/stories/202611120037.html"
+    },
     {
       "date": "2026-11-10",
       "cat": "foreign",
