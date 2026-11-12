@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T02:30:00Z",
+  "updated": "2026-11-12T10:30:00Z",
   "items": [
     {
       "date": "2026-11-11",
@@ -73,6 +73,14 @@
       "color": "#1a4a8a",
       "title": "Up to 50,000 Ethiopians flee to Kenya as clashes escalate",
       "url": "https://www.africanews.com/2026/11/10/up-to-50000-ethiopians-flee-to-kenya-as-clashes-escalate/"
+    },
+    {
+      "date": "2026-11-10",
+      "outlet": "NPR",
+      "logo": "npr.org",
+      "color": "#1f56a0",
+      "title": "A healthcare system unravels as conflict mounts",
+      "url": "https://www.npr.org/2026/11/10/g-s1-152693/healthcare-ethiopia-conflict-emergency-room"
     },
     {
       "date": "2026-11-09",
