@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-13T09:30:00Z",
+  "updated": "2026-11-13T12:30:00Z",
   "items": [
+    {
+      "date": "2026-11-12",
+      "outlet": "allAfrica (Addis Standard)",
+      "logo": "allafrica.com",
+      "color": "#7a3b00",
+      "title": "Ethiopia: News - Drought, Conflict Threaten Emergency-Level Food Insecurity in Tigray, Amhara, Afar",
+      "url": "https://allafrica.com/stories/202611120598.html"
+    },
     {
       "date": "2026-11-13",
       "outlet": "BBC (via Yahoo News)",
