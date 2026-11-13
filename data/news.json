@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-12T17:30:00Z",
+  "updated": "2026-11-13T04:30:00Z",
   "items": [
+    {
+      "date": "2026-11-12",
+      "outlet": "Brookings Institution",
+      "logo": "brookings.edu",
+      "color": "#1f3a5f",
+      "title": "Pulling Eritrea and Ethiopia back from the brink of war",
+      "url": "https://www.brookings.edu/articles/pulling-eritrea-and-ethiopia-back-from-the-brink-of-war/",
+      "kind": "Analysis"
+    },
     {
       "date": "2026-11-11",
       "outlet": "allAfrica (Addis Standard)",
