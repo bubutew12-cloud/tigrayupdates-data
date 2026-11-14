@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-14T10:30:00Z",
+  "updated": "2026-11-14T13:30:00Z",
   "items": [
+    {
+      "date": "2026-11-14",
+      "outlet": "Al Jazeera",
+      "logo": "aljazeera.com",
+      "color": "#a86400",
+      "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks"
+    },
     {
       "date": "2026-11-13",
       "outlet": "Fana Media Corporation",

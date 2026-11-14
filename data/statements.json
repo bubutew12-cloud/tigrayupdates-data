@@ -1,6 +1,21 @@
 {
-  "updated": "2026-11-12T15:30:00Z",
+  "updated": "2026-11-14T13:30:00Z",
   "items": [
+    {
+      "date": "2026-11-14",
+      "cat": "fed",
+      "issuer": "Ethiopian National Defense Force",
+      "role": "Field Marshal Berhanu Jula, army chief (as reported by Al Jazeera)",
+      "logo": "",
+      "initials": "ENDF",
+      "title": "Ethiopian army chief blames Eritrea and Egypt for attacks in Tigray",
+      "points": [
+        "Accused Eritrea of leading an offensive in Tigray in which the TPLF took part.",
+        "Accused Egypt of providing logistics and materiel for the offensive. Neither claim was independently verified in the report.",
+        "Said Ethiopian forces repelled the attacks and that TPLF leaders who retreated fled to Eritrea."
+      ],
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks"
+    },
     {
       "date": "2026-11-10",
       "cat": "foreign",
