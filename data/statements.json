@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-14T13:30:00Z",
+  "updated": "2026-11-15T00:30:00Z",
   "items": [
+    {
+      "date": "2026-11-13",
+      "cat": "rights",
+      "issuer": "Refugees International",
+      "role": "Issue brief",
+      "logo": "refugeesinternational.org",
+      "initials": "RI",
+      "title": "Tigray humanitarian snapshot: hunger, malnutrition and a strained health system",
+      "quote": "Fuel deliveries to Tigray fell sharply during 2025 and stopped entirely in January 2026",
+      "points": [
+        "Reported a survey of 452 households in August and September 2026: 60% of displaced households said someone went to sleep hungry in the past month.",
+        "Reported acute malnutrition in 23% of children screened at displacement sites and 32% in host communities. The figures describe only the surveyed households.",
+        "Said officials reported more than 250 grounded ambulances and essential medicines at 45% availability."
+      ],
+      "url": "https://www.refugeesinternational.org/reports-briefs/tigray-humanitarian-snapshot/"
+    },
     {
       "date": "2026-11-14",
       "cat": "fed",

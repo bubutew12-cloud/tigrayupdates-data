@@ -1,6 +1,7 @@
 {
-  "updated": "2026-11-11T07:30:00Z",
+  "updated": "2026-11-15T00:30:00Z",
   "items": [
+    { "date": "2026-11-10", "place": "Badme", "at": [14.726, 37.803], "title": "Shelling and drone strikes reported near Badme", "text": "Residents told BBC Amharic that federal and Tigrayan forces fought with artillery and drones on Nov. 10 and 11 and families fled. Diplomatic sources told Addis Standard that Ethiopia used drones and Eritrea fired artillery; the Tigray Peace Force denied Ethiopian-Eritrean fighting. No casualty figures were published.", "source": "DNE Africa", "url": "https://africa.dailynewsegypt.com/badme-fighting-tigray-eritrea-border" },
     {
       "date": "2026-11-07", "place": "Rama", "at": [14.417, 38.783], "title": "Federal forces and Tigrayan forces clash near Rama",
       "text": "Critical Threats said ACLED and the Tigray Defense Forces reported clashes in the Wadi Ambray area on November 7. ACLED said federal forces retook Rama. The Tigray Defense Forces said they defeated federal forces. Neither claim was independently confirmed.",

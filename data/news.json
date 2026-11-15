@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-14T17:30:00Z",
+  "updated": "2026-11-15T00:30:00Z",
   "items": [
+    {
+      "date": "2026-11-14",
+      "outlet": "DNE Africa",
+      "logo": "africa.dailynewsegypt.com",
+      "color": "#7a1f1f",
+      "title": "Badme fighting: villagers flee as Ethiopia blames Eritrea",
+      "url": "https://africa.dailynewsegypt.com/badme-fighting-tigray-eritrea-border"
+    },
     {
       "date": "2026-11-14",
       "outlet": "Middle East Monitor",
@@ -16,6 +24,14 @@
       "color": "#a86400",
       "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks"
+    },
+    {
+      "date": "2026-11-13",
+      "outlet": "Critical Threats",
+      "logo": "criticalthreats.org",
+      "color": "#1f3a5f",
+      "title": "Ethiopia War Security Review, November 13, 2026",
+      "url": "https://www.criticalthreats.org/analysis/november-13-2026"
     },
     {
       "date": "2026-11-13",
