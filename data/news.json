@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-15T00:30:00Z",
+  "updated": "2026-11-15T01:30:00Z",
   "items": [
+    {
+      "date": "2026-11-14",
+      "outlet": "Anadolu Agency",
+      "logo": "aa.com.tr",
+      "color": "#7a1f1f",
+      "title": "Ethiopia, Eritrea reportedly exchange drone, artillery strikes as border fighting intensifies",
+      "url": "https://www.aa.com.tr/en/africa/ethiopia-eritrea-reportedly-exchange-drone-artillery-strikes-as-border-fighting-intensifies/4124999"
+    },
+    {
+      "date": "2026-11-14",
+      "outlet": "Martin Plaut",
+      "logo": "martinplaut.com",
+      "color": "#3d4a5c",
+      "title": "Diplomatic sources report escalating clashes near Badme on Ethiopia-Eritrea border as residents flee bombardment",
+      "url": "https://martinplaut.com/2026/11/14/diplomatic-sources-report-escalating-clashes-near-badme-on-ethiopia-eritrea-border-as-residents-flee-bombardment/"
+    },
     {
       "date": "2026-11-14",
       "outlet": "DNE Africa",
