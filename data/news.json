@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T15:30:00Z",
+  "updated": "2026-11-16T01:30:00Z",
   "items": [
     {
       "date": "2026-11-14",
@@ -48,6 +48,15 @@
       "color": "#a86400",
       "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks"
+    },
+    {
+      "date": "2026-11-13",
+      "outlet": "Critical Threats",
+      "logo": "criticalthreats.org",
+      "color": "#1f3a5f",
+      "title": "Ethiopia War Security Review, November 13, 2026",
+      "url": "https://www.criticalthreats.org/analysis/november-13-2026",
+      "kind": "Analysis"
     },
     {
       "date": "2026-11-13",
