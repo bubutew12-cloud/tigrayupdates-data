@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T02:30:00Z",
+  "updated": "2026-11-18T04:30:00Z",
   "items": [
     {
       "date": "2026-11-17",
@@ -33,6 +33,14 @@
       "color": "#a86400",
       "title": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
       "url": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens"
+    },
+    {
+      "date": "2026-11-17",
+      "outlet": "Fidel Post",
+      "logo": "fidelpost.com",
+      "color": "#7a2e1d",
+      "title": "International Delegation Visits Mekelle to Assess Humanitarian and DDR Progress",
+      "url": "https://fidelpost.com/international-delegation-visits-mekelle-to-assess-humanitarian-and-ddr-progress"
     },
     {
       "date": "2026-11-16",
@@ -74,6 +82,15 @@
       "color": "#1a4a8a",
       "title": "Sudan and Ethiopia trade accusations over armed groups",
       "url": "https://www.africanews.com/2026/11/16/sudan-and-ethiopia-trade-accusations-over-armed-groups/"
+    },
+    {
+      "date": "2026-11-16",
+      "outlet": "Addis Insight",
+      "logo": "addisinsight.net",
+      "color": "#1f4d3a",
+      "title": "The Civilian Cost of Ethiopia's Drone War",
+      "url": "https://addisinsight.net/2026/11/16/the-civilian-cost-of-ethiopias-drone-war",
+      "kind": "Analysis"
     },
     {
       "date": "2026-11-15",
