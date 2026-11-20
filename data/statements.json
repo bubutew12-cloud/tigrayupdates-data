@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-18T06:30:00Z",
+  "updated": "2026-11-20T09:30:00Z",
   "items": [
+    {
+      "date": "2026-11-18",
+      "cat": "foreign",
+      "issuer": "Government of Eritrea",
+      "role": "Yemane Gebremeskel (Meskel), Minister of Information",
+      "logo": "",
+      "initials": "ER",
+      "title": "Eritrea accuses Ethiopian army chief of laying claim to Eritrean territory",
+      "quote": "laying claim to its sovereign territory",
+      "points": [
+        "Condemned remarks by Ethiopian army chief Field Marshal Birhanu Jula, who it said described the Eritrean areas of Dogali, Gundet and Adulis as belonging to Tigray.",
+        "Accused him of trying to rally support for a war against Asmara. Ethiopia did not comment in the report.",
+        "The statement was reported by Anadolu Agency through Qatar Tribune; the original Eritrean text was not seen."
+      ],
+      "url": "https://www.qatar-tribune.com/article/264849/world/eritrea-accuses-ethiopian-army-chief-of-making-territorial-claims-fuelling-war-tensions"
+    },
     {
       "date": "2026-11-17",
       "cat": "tigray",
