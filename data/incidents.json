@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T21:30:00Z",
+  "updated": "2026-11-24T08:30:00Z",
   "items": [
     {"date": "2026-11-20", "place": "Rama", "at": [14.417, 38.783], "title": "Drone strikes reported to damage monastery in Rama", "text": "EEPA, citing local sources, reported three drone strikes on 20 November that damaged the Abune Gebremeskel Monastery in Rama. Who carried them out and any casualties were not stated.", "source": "EEPA", "url": "https://eepa.be/mobilisation-continues-around-badme-rsf-drone-attack-kills-four-in-khartoum-23-civilians-killed-in-raid-in-south-sudan"},
     {"date": "2026-11-19", "place": "Badme", "at": [14.726, 37.803], "title": "ACLED reports second drone strike on Badme", "text": "Citing ACLED, the Rio Times reported a drone strike on Badme on Nov. 19 that forced an unidentified number of residents to flee. ACLED attributed it to the Ethiopian army and gave no casualty count. The Ethiopian and Eritrean governments had not commented publicly.", "source": "Rio Times", "url": "https://riotimesonline.com/ethiopia-badme-drone-strike-civilians-2026"},
@@ -77,6 +77,7 @@
     { "date": "2026-09-28", "place": "Alamata", "at": [12.417, 39.55], "title": "Heavy fighting around Alamata",
       "text": "Government troops took control of Alamata after days of fighting. A medic told the BBC that at least 52 civilians were killed.",
       "source": "The Star (Kenya) / BBC", "url": "https://www.the-star.co.ke/news/africa/2026-09-30-medic-ethiopia-fighting-escalates-in-tigray-killing-52-civilians" },
+    {"date": "2026-09-27", "place": "Alamata", "at": [12.417, 39.55], "title": "Shelling kills seven in Alamata neighbourhood, Amnesty says", "text": "Amnesty International said a strike on 27 September killed seven people in a residential area. It said it verified 14 civilian deaths in four shelling incidents on 26-28 September. It attributed the strikes to Ethiopian forces and a pro-government militia, which denies being on the front line. Amnesty also said the TPLF put fighters in residential areas; the TPLF called the claims unfounded.", "source": "Reuters via TimesLIVE", "url": "https://www.timeslive.co.za/news/world/2026-11-24-ethiopian-shelling-of-tigray-town-should-be-investigated-as-possible-war-crimes-amnesty-says/"},
     { "date": "2026-09-27", "place": "Mekelle", "at": [13.49, 39.47], "title": "Drone strike hits Tigrai TV headquarters",
       "text": "A drone struck the building of Tigray's public television station in Mekelle, taking it off air. No casualties were reported at the time.",
       "source": "France 24", "url": "https://www.france24.com/en/live-news/20260927-tigray-tv-station-hit-by-drone-rebels-advance-in-north-ethiopia" },
