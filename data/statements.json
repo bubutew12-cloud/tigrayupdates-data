@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-20T18:30:00Z",
+  "updated": "2026-11-24T02:30:00Z",
   "items": [
+    {
+      "date": "2026-11-23",
+      "cat": "rights",
+      "issuer": "Amnesty International",
+      "role": "Yasmine Ahmed, Regional Director",
+      "logo": "amnesty.org",
+      "initials": "AI",
+      "title": "Amnesty says artillery strikes on Alamata must be investigated as war crimes",
+      "quote": "Indiscriminate attacks violate the rules of international humanitarian law.",
+      "points": [
+        "Said artillery attacks on Alamata on 26-28 September were carried out by the Ethiopian National Defense Force and its allied Tigray Peace Forces. It verified 14 civilian deaths in four shelling incidents.",
+        "Said the TPLF placed military bases in populated areas, including schools, without warning residents. It said this does not justify indiscriminate shelling.",
+        "Said the TPLF rejected the allegations against it as unfounded in a letter. Said the army and Tigray Peace Forces had not responded. Called for a UN investigative mechanism."
+      ],
+      "url": "https://www.amnesty.org/en/latest/news/2026/11/ethiopia-lethal-artillery-strikes-on-civilian-neighbourhoods-in-tigrays-alamata-city-must-be-investigated-as-war-crimes/"
+    },
     {
       "date": "2026-11-18",
       "cat": "foreign",
