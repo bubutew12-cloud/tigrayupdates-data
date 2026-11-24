@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-24T02:30:00Z",
+  "updated": "2026-11-24T22:30:00Z",
   "items": [
+    {
+      "date": "2026-11-23",
+      "cat": "foreign",
+      "issuer": "Government of Eritrea",
+      "role": "Yemane Gebremeskel, Minister of Information",
+      "logo": "",
+      "initials": "ER",
+      "title": "Eritrea accuses Ethiopia of fuelling tensions in the Horn of Africa",
+      "quote": "The Horn of Africa does not need/deserve, and must not be plunged into, perennial wars",
+      "points": [
+        "Accused the Ethiopian government of fuelling tensions and of pursuing territorial expansion, in a post on X reported by Dawan Africa.",
+        "Cited reports that the UAE is flying weapons to Ethiopia, saying about 80 flights were linked to the reported airlift in October. Dawan could not verify the flights.",
+        "Ethiopia and the UAE had not responded in the report. The original post was not seen."
+      ],
+      "url": "https://dawan.africa/news/eritrea-accuses-ethiopia-of-fuelling-horn-tensions-amid-uae-arms-claim"
+    },
     {
       "date": "2026-11-23",
       "cat": "rights",
