@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T22:30:00Z",
+  "updated": "2026-11-25T08:30:00Z",
   "items": [
     {
       "date": "2026-11-24",
@@ -64,6 +64,14 @@
       "color": "#1a4a8a",
       "title": "Around 700,000 displaced by volatile conflict in southern Ethiopia",
       "url": "https://www.africanews.com/2026/11/21/around-700000-displaced-by-volatile-conflict-in-southern-ethiopia/"
+    },
+    {
+      "date": "2026-11-20",
+      "outlet": "ch-aviation",
+      "logo": "ch-aviation.com",
+      "color": "#1f4e79",
+      "title": "Ethiopian Airlines resumes flights to Tigray region",
+      "url": "https://www.ch-aviation.com/news/174140-ethiopian-airlines-resumes-flights-to-tigray-region"
     },
     {
       "date": "2026-11-20",
