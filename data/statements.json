@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-24T22:30:00Z",
+  "updated": "2026-11-26T16:30:00Z",
   "items": [
+    {
+      "date": "2026-11-26",
+      "cat": "fed",
+      "issuer": "Ethiopian Federal Government",
+      "role": "Prime Minister Abiy Ahmed",
+      "logo": "",
+      "initials": "PM",
+      "title": "Abiy calls for elections in Tigray and accuses Eritrea of arming Ethiopia's adversaries",
+      "quote": "prolong their own survival by sacrificing the youth in large numbers",
+      "points": [
+        "Told parliament that elections should be held in Tigray so residents can choose their leaders. Pledged to restore peace, basic services and aid.",
+        "Accused some Tigrayan political leaders of sending young people to fight to keep power. Said Tigrayans are turning away from armed conflict.",
+        "Accused Eritrea of supplying weapons to Ethiopia's adversaries and of atrocities during the Tigray war. These claims are unverified. Reported by ChimpReports."
+      ],
+      "url": "https://chimpreports.com/abiy-calls-for-swift-elections-in-tigray/"
+    },
     {
       "date": "2026-11-23",
       "cat": "foreign",
